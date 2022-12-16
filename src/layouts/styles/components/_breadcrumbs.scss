@@ -1,0 +1,36 @@
+// ----------------------------------------------------------------------------
+// Breadcrumbs
+// ----------------------------------------------------------------------------
+
+.breadcrumbs {
+  padding: space(1) 0;
+  width: 100%;
+  background-image: linear-gradient(90deg,  #004A94 0%, #003366 100%);
+  font-size: 0.9em;
+  //text-transform: uppercase;
+  color: $cyan;
+  
+  a {
+    display: inline-block;
+    color: $white;
+    transition: all $base-time $base-ease;
+    font-weight: $base-bold-weight;
+
+    &:hover,
+    &:focus {
+      color: $gold; 
+    }
+  }
+
+  .crumb-active {
+    color: $cyan;
+  }
+
+  .crumb {
+    padding: 3px 10px;
+
+    &.crumb-path {
+      padding: 3px 0;
+    }
+  }
+}

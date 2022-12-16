@@ -1,0 +1,45 @@
+{
+  "name": "svrgnty",
+  "description": "Bitcoin for financial sovereignty",
+  "version": "1.0.0",
+  "author": "svrgnty",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "latest",
+    "@fortawesome/free-brands-svg-icons": "latest",
+    "@fortawesome/free-solid-svg-icons": "latest",
+    "@fortawesome/react-fontawesome": "latest",
+    "gatsby": "^4.9.3",
+    "gatsby-cli": "latest",
+    "gatsby-plugin-goatcounter": "latest",
+    "gatsby-plugin-image": "latest",
+    "gatsby-plugin-react-helmet": "latest",
+    "gatsby-plugin-robots-txt": "latest",
+    "gatsby-plugin-sass": "latest",
+    "gatsby-plugin-sharp": "latest",
+    "gatsby-plugin-sitemap": "latest",
+    "gatsby-source-filesystem": "latest",
+    "gatsby-transformer-json": "latest",
+    "gatsby-transformer-sharp": "latest",
+    "html-react-parser": "latest",
+    "mappy-breakpoints": "latest",
+    "react": "latest",
+    "react-burger-menu": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest",
+    "react-share": "latest",
+    "sass": "latest",
+    "serve": "latest"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

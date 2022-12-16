@@ -1,0 +1,108 @@
+// ----------------------------------------------------------------------------
+// Buttons
+// ----------------------------------------------------------------------------
+
+.home-button {
+  display: block;
+  cursor: pointer;
+  user-select: none;
+  transition: all $base-time $base-ease;
+  text-decoration: none;
+  width: 100%;
+  color: $primary-light;
+  background: $bg-light;
+  height: 100%;
+  border-radius: 20px;
+  text-align: center;
+  padding: space(4) space(2);
+  max-width: 420px;
+  margin: 0 auto;
+
+  &:active,
+  &:hover,
+  &:focus {
+    background: $card-bg-hover;
+    color: $primary-light;
+
+    .svg-inline--fa {
+      color: $gold;
+      text-decoration: none;
+      outline: 0;
+    }
+  }
+
+  .svg-inline--fa {
+    height: 1em;
+    color: $light-font-color;
+    transition: all $base-time $base-ease; 
+    margin-bottom: space(2);
+  }
+
+h2 {
+  margin-bottom: space(0.5);
+}
+
+  p {
+    font-size: 1em;
+    margin: 0;
+    color: $base-font-color;
+  }
+}
+
+.home-button-compact {
+  @include typesize(1);
+  display: inline-flex;
+  font-weight: inherit;
+  line-height: inherit;
+  cursor: pointer;
+  user-select: none;
+  //border-top: $unit solid $primary-light;
+  transition: all $base-time $base-ease;
+  text-decoration: none;
+  width: 100%;
+  color: $primary-light;
+  background: $bg-light;
+  //background: $white;
+  height: 100%;
+  border-radius: 20px;
+
+  &:active,
+  &:hover,
+  &:focus {
+    background: $card-bg-hover;
+    color: $primary-light;
+
+    .svg-inline--fa {
+      color: $gold;
+      text-decoration: none;
+      outline: 0;
+    }
+  }
+
+  div {
+    margin: space(4) space(2) space(4) 0;
+  }
+
+  .svg-inline--fa {
+    display:flex; 
+    align-items:center;
+    margin: space(4.6) space(1.4) space(2.5) space(2);
+    height: 1em;
+    color: $light-font-color;
+    transition: all $base-time $base-ease;
+    
+  }
+
+  h2 {
+    @include typesize(1);
+    margin: 0;
+  }
+
+  p {
+    display: block;
+    font-size: 0.6em;
+    margin: 0;
+    color: $base-font-color;
+  }
+}
+

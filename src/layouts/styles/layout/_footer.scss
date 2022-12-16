@@ -1,0 +1,50 @@
+// ----------------------------------------------------------------------------
+// Footer
+// ----------------------------------------------------------------------------
+
+.footer {
+  background-color: $primary-dark;
+  color: $white;
+  font-weight: $extra-bold-weight;
+
+  p {
+    color: lighten($base-font-color, 40%);
+  }
+
+  p, ul {
+    margin-bottom: 0;
+  }
+
+  a {
+    color: $white;
+    transition: all $base-time $base-ease;
+
+    &:hover,
+    &:focus {
+      color: $gold; 
+    }
+  }
+}
+
+.footer-info {
+  text-align: center;
+  border-bottom: 1px solid $primary-light;
+  padding: space(3) 0;
+}
+
+.footer-social {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: space(2) 0;
+
+  li {
+    font-size: 2em;
+    float: left;
+    margin: 0;
+
+    &:not(:first-child) {
+      margin: 0 0 0 0.5em;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+* {
+  border: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  text-decoration: none;
+  text-rendering: optimizeLegibility;
+  list-style: none;
+}
+
+html,
+body {
+  min-height: 100vh;
+  min-width: 100%;
+}

@@ -1,0 +1,27 @@
+.wrapper {
+  margin-top: space(3);
+
+  @include bp(small) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: space(3);
+    margin-top: space(4);
+    
+    li {
+      margin-bottom: 0;
+    }
+  }
+  
+  @include bp(large) {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: space(4);
+    justify-items: stretch;
+    margin-top: space(5);
+
+    li {
+      margin-bottom: 0;
+    }
+  }
+}
+

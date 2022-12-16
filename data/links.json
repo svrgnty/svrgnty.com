@@ -1,0 +1,1562 @@
+[
+  {
+    "page": "/resources/bitcoin/",
+    "title": "What is Bitcoin?",
+    "lead": "Learn more about Bitcoin and how it works.",
+    "description": "Bitcoin is a decentralized, open-source, peer-to-peer digital currency. There's no government, institution (e.g. bank), or other authority that controls it. Transactions of the digital asset, bitcoin, are made with no middle men and are recorded in a public ledger called the blockchain. Sounds confusing? Learn more on how it works.",
+    "icon": "btc",
+    "iconPrefix": "fab",
+    "links": [
+      {
+        "title": "Bitcoin Explained - Illustrated Beginner's Guide",
+        "url": "https://www.upfolio.com/ultimate-bitcoin-guide",
+        "description": "Quick and simple explanations: Discover how Bitcoin works and why it’s so popular.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/upfolio.jpg"
+      },
+      {
+        "title": "Explain Bitcoin Like I’m Five",
+        "url": "https://medium.com/free-code-camp/explain-bitcoin-like-im-five-73b4257ac833",
+        "description": "If you still can’t figure out what the heck a Bitcoin is...",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bitcoin-eli5.jpg"
+      },
+      {
+        "title": "How Bitcoin Actually Works",
+        "url": "https://www.youtube.com/watch?v=6vQB3XGB7ig",
+        "description": "In this video, we take you “under the hood” to understand the basics of what makes bitcoin work. Learn what it means to own bitcoin, to send bitcoin and what mining is all about.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/actually-works.png"
+      },
+      {
+        "title": "What Is Bitcoin?",
+        "url": "https://river.com/learn/what-is-bitcoin/",
+        "description": "Bitcoin is a digital currency that facilitates peer-to-peer transactions. The Bitcoin network is maintained by miners who add blocks to the blockchain. Bitcoin's supply is predetermined and cannot be changed.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/river-learn.png"
+      },
+      {
+        "title": "Introduction to Bitcoin",
+        "url": "https://www.youtube.com/watch?v=l1si5ZWLgy0",
+        "description": "Learn what bitcoin is, why it's different from current systems you already know (like banking), and how it might affect all of us in the future.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/aantonop.jpg"
+      },
+      {
+        "title": "How Bitcoin Works Under the Hood",
+        "url": "https://www.youtube.com/watch?v=Lx9zgZCMqXE",
+        "description": "A somewhat technical explanation of how Bitcoin works.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/hood.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/why-bitcoin/",
+    "title": "Why Bitcoin?",
+    "lead": "The case for Bitcoin.",
+    "icon": "question-circle",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "What is Bitcoin and why does it matter?",
+        "url": "https://www.youtube.com/watch?v=8R584hYKhrYE",
+        "description": "Bitcoin is a revolutionary innovation on par with the printing press and internet.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/why.jpg"
+      },
+      {
+        "title": "The Bullish Case for Bitcoin",
+        "url": "https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1",
+        "description": "The bullish case for Bitcoin is compelling but far from obvious.",
+        "pills": [
+          {
+            "pill": "Audio",
+            "color": "green"
+          },
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bullish.jpeg"
+      },
+      {
+        "title": "Bitcoin, Not Blockchain",
+        "url": "https://unchained.com/blog/bitcoin-not-blockchain/",
+        "description": "Bitcoin and its blockchain are dependent on each other. One does not exist without the other. Bitcoin is the most secure blockchain and blockchains only work for money.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/unchained.png"
+      },
+      {
+        "title": "Can Governments Stop Bitcoin?",
+        "url": "https://quillette.com/2021/02/21/can-governments-stop-bitcoin/",
+        "description": "Bitcoin's worldwide success doesn't mean that people haven't tried to stop Bitcoin.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/governments.png"
+      },
+      {
+        "title": "Dear Family, Dear Friends",
+        "url": "https://dergigi.com/2020/04/27/dear-family-dear-friends/",
+        "description": "A letter to all of you who still have no bitcoin.",
+        "pills": [
+          {
+            "pill": "Audio",
+            "color": "green"
+          },
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/dearfriends.png"
+      },
+      {
+        "title": "Bitcoin Obsoletes All Other Money",
+        "url": "https://unchained.com/blog/bitcoin-obsoletes-all-other-money/",
+        "description": "When it comes to bitcoin adoption, there are generally two rules that never seem to fail. Everyone always feels late, and everyone always wishes they had bought more bitcoin.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/obsolete.png"
+      },
+      {
+        "title": "Bitcoin is Time",
+        "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
+        "description": "Bitcoin is time in more ways than one. Its units are stored time because they are money, and its network is time because it is a decentralized clock.",
+        "pills": [
+          {
+            "pill": "Audio",
+            "color": "green"
+          },
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bitcoin-is-time.png"
+      },
+      {
+        "title": "The Number Zero and Bitcoin",
+        "url": "https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b",
+        "description": "Satoshi gave the world Bitcoin, a true “something for nothing.” His discovery of absolute scarcity for money is an unstoppable idea that is changing the world tremendously.",
+        "pills": [
+          {
+            "pill": "Audio",
+            "color": "green"
+          },
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/zero.png"
+      },
+      {
+        "title": "Bitcoin First",
+        "url": "https://www.fidelitydigitalassets.com/articles/bitcoin-first",
+        "description": "Why Investors Need to Consider Bitcoin Separately From Other Digital Assets.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bitcoinfirst.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/bitcoin-misconceptions/",
+    "title": "Misconceptions",
+    "lead": "Clarifying Bitcoin misconceptions.",
+    "icon": "bullseye",
+    "iconPrefix": "fa",
+    "links": [
+      {
+        "title": "Bitcoin is Protecting Human Rights Around the World",
+        "url": "https://www.youtube.com/watch?v=xLYYh4aPXAM",
+        "description": "&ldquo;It's an escape hatch from tyranny,&rdquo; writes the Human Rights Foundation's Alex Gladstein. &ldquo;It's nothing less than freedom money.&rdquo;",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/humanrights.jpg"
+      },
+      {
+        "title": "The Spiral Book of Bitcoin Mythology",
+        "url": "https://bitcoinmythology.org/",
+        "description": "Since there are no more prominent or prevalent myths about bitcoin than those having to do with its environmental impact, we start there.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bitcoin-mythology.png"
+      },
+      {
+        "title": "Bitcoin is Not for Criminals",
+        "url": "https://unchained.com/blog/bitcoin-is-not-for-criminals/",
+        "description": "Just as the internet is not for drug dealers and terrorists, bitcoin is not for criminals. It is for everyone.",
+        "pills": [
+          {
+            "pill": "Audio",
+            "color": "green"
+          },
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/unchained.png"
+      },
+      {
+        "title": "Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.",
+        "url": "https://www.lynalden.com/bitcoin-energy/",
+        "description": "Bitcoin’s energy usage is a rounding error as far as global energy usage is concerned.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bitcoin-energy.jpg"
+      },
+      {
+        "title": "Demystifying Bitcoin",
+        "url": "https://www.thebword.org/c/track-1-demystifying-bitcoin",
+        "description": "This track aims to correct mainstream narratives about Bitcoin, debunk the most common Bitcoin myths, and offer insights and real-world experiences on its various benefits.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/demystifying-bitcoin.png"
+      },
+      {
+        "title": "This Machine Greens",
+        "url": "https://thismachinegreens.com/",
+        "description": "A film exploring Bitcoin and the future of clean energy production. Find out why Bitcoin is not the first currency to be so closely linked to energy... and why its intriguing design might be a net benefit for the future of decarbonization.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/thismachinegreens.png"
+      },
+      {
+        "title": "Bitcoin Policy Institute",
+        "url": "https://www.btcpolicy.org/",
+        "description": "Interdisciplinary cohort of economists, coders, lawyers, climate scientists, philosophers, and policy analysts providing research, fact-checking, and commentary on bitcoin.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bitcoinpolicyinstitute.png"
+      },
+      {
+        "title": "End the FUD",
+        "url": "https://endthefud.org/",
+        "description": "The best links to articles debunking Bitcoin FUD.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/endthefud.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/lightning/",
+    "title": "What is Lightning?",
+    "lead": "Learn how the Lightning Network works.",
+    "description": "The Lightning Network is a second layer payment protocol that handles bitcoin transactions without the need to verify them on the blockchain. Learn more on how it works.",
+    "icon": "bolt",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Bitcoin's Lightning Network, Simply Explained!",
+        "url": "https://www.youtube.com/watch?v=rrr_zPmEiME",
+        "description": "Bitcoin has a 7 transaction/second limit, so how can we overcome this? The Lightning Network is one of the proposals and in this video I'll explain how it works.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/lightning-eli5.png"
+      },
+      {
+        "title": "Lightning Network",
+        "url": "https://www.coincenter.org/education/key-concepts/lightning-network",
+        "description": "Lightning Network is a protocol for scaling and speeding up blockchains.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/lightning.png"
+      },
+      {
+        "title": "LN.Guide - A Beginners Guide",
+        "url": "https://ln.guide/",
+        "description": "This site aims to help people understand a little more on the mechanics of Lightning and how it interacts with the underlying Bitcoin network.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/lnguide.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/buy-bitcoin/",
+    "title": "Buy Bitcoin",
+    "lead": "Where to easily buy bitcoin.",
+    "description": "KYC (Know Your Customer) is the practice of verifying the identity of clients. If you place a high priority on privacy, you should avoid buying bitcoin that requires KYC, as it means that your identity is tied to your purchases and the wallet addresses where that bitcoin is kept. Your data can be used to track your transactions.",
+    "icon": "bitcoin",
+    "iconPrefix": "fab",
+    "links": [
+      {
+        "title": "Relai",
+        "url": "https://relai.ch",
+        "description": "Investing in bitcoin made easy. Instant start, no deposit, auto invest, no registration, high security.<br><strong>Referral code: REL1080</strong>",
+        "pills": [
+          {
+            "pill": "Switzerland",
+            "color": "blue"
+          },
+          {
+            "pill": "Europe",
+            "color": "purple"
+          },
+          {
+            "pill":"Partial KYC",
+            "color": "orange"
+          }
+        ],
+        "image": "./images/relai.png"
+      },
+      {
+        "title": "Swan Bitcoin",
+        "url": "https://www.swanbitcoin.com",
+        "description": "Swan makes bitcoin investing easy. Buy automatically every week, month, or paycheck, starting with as little as $5.",
+        "pills": [
+          {
+            "pill": "United States",
+            "color": "orange"
+          }, 
+          {
+            "pill":"KYC",
+            "color": "red"
+          }
+        ],
+        "image": "./images/swanbitcoin.png"
+      },
+      {
+        "title": "Kraken",
+        "url": "https://www.kraken.com",
+        "description": "One of the most trusted cryptocurrency exchanges on the market.",
+        "pills": [
+          {
+            "pill": "Global",
+            "color": "black"
+          }, 
+          {
+            "pill":"KYC",
+            "color": "red"
+          }
+        ],
+        "image": "./images/kraken-social.jpg"
+      },
+      {
+        "title": "River Financial",
+        "url": "https://river.com",
+        "description": "River is the premier bitcoin financial institution for the sophisticated investor.",
+        "pills": [
+          {
+            "pill": "United States",
+            "color": "orange"
+          }, 
+          {
+            "pill":"KYC",
+            "color": "red"
+          }
+        ],
+        "image": "./images/riverfinancial.png"
+      },
+      {
+        "title": "Bitstamp",
+        "url": "https://www.bitstamp.net",
+        "description": "Buy and sell bitcoin at the world's longest-standing crypto exchange",
+        "pills": [
+          {
+            "pill": "Global",
+            "color": "black"
+          }, 
+          {
+            "pill":"KYC",
+            "color": "red"
+          }
+        ],
+        "image": "./images/bitstamp.jpg"
+      },
+      {
+        "title": "Bisq - a decentralized bitcoin exchange",
+        "url": "https://bisq.network",
+        "description": "Open-source desktop application that allows you to buy and sell bitcoins in exchange for national currencies.",
+        "pills": [
+          {
+            "pill": "Global",
+            "color": "black"
+          }, 
+          {
+            "pill":"No-KYC",
+            "color": "green"
+          }
+        ],
+        "image": "./images/bisq-og.jpg"
+      },
+      {
+        "title": "Hodl Hodl",
+        "url": "https://www.hodlhodl.com",
+        "description": "A global multisig P2P bitcoin trading platform that doesn't hold funds.",
+        "pills": [
+          {
+            "pill": "Global",
+            "color": "black"
+          }, 
+          {
+            "pill":"No-KYC",
+            "color": "green"
+          }
+        ],
+        "image": "./images/hodlhodl.png"
+      },
+      {
+        "title": "Coin ATM Radar",
+        "url": "https://coinatmradar.com",
+        "description": "Find Bitcoin ATM locations easily with the Bitcoin ATM Map.",
+        "pills": [
+          {
+            "pill": "Global",
+            "color": "black"
+          }, 
+          {
+            "pill":"No-KYC",
+            "color": "green"
+          }
+        ],
+        "image": "./images/coinatmradar.png"
+      },
+      {
+        "title": "SBB Ticket Machine",
+        "url": "https://www.sbb.ch/en/station-services/at-the-station/services-from-the-ticket-machine/bitcoin.html",
+        "description": "You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.",
+        "pills": [
+          {
+            "pill": "Switzerland",
+            "color": "blue"
+          }, 
+          {
+            "pill":"Partial KYC",
+            "color": "orange"
+          }
+        ],
+        "image": "./images/sbb.jpeg"
+      }
+    ]
+  },
+  {
+    "page": "/resources/software-wallets/",
+    "title": "Software Wallets",
+    "lead": "Best software wallets to store your bitcoin.",
+    "description": "Software wallets are non-physical programs (e.g. apps) that store your private keys. Software wallets are more accessible and convenient, but not as secure as hardware wallets. Here are some of best and most secure open-source non-custodial bitcoin wallets.",
+    "icon": "mobile",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "BlueWallet - Bitcoin wallet",
+        "url": "https://bluewallet.io",
+        "description": "A bitcoin wallet for iOS and android. Bitcoin should be fun, usable and for anyone.",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "iOS",
+            "color": "purple"
+          },
+          {
+            "pill": "Desktop",
+            "color": "red"
+          },
+          {
+            "pill": "Bitcoin",
+            "color": "blue"
+          },
+          {
+            "pill": "Lightning",
+            "color": "black"
+          }
+        ],
+        "image": "./images/bluewallet.png"
+      },
+      {
+        "title": "Samourai",
+        "url": "https://samouraiwallet.com",
+        "description": "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds.",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "Bitcoin",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/samourai.png"
+      },
+      {
+        "title": "Blockstream Green",
+        "url": "https://blockstream.com/green",
+        "description": "Blockstream Green is an industry-leading bitcoin wallet, providing Bitcoin users with an unrivaled blend of security and ease-of-use.",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "iOS",
+            "color": "purple"
+          },
+          {
+            "pill": "Desktop",
+            "color": "red"
+          },
+          {
+            "pill": "Bitcoin",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/green-graphic.png"
+      },
+      {
+        "title": "Muun",
+        "url": "https://muun.com",
+        "description": "Muun is a self-custodial wallet for bitcoin and lightning.",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "iOS",
+            "color": "purple"
+          },
+          {
+            "pill": "Lightning",
+            "color": "black"
+          },
+          {
+            "pill": "Bitcoin",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/muun.png"
+      },
+      {
+        "title": "Sparrow Wallet",
+        "url": "https://sparrowwallet.com",
+        "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
+        "pills": [
+          {
+            "pill": "Desktop",
+            "color": "red"
+          },
+          {
+            "pill": "Bitcoin",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/sparrowwallet.png"
+      },
+      {
+        "title": "Zap",
+        "url": "https://zaphq.io/",
+        "description": "Transactions with Zap are inexpensive and instantaneous, unlocking a new natively digital economy never seen before.",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "Lightning",
+            "color": "black"
+          }
+        ],
+        "image": "./images/zap-app.png"
+      },
+      {
+        "title": "Phoenix",
+        "url": "https://phoenix.acinq.co",
+        "description": "The bitcoin wallet from the future, native Lightning support, non custodial, intuitive and simple UX.",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "Lightning",
+            "color": "black"
+          }
+        ],
+        "image": "./images/phoenix.png"
+      },
+      {
+        "title": "Breez",
+        "url": "https://breez.technology",
+        "description": "Lightning Fast Bitcoin Payments",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "iOS",
+            "color": "purple"
+          },
+          {
+            "pill": "Lightning",
+            "color": "black"
+          }
+        ],
+        "image": "./images/breez.png"
+      },
+      {
+        "title": "Electrum Wallet",
+        "url": "https://electrum.org",
+        "description": "One of the most popular bitcoin wallets.",
+        "pills": [
+          {
+            "pill": "Android",
+            "color": "green"
+          },
+          {
+            "pill": "Desktop",
+            "color": "red"
+          },
+          {
+            "pill": "Bitcoin",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/electrum.png"
+      },
+      {
+        "title": "Bitcoin Core Wallet",
+        "url": "https://bitcoin.org/en/download",
+        "description": "Official bitcoin wallet for desktop.",
+        "pills": [
+          {
+            "pill": "Desktop",
+            "color": "red"
+          },
+          {
+            "pill": "Bitcoin",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bitcoin.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/hardware-wallets/",
+    "title": "Hardware Wallets",
+    "lead": "Best hardware wallets to store your bitcoin.",
+    "description": "A hardware wallet is a type of bitcoin wallet that stores your private keys on a specially designed secure physical hardware device. They’re considered safer than software wallets, as the keys are stored offline.",
+    "icon": "microchip",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Trezor",
+        "url": "https://trezor.io",
+        "description": "The original and most secure hardware wallet.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          }
+        ],
+        "image": "./images/trezor.png"
+      },
+      {
+        "title": "Coldcard",
+        "url": "https://coldcardwallet.com",
+        "description": "Coldcard is the ultrasecure bitcoin hardware wallet.",
+        "pills": [
+          {
+            "pill": "Intermediate",
+            "color": "orange"
+          }
+        ],
+        "image": "./images/coldcard.png"
+      },
+      {
+        "title": "Bitbox",
+        "url": "https://shiftcrypto.ch",
+        "description": "Protect your digital assets with the latest Swiss made hardware wallet.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          }
+        ],
+        "image": "./images/bitbox.png"
+      },
+      {
+        "title": "Passport",
+        "url": "https://foundationdevices.com",
+        "description": "Next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          }
+        ],
+        "image": "./images/passport.png"
+      },
+      {
+        "title": "SeedSigner",
+        "url": "https://github.com/SeedSigner/seedsigner",
+        "description": "Use an air-gapped Raspberry Pi Zero to sign for Bitcoin transactions, generate seed word 12/24, or generate a seed phrase from dice rolls.",
+        "pills": [
+          {
+            "pill": "Advanced",
+            "color": "red"
+          }
+        ],
+        "image": "./images/seedsigner.png"
+      },
+      {
+        "title": "Specter DIY Hardware Wallet",
+        "url": "https://specter.solutions",
+        "description": "Specter DIY is an open-source hardware wallet with large touchscreen, a QR-code scanner and a smartcard-reader.",
+        "pills": [
+          {
+            "pill": "Advanced",
+            "color": "red"
+          }
+        ],
+        "image": "./images/specter-diy.jpg"
+      }
+    ]
+  },
+  {
+    "page": "/resources/multisig/",
+    "title": "Multisig Solutions",
+    "lead": "Multi-Signature for enhanced security.",
+    "description": "Multisig, short for multi-signature, is a security protocol that requires at least two keys to authorize a transaction. It can be seen as a lock that only opens with enough keys out of a predefined set of keys. Enhance the security of your bitcoin wallet with multisig.",
+    "icon": "key",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Specter Desktop - Multisig Made Easy",
+        "url": "https://specter.solutions",
+        "description": "Specter Desktop functions as a watch-only coordinator for multi- signature and single-key bitcoin wallets.",
+        "pills": [
+          {
+            "pill": "Intermediate",
+            "color": "orange"
+          },
+          {
+            "pill": "DIY",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/specter-multisig.jpg"
+      },
+      {
+        "title": "Sparrow Wallet",
+        "url": "https://sparrowwallet.com",
+        "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
+        "pills": [
+          {
+            "pill": "Intermediate",
+            "color": "orange"
+          },
+          {
+            "pill": "DIY",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/sparrowwallet.png"
+      },
+      {
+        "title": "Caravan",
+        "url": "https://unchained-capital.github.io/caravan/#/",
+        "description": "Caravan is the easiest Bitcoin multisig wallet you can use right in the browser.",
+        "pills": [
+          {
+            "pill": "Intermediate",
+            "color": "orange"
+          },
+          {
+            "pill": "DIY",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/unchained.png"
+      },
+      {
+        "title": "BlueWallet - Multisig",
+        "url": "https://bluewallet.io",
+        "description": "The most secure Bitcoin technology. Multisig wallets are like a vault, where multiple keys are needed to spend.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          },
+          {
+            "pill": "DIY",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/bluewallet-multisig.png"
+      },
+      {
+        "title": "Casa Keymaster",
+        "url": "https://keys.casa/keymaster",
+        "description": "Casa Keymaster multisig is the safest way to store your bitcoin. Own your keys for total peace of mind.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          },
+          {
+            "pill": "Collaborative",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/casa.png"
+      },
+      {
+        "title": "Unchained Capital Vault",
+        "url": "https://unchained-capital.com/vaults/",
+        "description": "Get enhanced security with an easy-to-use multisig vault solution that leaves you with sovereignty over your keys and bitcoin.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          },
+          {
+            "pill": "Collaborative",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/unchained.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/storage/",
+    "title": "Storage",
+    "lead": "Secure your seeds and hardware wallets.",
+    "description": "Harden your security model and ensure the safety of your seeds and hardware wallets.",
+    "icon": "lock",
+    "iconPrefix": "fas",
+    "links": [    
+      {
+        "title": "SEEDPLATE",
+        "url": "http://bitcoinseedbackup.com",
+        "description": "A better bitcoin seed metal backup plate!",
+        "image": "./images/seedplate.png"
+      },
+      {
+        "title": "Metal Bitcoin Seed Storage Reviews",
+        "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",
+        "description": "Stress tests and reviews of seed storage devices.",
+        "image": "./images/mbssr.png"
+      },
+      {
+        "title": "Blockmit Washer Jig",
+        "url": "https://www.cryptocloaks.com/product/blockmitjig",
+        "description": "The Blockmit jig is perfect for keeping your spacing perfect when punching your own seed phrase into washers.",
+        "image": "./images/blockmit.jpg"
+      },
+      {
+        "title": "Privacy Pros Faraday Bags",
+        "url": "https://privacypros.io/collections/faraday-bags",
+        "description": "Protects electronics from being damaged by radio frequency interference (RFI) or from an electromagnetic pulse (EMP) by not allowing radio frequency or electromagnetic pulse waves to pass through the material.",
+        "image": "./images/privacypros.png"
+      },
+      {
+        "title": "Silent Pocket Faraday Bags",
+        "url": "https://silent-pocket.com",
+        "description": "Wallets, bags, sleeves + more that make your devices invisible to the world.",
+        "image": "./images/silentpocket.png"
+      }  
+    ]
+  },
+  {
+    "page": "/resources/bitcoin-nodes/",
+    "title": "Bitcoin Nodes",
+    "lead": "Run your personal Bitcoin node.",
+    "description": "The Bitcoin network is a decentralized peer-to-peer (P2P) network made up of thousands of nodes. Each node keeps a copy of the Bitcoin blockchain and verifies every single transaction and block. By running a full node you can verify the state of the ledger yourself, rather than trusting a third party. Running a full node also makes the network more robust, making it more decentralized and resistant to certain types of attacks.",
+    "icon": "hdd",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Umbrel",
+        "url": "https://getumbrel.com",
+        "description": "Run your own Bitcoin and Lightning Network node on a Raspberry Pi. Use Bitcoin to its full potential.",
+        "pills": [
+          {
+            "pill": "DIY",
+            "color": "green"
+          }
+        ],
+        "image": "./images/umbrel.png"
+      },
+      {
+        "title": "Citadel",
+        "url": "https://runcitadel.space/",
+        "description": "Citadel allows you to run a Bitcoin Lightning node or a personal server on a Raspberry Pi. Citadel is proudly Free and open-source software (FOSS). Anyone is free to use, copy, study, and change the software in any way.",
+        "pills": [
+          {
+            "pill": "DIY",
+            "color": "green"
+          }
+        ],
+        "image": "./images/runcitadel.png"
+      },
+      {
+        "title": "myNode",
+        "url": "https://mynodebtc.com",
+        "description": "myNode aims to be the easiest way to run a dedicated, easy to use, Bitcoin Node and Lightning wallet.",
+        "pills": [
+          {
+            "pill": "DIY",
+            "color": "green"
+          },
+          {
+            "pill": "Plug & Play",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/mynode.png"
+      },
+      {
+        "title": "RaspiBlitz",
+        "url": "https://shop.fulmo.org/raspiblitz",
+        "description": "The RaspiBlitz is a do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode.",
+        "pills": [
+          {
+            "pill": "DIY",
+            "color": "green"
+          },
+          {
+            "pill": "Plug & Play",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/raspiblitz.png"
+      },
+      {
+        "title": "Start9 Labs - Embassy",
+        "url": "https://start9labs.com",
+        "description": "A radical, uncompromising, plug and play personal server, offering one-click installation and simple configuration of open source software services that run over Tor.",
+        "pills": [
+          {
+            "pill": "DIY",
+            "color": "green"
+          },
+          {
+            "pill": "Plug & Play",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/embassy.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/blockchain-explorers/",
+    "title": "Blockchain Explorers",
+    "lead": "Explore blocks, addresses, and transactions.",
+    "icon": "dice-d6",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Mempool.space",
+        "url": "https://mempool.space",
+        "description": "An open-source explorer developed for the Bitcoin community, focusing on the transition into a multi-layer ecosystem.",
+        "image": "./images/mempool-space.png"
+      },
+      {
+        "title": "Bitcoin Explorer",
+        "url": "https://bitcoinexplorer.org/",
+        "description": "Free, open-source, easy-to-setup, easy-to-use, self-hosted explorer",
+        "image": "./images/bitcoin-explorer.png"
+      },
+      {
+        "title": "OXT",
+        "url": "https://oxt.me",
+        "description": "Exploratory blockchain analysis tool for the Bitcoin blockchain.",
+        "image": "./images/oxt.png"
+      },
+      {
+        "title": "Bitcoin Explorer - Blockstream.info",
+        "url": "https://blockstream.info",
+        "description": "Blockstream Explorer is an open source block explorer providing detailed blockchain data. Supports Tor and tracking-free.",
+        "image": "./images/blockstream-explorer.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/security-privacy/",
+    "title": "Security and Privacy",
+    "lead": "Security and privacy basics.",
+    "icon": "user-secret",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Bitcoin Privacy: Best Practices",
+        "url": "https://www.swanbitcoin.com/bitcoin-privacy-best-practices/",
+        "description": "There is a sacred realm of privacy where essential rights and liberties into which the law, generally speaking, must not intrude.",
+        "image": "./images/privacybestpractices.png"
+      },
+      {
+        "title": "10x Security Bitcoin Guide",
+        "url": "https://btcguide.github.io",
+        "description": "How to store bitcoin without any single point of failure.",
+        "image": "./images/btcguide.png"
+      },
+      {
+        "title": "Bitcoin Security",
+        "url": "https://bitcoinsecurity.guide",
+        "description": "Bitcoin Security Guide - A simple and secure setup for your Bitcoin Self Custody.",
+        "image": "./images/bitcoinsecurity.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/what-is-money/",
+    "title": "Money and Economics",
+    "lead": "The economics of Bitcoin and what defines money.",
+    "icon": "money-bill-wave",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "What is Money, Anyway?",
+        "url": "https://www.lynalden.com/what-is-money",
+        "description": "People spend their lives seeking money, and in some ways it seems so straightforward, and yet what humanity has defined as money has changed significantly over the centuries.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/money-definition-bracket.jpg"
+      },
+      {
+        "title": "Shelling Out: The Origins of Money",
+        "url": "http://nakamotoinstitute.org/shelling-out",
+        "description": "Primitive money was not modern money as we know it.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/shelling-out.png"
+      },
+      {
+        "title": "How The Economic Machine Works by Ray Dalio",
+        "url": "https://www.youtube.com/watch?v=PHe0bXAIuk0",
+        "description": "Breaks down economic concepts like credit, deficits and interest rates, basic driving forces behind the economy, how economic policies work and why economic cycles occur.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/economicmachine.png"
+      },
+      {
+        "title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+        "url": "https://www.youtube.com/watch?v=xguam0TKMw8",
+        "description": "I believe the world is changing in big ways that haven't happened before in our lifetimes but have many times in history, so I knew I needed to study past changes to understand what is happening now and help me to anticipate what is likely to happen.",
+        "pills": [
+          {
+            "pill": "Video",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/changingworlds.png"
+      },
+      {
+        "title": "What Gave Bitcoin Its Value?",
+        "url": "https://fee.org/articles/what-gave-bitcoin-its-value",
+        "description": "Why does this magic Internet money have any value at all?",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/value.png"
+      },
+      {
+        "title": "Crash Course in Bitcoin Political Economy",
+        "url": "https://nakamotoinstitute.org/crash-course/",
+        "description": "Building the case for why Bitcoin will displace all competing currencies, including altcoins, fiat money, and precious metals.",
+        "pills": [
+          {
+            "pill": "Read",
+            "color": "blue"
+          }
+        ],
+        "image": "./images/crashcourse.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/data/",
+    "title": "Charts & Data",
+    "lead": "Bitcoin charts, data, metrics, and reports.",
+    "icon": "chart-line",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "CoinTracking",
+        "url": "https://cointracking.info",
+        "description": "Analyze your trades and generate real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more.",
+        "image": "./images/cointracking.png"
+      },
+      {
+        "title": "Bitcoinal",
+        "url": "https://bitcoinal.com",
+        "description": "Follow the price of Bitcoin in real time with live animations.",
+        "image": "./images/bitcoinal.png"
+      },
+      {
+        "title": "Bitcoinity Markets",
+        "url": "https://bitcoinity.org/markets",
+        "description": "Bitcoinity offers a succinct and graphical overview of the price of bitcoin and market depth on the major bitcoin exchanges.",
+        "image": "./images/bitcoinitymarkets.png"
+      },
+      {
+        "title": "Clark Moody Bitcoin",
+        "url": "https://bitcoin.clarkmoody.com",
+        "description": "Clark Moody presents a suite of real-time bitcoin tools: charts, data, trading, fundamentals, and economics.",
+        "image": "./images/clarkmoody.png"
+      },
+      {
+        "title": "Woobull Charts",
+        "url": "http://charts.woobull.com",
+        "description": "Charts for Bitcoin investors.",
+        "image": "./images/woobull.png"
+      },
+      {
+        "title": "Bitcoinity Data",
+        "url": "http://data.bitcoinity.org",
+        "description": "Markets trading volume, bitcoin price, price + volume, mining difficulty, block size, number of transactions, time between block and hashrate and other useful data.",
+        "image": "./images/bitcoinity.png"
+      },
+      {
+        "title": "Messari",
+        "url": "https://messari.io/asset/bitcoin",
+        "description": "Bitcoin price, news, charts, and research.",
+        "image": "./images/messari.png"
+      },
+      {
+        "title": "Johoe's Bitcoin Mempool Statistics",
+        "url": "https://jochen-hoenicke.de/queue",
+        "description": "This page displays the number and size of the unconfirmed bitcoin transactions, also known as the transactions in the mempool.",
+        "image": "./images/mempool.png"
+      },
+      {
+        "title": "Transactionfee.info",
+        "url": "https://transactionfee.info/charts",
+        "description": "Transaction fees on the Bitcoin network.",
+        "image": "./images/transactionfee.png"
+      },
+      {
+        "title": "CoinMarketCap",
+        "url": "https://coinmarketcap.com/currencies/bitcoin",
+        "description": "Latest bitcoin price, BTC market cap, charts and data.",
+        "image": "./images/coinmarketcap.png"
+      },
+      {
+        "title": "Bitcoin Rich List",
+        "url": "https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html",
+        "description": "Top 100 Richest Bitcoin Addresses. Bitcoin distribution. First Input, Last Input, Number Of Inputs, First Output, Last Output, Number Of Outputs, Balance.",
+        "image": "./images/richlist.png"
+      },
+      {
+        "title": "Bitcoin Treasuries",
+        "url": "https://www.buybitcoinworldwide.com/treasuries/",
+        "description": "Bitcoin treasuries in publicly traded and private companies.",
+        "image": "./images/bitcointreasuries.png"
+      },
+      {
+        "title": "Look into Bitcoin",
+        "url": "https://www.lookintobitcoin.com/charts",
+        "description": "Live Bitcoin charts and information using market cycle and on-chain analysis.",
+        "image": "./images/lookintobitcoin.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/advanced-bitcoin/",
+    "title": "Advanced Bitcoin",
+    "lead": "Dive deep into Bitcoin and learn the details.",
+    "icon": "code",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+        "url": "https://bitcoin.org/bitcoin.pdf",
+        "description": "Satoshi Nakamoto published this paper that describes the bitcoin currency and solves the problem of double spending.",
+        "image": "./images/whitepaper.png"
+      },
+      {
+        "title": "Bitcoin Whitepaper - Audio version",
+        "url": "https://bitcoinaudible.com/the-bitcoin-whitepaper",
+        "description": "The paper that first introduced Bitcoin.",
+        "image": "./images/whitepaper.png"
+      },
+      {
+        "title": "Annotated Bitcoin Whitepaper",
+        "url": "https://fermatslibrary.com/s/bitcoin",
+        "description": "Bitcoin whitepaper annotated by the Fermat’s Library community.",
+        "image": "./images/annotated-fermat.png"
+      },
+      {
+        "title": "Annotated Bitcoin Whitepaper",
+        "url": "https://genius.com/amp/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated",
+        "description": "Bitcoin whitepaper annotated by Coinbase, Balaji Srinivasan, and others.",
+        "image": "./images/annotated.png"
+      },
+      {
+        "title": "Bitcoin Source Code",
+        "url": "https://github.com/bitcoin/bitcoin",
+        "description": "Read the Bitcoin source code.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Bitcoin's Academic Pedigree",
+        "url": "https://queue.acm.org/detail.cfm?id=3136559",
+        "description": "The concept of cryptocurrencies is built from forgotten ideas in research literature.",
+        "image": "./images/academic.png"
+      },
+      {
+        "title": "Bitcoin Core RPC API",
+        "url": "https://masonicboom.github.io/btcrpcapi",
+        "description": "A Map of the Bitcoin Core RPC API across Versions.",
+        "image": "./images/btcrpcapi.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/books/",
+    "title": "Books",
+    "lead": "Recommended books for deeper dive.",
+    "icon": "book-open",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "The Bitcoin Standard",
+        "url": "https://saifedean.com/thebitcoinstandard/",
+        "description": "The Bitcoin Standard analyzes the economic properties that have allowed it to grow quickly, and its likely economic, political, and social implications.",
+        "image": "./images/bitcoinstandard.jpg"
+      },
+      {
+        "title": "Layered Money",
+        "url": "https://www.layeredmoney.com/",
+        "description": "From Gold and Dollars to Bitcoin and Central Bank Digital Currencies.",
+        "image": "./images/layeredmoney.png"
+      },
+      {
+        "title": "21 Lessons",
+        "url": "https://21lessons.com/",
+        "description": "What I've Learned from Falling Down the Bitcoin Rabbit Hole.",
+        "image": "./images/21lessons.png"
+      },
+      {
+        "title": "Bitcoin is Venice",
+        "url": "https://www.amazon.com/Bitcoin-Venice-Essays-Future-Capitalism/dp/B09TTTGT11",
+        "description": "crash course through the errors of modern economic theory and the world's broken fiat currency system with a hopeful destination: Bitcoin Is Venice.",
+        "image": "./images/bitcoinisvenice.png"
+      },
+      {
+        "title": "Digital Gold",
+        "url": "https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X",
+        "description": "Bitcoin and the inside story of the misfits and millionaires trying to reinvent money.",
+        "image": "./images/digitalgold.jpg"
+      },
+      {
+        "title": "Cryptoasset Inheritance Planning",
+        "url": "https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116",
+        "description": "A clear blueprint to inheritance planning for your bitcoin.",
+        "image": "./images/inheritanceplanning.jpg"
+      }
+    ]
+  },
+  {
+    "page": "/resources/social-media/",
+    "title": "Social Media",
+    "lead": "Where to learn more on social media.",
+    "icon": "users",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Bitcoin Twitter",
+        "url": "https://twitter.com/cryptoverted/following",
+        "description": "People to follow on Twitter.",
+        "image": "./images/twitter.png"
+      },
+      {
+        "title": "Bitcoin Twitter Community",
+        "url": "https://hive.one/c/bitcoin",
+        "description": "Algorithmically generated list of the Bitcoin Twitter community.",
+        "image": "./images/hive.png"
+      },
+      {
+        "title": "Bitcoin Reddit Community",
+        "url": "https://www.reddit.com/r/Bitcoin",
+        "description": "A community dedicated to Bitcoin, the currency of the Internet.",
+        "image": "./images/reddit.png"
+      },
+      {
+        "title": "Bitcoin Beginners Reddit Community",
+        "url": "https://www.reddit.com/r/BitcoinBeginners",
+        "description": "On this group beginners can ask questions about Bitcoin.",
+        "image": "./images/reddit.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/tools/",
+    "title": "Wallet Tools",
+    "lead": "Useful bitcoin wallet tools.",
+    "icon": "toolbox",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Wallet Scrutiny",
+        "url": "https://walletscrutiny.com",
+        "description": "The aim of this project is to improve the security of Bitcoin wallets by examining the application code for possible back-doors and other vulnerabilities.",
+        "image": "./images/walletscrutiny.png"
+      },
+      {
+        "title": "Btcrecover",
+        "url": "https://github.com/gurnec/btcrecover",
+        "description": "An open source bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Mnemonic Code Converter",
+        "url": "https://iancoleman.io/bip39/",
+        "description": "A tool for converting BIP39 mnemonic phrases to addresses and private keys.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Bitcoin Extended Public Key Converter",
+        "url": "https://jlopp.github.io/xpub-converter/",
+        "description": "Convert an extended public key from any version to a different version.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Wallets Recovery",
+        "url": "https://walletsrecovery.org/",
+        "description": "Information about wallet defaults for external recovery.",
+        "image": "./images/wallets-recovery.png"
+      },
+      {
+        "title": "HD Wallet Scanner",
+        "url": "https://github.com/alexk111/HD-Wallet-Scanner",
+        "description": "Find all used addresses in your bitcoin hardware wallets bypassing gap limits.",
+        "image": "./images/hdwalletscanner.png"
+      },
+      {
+        "title": "SeedPicker",
+        "url": "https://seedpicker.net",
+        "description": "Construct your own Seed Phrase and calculate the corresponding Extended Public Key.",
+        "image": "./images/seedpicker.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/wallet-recovery/",
+    "title": "Recovery Services",
+    "lead": "Wallet recovery services if you lose access.",
+    "icon": "hands-helping",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Grnqrtr.com",
+        "url": "https://grnqrtr.com",
+        "description": "Bitcoin recovery & more.",
+        "image": "./images/grnqrtr.png"
+      },
+      {
+        "title": "Wallet Recovery Services",
+        "url": "https://walletrecoveryservices.com/",
+        "description": "Recover passwords and corrupted bitcoin wallets.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Wallet Recovery",
+        "url": "https://walletrecovery.info",
+        "description": "Lost your bitcoin wallet? Get your bitcoin wallet back.",
+        "image": "./images/walletrecovery.png"
+      }
+    ]
+  },
+  {
+    "page": "/resources/other/",
+    "title": "Other Resources",
+    "lead": "More resources to learn about bitcoin.",
+    "icon": "info-circle",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "BTC Sessions",
+        "url": "https://www.youtube.com/c/BTCSessions",
+        "description": "BTC Sessions is geared towards helping you understand Bitcoin. Get the tutorials on wallets, hardware, security, exchanges and much more.",
+        "image": "./images/btc-sessions.png"
+      },
+      {
+        "title": "Lopp.net",
+        "url": "http://lopp.net/bitcoin.html",
+        "description": "Jameson's goal is to spread knowledge of crypto systems and liberating technologies.",
+        "image": "./images/lopp.png"
+      },
+      {
+        "title": "Matt Odell",
+        "url": "https://mattodell.keybase.pub",
+        "description": "Matt focuses on bitcoin, distributed systems, and privacy.",
+        "image": "./images/bitcoin.png"
+      },      
+      {
+        "title": "Bitcoin Only",
+        "url": "https://bitcoin-only.com",
+        "description": "Vast collection of links to bitcoin only resources.",
+        "image": "./images/bitcoin-only.png"
+      },
+      {
+        "title": "Bitcoiner.Guide",
+        "url": "https://bitcoiner.guide",
+        "description": "A collection of Bitcoin resources by BitcoinQnA",
+        "image": "./images/bitcoiner.guide.png"
+      },
+      {
+        "title": "Bitcoin Q&A - Simple answers to your Bitcoin questions",
+        "url": "https://www.bitcoinqna.com",
+        "description": "Short and easy to digest answers to your most frequently asked Bitcoin questions.",
+        "image": "./images/bitcoinqna.png"
+      },
+      {
+        "title": "Keep It Simple Bitcoin",
+        "url": "https://www.keepitsimplebitcoin.com",
+        "description": "Practical guides and tutorials to teach people how to interact securely and privately with Bitcoin.",
+        "image": "./images/kisbtc.png"
+      },
+      {
+        "title": "Arman The Parman's free Bitcoin Guides",
+        "url": "https://armantheparman.com/",
+        "description": "This site is dedicated to helping you progress your understanding of Bitcoin.",
+        "image": "./images/arman.png"
+      },
+      {
+        "title": "Btcinformation.org",
+        "url": "https://btcinformation.org",
+        "description": "Find all you need to know and get started with Bitcoin on btcinformation.org.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Bitcoin.org",
+        "url": "https://bitcoin.org",
+        "description": "Find all you need to know and get started with Bitcoin on bitcoin.org.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Bitcoin Intro",
+        "url": "https://bitcoin-intro.com",
+        "description": "Start Using Bitcoin.",
+        "image": "./images/bitcoin.png"
+      },
+      {
+        "title": "Bitcoin Design",
+        "url": "https://bitcoin.design/guide",
+        "description": "The Bitcoin Design Guide is a reference for the design of bitcoin applications.",
+        "image": "./images/bitcoindesign.png"
+      }
+    ]
+  }
+]

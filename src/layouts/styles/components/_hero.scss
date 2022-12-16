@@ -1,0 +1,32 @@
+// ----------------------------------------------------------------------------
+// Hero
+// ----------------------------------------------------------------------------
+
+
+.hero {
+  padding: space(10) 0 space(4);
+  background: url('../../../static/images/space-banner.jpg') #0a0501 center no-repeat;
+  text-align: center;
+  color: $white;
+  position: relative;
+
+  @include bp(small) {
+    padding: space(16) 0 space(12);
+  }
+
+  h1 {
+    margin: 0 auto;
+    display: inline;
+    padding: 0.2em 0.4em;
+    background-color: rgba(#373a47, 0.4);
+    border-radius: 20px;
+  }
+
+  canvas {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}
