@@ -19,7 +19,7 @@ const Footer = () => (
           Privacy policy
         </Link>
         <ul>
-          <li><a href="https://twitter.com/cryptoverted"><FontAwesomeIcon icon={faTwitter} /> <span className="element-invisible">Twitter</span></a></li>
+          <li><a href="https://twitter.com/svrgnty"><FontAwesomeIcon icon={faTwitter} /> <span className="element-invisible">Twitter</span></a></li>
         </ul>
       </div>
     </div>

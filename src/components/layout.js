@@ -17,7 +17,7 @@ const TemplateWrapper = ({ children }) => (
   <Container>
 
     <Helmet
-      title="Bitcoin resources - svrgnty"
+      title="Bitcoin resources - svrgnty.com"
       meta={[
         { name: 'description', content: 'A curated list of the best Bitcoin resources' },
         { name: 'og:type', content: 'website' },
@@ -29,7 +29,7 @@ const TemplateWrapper = ({ children }) => (
         { name: 'og:image', content: 'https://svrgnty.com/images/twitter-website.jpg' },
         { name: 'twitter:image', content: 'https://svrgnty.com/images/twitter-website.jpg' },
         { name: 'og:url', content: 'https://svrgnty.com' },
-        { name: 'twitter:creator', content: '@cryptoverted' },
+        { name: 'twitter:creator', content: '@svrgnty' },
         { name: 'theme-color', content: '#003366' },
       ]}
       link={[

@@ -26,7 +26,7 @@ export default function Template({data}) {
   }
 
   const url = `https://svrgnty.com${pages.page}`;
-  const title = `${pages.title} | Bitcoin Resources - svgnty`;
+  const title = `${pages.title} | Bitcoin Resources - svgnty.com`;
 
   return (
 
