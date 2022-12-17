@@ -35,7 +35,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-goatcounter`,
       options: {
-        code: isProduction ? 'cryptoverted' : 'cryptoverted-dev',
+        code: isProduction ? 'svrgnty' : 'svrgnty-dev',
         allowLocal: !isProduction,
         pixel: true,
       },
