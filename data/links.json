@@ -398,68 +398,20 @@
         "image": "./images/relai.png"
       },
       {
-        "title": "Swan Bitcoin",
-        "url": "https://www.swanbitcoin.com",
-        "description": "Swan makes bitcoin investing easy. Buy automatically every week, month, or paycheck, starting with as little as $5.",
+        "title": "Peach",
+        "url": "https://peachbitcoin.com",
+        "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.<br><strong>Referral code: PR9D17</strong>",
         "pills": [
           {
-            "pill": "United States",
-            "color": "orange"
-          }, 
+            "pill": "Europe",
+            "color": "purple"
+          },
           {
-            "pill":"KYC",
-            "color": "red"
+            "pill":"No-KYC",
+            "color": "green"
           }
         ],
-        "image": "./images/swanbitcoin.png"
-      },
-      {
-        "title": "Kraken",
-        "url": "https://www.kraken.com",
-        "description": "One of the most trusted cryptocurrency exchanges on the market.",
-        "pills": [
-          {
-            "pill": "Global",
-            "color": "black"
-          }, 
-          {
-            "pill":"KYC",
-            "color": "red"
-          }
-        ],
-        "image": "./images/kraken-social.jpg"
-      },
-      {
-        "title": "River Financial",
-        "url": "https://river.com",
-        "description": "River is the premier bitcoin financial institution for the sophisticated investor.",
-        "pills": [
-          {
-            "pill": "United States",
-            "color": "orange"
-          }, 
-          {
-            "pill":"KYC",
-            "color": "red"
-          }
-        ],
-        "image": "./images/riverfinancial.png"
-      },
-      {
-        "title": "Bitstamp",
-        "url": "https://www.bitstamp.net",
-        "description": "Buy and sell bitcoin at the world's longest-standing crypto exchange",
-        "pills": [
-          {
-            "pill": "Global",
-            "color": "black"
-          }, 
-          {
-            "pill":"KYC",
-            "color": "red"
-          }
-        ],
-        "image": "./images/bitstamp.jpg"
+        "image": "./images/peach.jpg"
       },
       {
         "title": "Bisq - a decentralized bitcoin exchange",
@@ -508,6 +460,54 @@
           }
         ],
         "image": "./images/coinatmradar.png"
+      },
+      {
+        "title": "Swan Bitcoin",
+        "url": "https://www.swanbitcoin.com",
+        "description": "Swan makes bitcoin investing easy. Buy automatically every week, month, or paycheck, starting with as little as $5.",
+        "pills": [
+          {
+            "pill": "United States",
+            "color": "orange"
+          }, 
+          {
+            "pill":"KYC",
+            "color": "red"
+          }
+        ],
+        "image": "./images/swanbitcoin.png"
+      },
+      {
+        "title": "Kraken",
+        "url": "https://www.kraken.com",
+        "description": "One of the most trusted cryptocurrency exchanges on the market.",
+        "pills": [
+          {
+            "pill": "Global",
+            "color": "black"
+          }, 
+          {
+            "pill":"KYC",
+            "color": "red"
+          }
+        ],
+        "image": "./images/kraken-social.jpg"
+      },
+      {
+        "title": "River Financial",
+        "url": "https://river.com",
+        "description": "River is the premier bitcoin financial institution for the sophisticated investor.",
+        "pills": [
+          {
+            "pill": "United States",
+            "color": "orange"
+          }, 
+          {
+            "pill":"KYC",
+            "color": "red"
+          }
+        ],
+        "image": "./images/riverfinancial.png"
       },
       {
         "title": "SBB Ticket Machine",
@@ -826,7 +826,7 @@
       {
         "title": "Specter Desktop - Multisig Made Easy",
         "url": "https://specter.solutions",
-        "description": "Specter Desktop functions as a watch-only coordinator for multi- signature and single-key bitcoin wallets.",
+        "description": "Specter Desktop functions as a watch-only coordinator for multi-signature and single-key bitcoin wallets.",
         "pills": [
           {
             "pill": "Intermediate",
@@ -856,20 +856,44 @@
         "image": "./images/sparrowwallet.png"
       },
       {
-        "title": "Caravan",
-        "url": "https://unchained-capital.github.io/caravan/#/",
-        "description": "Caravan is the easiest Bitcoin multisig wallet you can use right in the browser.",
+        "title": "Bitcoin Keeper",
+        "url": "https://www.bitcoinkeeper.app",
+        "description": "A secure bitcoin multi-sig wallet with privacy and inheritance.",
         "pills": [
           {
-            "pill": "Intermediate",
-            "color": "orange"
+            "pill": "Easy",
+            "color": "green"
           },
           {
             "pill": "DIY",
             "color": "blue"
+          },
+          {
+            "pill": "Beta",
+            "color": "red"
           }
         ],
-        "image": "./images/unchained.png"
+        "image": "./images/keeper.png"
+      },
+      {
+        "title": "Nunchuk",
+        "url": "https://nunchuk.io",
+        "description": "A simple multisig self-custody solution for your bitcoin.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          },
+          {
+            "pill": "DIY",
+            "color": "blue"
+          },
+          {
+            "pill": "Beta",
+            "color": "red"
+          }
+        ],
+        "image": "./images/nunchuk.png"
       },
       {
         "title": "BlueWallet - Multisig",
@@ -888,20 +912,20 @@
         "image": "./images/bluewallet-multisig.png"
       },
       {
-        "title": "Casa Keymaster",
-        "url": "https://keys.casa/keymaster",
-        "description": "Casa Keymaster multisig is the safest way to store your bitcoin. Own your keys for total peace of mind.",
+        "title": "Caravan",
+        "url": "https://unchained-capital.github.io/caravan/#/",
+        "description": "Caravan is a Bitcoin multisig wallet you can use right in the browser.",
         "pills": [
           {
-            "pill": "Easy",
-            "color": "green"
+            "pill": "Intermediate",
+            "color": "orange"
           },
           {
-            "pill": "Collaborative",
-            "color": "purple"
+            "pill": "DIY",
+            "color": "blue"
           }
         ],
-        "image": "./images/casa.png"
+        "image": "./images/unchained.png"
       },
       {
         "title": "Unchained Capital Vault",
@@ -918,6 +942,22 @@
           }
         ],
         "image": "./images/unchained.png"
+      },
+      {
+        "title": "Casa Keymaster",
+        "url": "https://keys.casa/keymaster",
+        "description": "Casa Keymaster multisig is the safest way to store your bitcoin. Own your keys for total peace of mind.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          },
+          {
+            "pill": "Collaborative",
+            "color": "purple"
+          }
+        ],
+        "image": "./images/casa.png"
       }
     ]
   },
@@ -929,6 +969,12 @@
     "icon": "lock",
     "iconPrefix": "fas",
     "links": [    
+      {
+        "title": "SmallSeed",
+        "url": "https://smallseed.cc",
+        "description": "Super compact crypto cold storage on stainless steel.",
+        "image": "./images/smallseed.png"
+      },
       {
         "title": "SEEDPLATE",
         "url": "http://bitcoinseedbackup.com",
