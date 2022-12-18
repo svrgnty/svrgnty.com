@@ -403,6 +403,10 @@
         "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.<br><strong>Referral code: PR9D17</strong>",
         "pills": [
           {
+            "pill": "Switzerland",
+            "color": "blue"
+          },
+          {
             "pill": "Europe",
             "color": "purple"
           },
