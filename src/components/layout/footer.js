@@ -8,11 +8,11 @@ const Footer = () => (
   <footer className="footer">
     <div className="contain">
       <div className="footer-info">
-        <p>No affiliate/referral links. Referral codes provided when they benefit the user.</p>
+        <p><strong>No affiliate/referral links.</strong> Referral codes only provided when they benefit the user but there is no requirement to use them.</p>
         <a href="https://paynym.is/+dampmath1f2" className="footer-site">
           https://paynym.is/+dampmath1f2
         </a>
-        <p>Last updated: 17 December 2022</p>
+        <p>Last updated: 18 December 2022</p>
       </div>
       <div className="footer-social">
         <Link to="/privacy-policy/" className="footer-site">

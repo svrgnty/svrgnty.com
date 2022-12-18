@@ -9,7 +9,7 @@ import Footer from './layout/Footer';
 
 import touchImage from '../../static/images/apple-touch-icon.png';
 
-import '../layouts/styles/crypto.scss';
+import '../layouts/styles/svrgnty.scss';
 
 config.autoAddCss = false;
 

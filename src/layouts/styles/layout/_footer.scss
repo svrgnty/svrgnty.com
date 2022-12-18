@@ -5,8 +5,11 @@
 .footer {
   background-color: $primary-dark;
   color: $white;
-  font-weight: $extra-bold-weight;
 
+  strong {
+    font-weight: $extra-bold-weight;
+  }
+  
   p {
     color: lighten($base-font-color, 40%);
   }
