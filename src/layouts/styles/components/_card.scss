@@ -196,7 +196,6 @@
   grid-gap: space(1);
   justify-items: stretch;
   padding: space(1) space(3);
-  //border-top: 2px solid $primary-light;
   background-color: $card-bg-hover;
 
   @include bp(small) {
