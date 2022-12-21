@@ -21,7 +21,7 @@ const NotFoundPage = ({data}) => (
       <p className="lead">You just hit a page that doesn&#39;t exist... the sadness <span role="img" aria-label="saddened">😞</span>.</p>
       <p className="lead">No worries, browse the categries below to continue learning about Bitcoin <span role="img" aria-label="strength">💪</span><span role="img" aria-label="happy">😁</span>.</p>
         <ul className="wrapper">
-          {data.allLinksJson.edges.map((node, i) => (
+          {data.allResourcesJson.edges.map((node, i) => (
             <li key={node.node.id}>
               <Button url={node.node.page} className="home-button-compact">
                 <FontAwesomeIcon icon={[node.node.iconPrefix, node.node.icon]} size="2x" className="fa-fw" />
@@ -41,7 +41,7 @@ const NotFoundPage = ({data}) => (
 
 export const notFoundQuery = graphql`
 query notFoundQuery{
-  allLinksJson {
+  allResourcesJson {
     edges {
       node {
         id

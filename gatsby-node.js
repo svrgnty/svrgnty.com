@@ -6,7 +6,7 @@ exports.createPages = ({actions, graphql}) => {
   const pageTemplate = path.resolve('src/templates/page.js');
 
   return graphql(`{
-    allLinksJson {
+    allResourcesJson {
       edges {
         node {
           page
@@ -20,7 +20,7 @@ exports.createPages = ({actions, graphql}) => {
       return Promise.reject(res.errors);
     }
 
-    res.data.allLinksJson.edges.forEach(({node}) => {
+    res.data.allResourcesJson.edges.forEach(({node}) => {
       createPage({
         path: node.page,
         component: pageTemplate

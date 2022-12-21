@@ -14,8 +14,8 @@ import { fab } from '@fortawesome/free-brands-svg-icons';
 library.add(faCircle, fab, fas);
 
 export default function Template({data}) {
-  const {linksJson: pages} = data;
-  const {allLinksJson: categories} = data;
+  const {resourcesJson: pages} = data;
+  const {allResourcesJson: categories} = data;
 
   var desc = '';
 
@@ -91,7 +91,7 @@ export default function Template({data}) {
 
 export const pageQuery = graphql`
   query PageByPath($path: String!) {
-    linksJson (page: {eq :$path}) {
+    resourcesJson (page: {eq :$path}) {
       page
       title
       lead
@@ -99,7 +99,7 @@ export const pageQuery = graphql`
       cardType
       ...Card_details
     }
-    allLinksJson {
+    allResourcesJson {
       edges {
         node {
           id

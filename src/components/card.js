@@ -93,7 +93,7 @@ class Card extends React.Component {
 
 export default Card
 
-export const CardFragment = graphql`fragment Card_details on LinksJson {
+export const CardFragment = graphql`fragment Card_details on ResourcesJson {
   links {
     title
     url
