@@ -40,11 +40,12 @@ const IndexPage = ({data}) => (
 );
 
 export const indexQuery = graphql`
-query IndexQuery{
-  allResourcesJson {
+query IndexQuery {
+  allResourcesJson(sort: { position: ASC })  {
     edges {
       node {
         id
+        position
         page
         title
         lead

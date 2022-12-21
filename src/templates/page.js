@@ -99,10 +99,11 @@ export const pageQuery = graphql`
       cardType
       ...Card_details
     }
-    allResourcesJson {
+    allResourcesJson(sort: { position: ASC }) {
       edges {
         node {
           id
+          position
           page
           title
           lead
