@@ -12,7 +12,7 @@ const Footer = () => (
         <a href="https://paynym.is/+dampmath1f2" className="footer-site">
           https://paynym.is/+dampmath1f2
         </a>
-        <p>Last updated: 18 December 2022</p>
+        <p>Last updated: 21 December 2022</p>
       </div>
       <div className="footer-social">
         <Link to="/privacy-policy/" className="footer-site">
