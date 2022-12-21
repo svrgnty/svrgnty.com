@@ -1,0 +1,87 @@
+{
+  "page": "/resources/data/",
+  "title": "Charts & Data",
+  "lead": "Bitcoin charts, data, metrics, and reports.",
+  "icon": "chart-line",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "CoinTracking",
+      "url": "https://cointracking.info",
+      "description": "Analyze your trades and generate real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more.",
+      "image": "./../images/cointracking.png"
+    },
+    {
+      "title": "Bitcoinal",
+      "url": "https://bitcoinal.com",
+      "description": "Follow the price of Bitcoin in real time with live animations.",
+      "image": "./../images/bitcoinal.png"
+    },
+    {
+      "title": "Bitcoinity Markets",
+      "url": "https://bitcoinity.org/markets",
+      "description": "Bitcoinity offers a succinct and graphical overview of the price of bitcoin and market depth on the major bitcoin exchanges.",
+      "image": "./../images/bitcoinitymarkets.png"
+    },
+    {
+      "title": "Clark Moody Bitcoin",
+      "url": "https://bitcoin.clarkmoody.com",
+      "description": "Clark Moody presents a suite of real-time bitcoin tools: charts, data, trading, fundamentals, and economics.",
+      "image": "./../images/clarkmoody.png"
+    },
+    {
+      "title": "Woobull Charts",
+      "url": "http://charts.woobull.com",
+      "description": "Charts for Bitcoin investors.",
+      "image": "./../images/woobull.png"
+    },
+    {
+      "title": "Bitcoinity Data",
+      "url": "http://data.bitcoinity.org",
+      "description": "Markets trading volume, bitcoin price, price + volume, mining difficulty, block size, number of transactions, time between block and hashrate and other useful data.",
+      "image": "./../images/bitcoinity.png"
+    },
+    {
+      "title": "Messari",
+      "url": "https://messari.io/asset/bitcoin",
+      "description": "Bitcoin price, news, charts, and research.",
+      "image": "./../images/messari.png"
+    },
+    {
+      "title": "Johoe's Bitcoin Mempool Statistics",
+      "url": "https://jochen-hoenicke.de/queue",
+      "description": "This page displays the number and size of the unconfirmed bitcoin transactions, also known as the transactions in the mempool.",
+      "image": "./../images/mempool.png"
+    },
+    {
+      "title": "Transactionfee.info",
+      "url": "https://transactionfee.info/charts",
+      "description": "Transaction fees on the Bitcoin network.",
+      "image": "./../images/transactionfee.png"
+    },
+    {
+      "title": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/bitcoin",
+      "description": "Latest bitcoin price, BTC market cap, charts and data.",
+      "image": "./../images/coinmarketcap.png"
+    },
+    {
+      "title": "Bitcoin Rich List",
+      "url": "https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html",
+      "description": "Top 100 Richest Bitcoin Addresses. Bitcoin distribution. First Input, Last Input, Number Of Inputs, First Output, Last Output, Number Of Outputs, Balance.",
+      "image": "./../images/richlist.png"
+    },
+    {
+      "title": "Bitcoin Treasuries",
+      "url": "https://www.buybitcoinworldwide.com/treasuries/",
+      "description": "Bitcoin treasuries in publicly traded and private companies.",
+      "image": "./../images/bitcointreasuries.png"
+    },
+    {
+      "title": "Look into Bitcoin",
+      "url": "https://www.lookintobitcoin.com/charts",
+      "description": "Live Bitcoin charts and information using market cycle and on-chain analysis.",
+      "image": "./../images/lookintobitcoin.png"
+    }
+  ]
+}

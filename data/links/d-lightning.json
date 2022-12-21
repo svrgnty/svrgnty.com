@@ -1,0 +1,46 @@
+{
+  "page": "/resources/lightning/",
+  "title": "What is Lightning?",
+  "lead": "Learn how the Lightning Network works.",
+  "description": "The Lightning Network is a second layer payment protocol that handles bitcoin transactions without the need to verify them on the blockchain. Learn more on how it works.",
+  "icon": "bolt",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "Bitcoin's Lightning Network, Simply Explained!",
+      "url": "https://www.youtube.com/watch?v=rrr_zPmEiME",
+      "description": "Bitcoin has a 7 transaction/second limit, so how can we overcome this? The Lightning Network is one of the proposals and in this video I'll explain how it works.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/lightning-eli5.png"
+    },
+    {
+      "title": "Lightning Network",
+      "url": "https://www.coincenter.org/education/key-concepts/lightning-network",
+      "description": "Lightning Network is a protocol for scaling and speeding up blockchains.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/lightning.png"
+    },
+    {
+      "title": "LN.Guide - A Beginners Guide",
+      "url": "https://ln.guide/",
+      "description": "This site aims to help people understand a little more on the mechanics of Lightning and how it interacts with the underlying Bitcoin network.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/lnguide.png"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "page": "/resources/why-bitcoin/",
+  "title": "Why Bitcoin?",
+  "lead": "The case for Bitcoin.",
+  "icon": "question-circle",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "What is Bitcoin and why does it matter?",
+      "url": "https://www.youtube.com/watch?v=8R584hYKhrYE",
+      "description": "Bitcoin is a revolutionary innovation on par with the printing press and internet.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/why.jpg"
+    },
+    {
+      "title": "The Bullish Case for Bitcoin",
+      "url": "https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1",
+      "description": "The bullish case for Bitcoin is compelling but far from obvious.",
+      "pills": [
+        {
+          "pill": "Audio",
+          "color": "green"
+        },
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bullish.jpeg"
+    },
+    {
+      "title": "Bitcoin, Not Blockchain",
+      "url": "https://unchained.com/blog/bitcoin-not-blockchain/",
+      "description": "Bitcoin and its blockchain are dependent on each other. One does not exist without the other. Bitcoin is the most secure blockchain and blockchains only work for money.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/unchained.png"
+    },
+    {
+      "title": "Can Governments Stop Bitcoin?",
+      "url": "https://quillette.com/2021/02/21/can-governments-stop-bitcoin/",
+      "description": "Bitcoin's worldwide success doesn't mean that people haven't tried to stop Bitcoin.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/governments.png"
+    },
+    {
+      "title": "Dear Family, Dear Friends",
+      "url": "https://dergigi.com/2020/04/27/dear-family-dear-friends/",
+      "description": "A letter to all of you who still have no bitcoin.",
+      "pills": [
+        {
+          "pill": "Audio",
+          "color": "green"
+        },
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/dearfriends.png"
+    },
+    {
+      "title": "Bitcoin Obsoletes All Other Money",
+      "url": "https://unchained.com/blog/bitcoin-obsoletes-all-other-money/",
+      "description": "When it comes to bitcoin adoption, there are generally two rules that never seem to fail. Everyone always feels late, and everyone always wishes they had bought more bitcoin.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/obsolete.png"
+    },
+    {
+      "title": "Bitcoin is Time",
+      "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
+      "description": "Bitcoin is time in more ways than one. Its units are stored time because they are money, and its network is time because it is a decentralized clock.",
+      "pills": [
+        {
+          "pill": "Audio",
+          "color": "green"
+        },
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-is-time.png"
+    },
+    {
+      "title": "The Number Zero and Bitcoin",
+      "url": "https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b",
+      "description": "Satoshi gave the world Bitcoin, a true “something for nothing.” His discovery of absolute scarcity for money is an unstoppable idea that is changing the world tremendously.",
+      "pills": [
+        {
+          "pill": "Audio",
+          "color": "green"
+        },
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/zero.png"
+    },
+    {
+      "title": "Bitcoin First",
+      "url": "https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first",
+      "description": "Why Investors Need to Consider Bitcoin Separately From Other Digital Assets.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoinfirst.png"
+    }
+  ]
+}

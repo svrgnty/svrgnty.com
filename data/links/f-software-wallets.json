@@ -1,0 +1,206 @@
+{
+  "page": "/resources/software-wallets/",
+  "title": "Software Wallets",
+  "lead": "Best software wallets to store your bitcoin.",
+  "description": "Software wallets are non-physical programs (e.g. apps) that store your private keys. Software wallets are more accessible and convenient, but not as secure as hardware wallets. Here are some of best and most secure open-source non-custodial bitcoin wallets.",
+  "icon": "mobile",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "BlueWallet - Bitcoin wallet",
+      "url": "https://bluewallet.io",
+      "description": "A bitcoin wallet for iOS and android. Bitcoin should be fun, usable and for anyone.",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "iOS",
+          "color": "purple"
+        },
+        {
+          "pill": "Desktop",
+          "color": "red"
+        },
+        {
+          "pill": "Bitcoin",
+          "color": "blue"
+        },
+        {
+          "pill": "Lightning",
+          "color": "black"
+        }
+      ],
+      "image": "./../images/bluewallet.png"
+    },
+    {
+      "title": "Samourai",
+      "url": "https://samouraiwallet.com",
+      "description": "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds.",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "Bitcoin",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/samourai.png"
+    },
+    {
+      "title": "Blockstream Green",
+      "url": "https://blockstream.com/green",
+      "description": "Blockstream Green is an industry-leading bitcoin wallet, providing Bitcoin users with an unrivaled blend of security and ease-of-use.",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "iOS",
+          "color": "purple"
+        },
+        {
+          "pill": "Desktop",
+          "color": "red"
+        },
+        {
+          "pill": "Bitcoin",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/green-graphic.png"
+    },
+    {
+      "title": "Muun",
+      "url": "https://muun.com",
+      "description": "Muun is a self-custodial wallet for bitcoin and lightning.",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "iOS",
+          "color": "purple"
+        },
+        {
+          "pill": "Lightning",
+          "color": "black"
+        },
+        {
+          "pill": "Bitcoin",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/muun.png"
+    },
+    {
+      "title": "Sparrow Wallet",
+      "url": "https://sparrowwallet.com",
+      "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
+      "pills": [
+        {
+          "pill": "Desktop",
+          "color": "red"
+        },
+        {
+          "pill": "Bitcoin",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/sparrowwallet.png"
+    },
+    {
+      "title": "Zap",
+      "url": "https://zaphq.io/",
+      "description": "Transactions with Zap are inexpensive and instantaneous, unlocking a new natively digital economy never seen before.",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "Lightning",
+          "color": "black"
+        }
+      ],
+      "image": "./../images/zap-app.png"
+    },
+    {
+      "title": "Phoenix",
+      "url": "https://phoenix.acinq.co",
+      "description": "The bitcoin wallet from the future, native Lightning support, non custodial, intuitive and simple UX.",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "Lightning",
+          "color": "black"
+        }
+      ],
+      "image": "./../images/phoenix.png"
+    },
+    {
+      "title": "Breez",
+      "url": "https://breez.technology",
+      "description": "Lightning Fast Bitcoin Payments",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "iOS",
+          "color": "purple"
+        },
+        {
+          "pill": "Lightning",
+          "color": "black"
+        }
+      ],
+      "image": "./../images/breez.png"
+    },
+    {
+      "title": "Electrum Wallet",
+      "url": "https://electrum.org",
+      "description": "One of the most popular bitcoin wallets.",
+      "pills": [
+        {
+          "pill": "Android",
+          "color": "green"
+        },
+        {
+          "pill": "Desktop",
+          "color": "red"
+        },
+        {
+          "pill": "Bitcoin",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/electrum.png"
+    },
+    {
+      "title": "Bitcoin Core Wallet",
+      "url": "https://bitcoin.org/en/download",
+      "description": "Official bitcoin wallet for desktop.",
+      "pills": [
+        {
+          "pill": "Desktop",
+          "color": "red"
+        },
+        {
+          "pill": "Bitcoin",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin.png"
+    }
+  ]
+}

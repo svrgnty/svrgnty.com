@@ -1,0 +1,33 @@
+{
+  "page": "/resources/blockchain-explorers/",
+  "title": "Blockchain Explorers",
+  "lead": "Explore blocks, addresses, and transactions.",
+  "icon": "dice-d6",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "Mempool.space",
+      "url": "https://mempool.space",
+      "description": "An open-source explorer developed for the Bitcoin community, focusing on the transition into a multi-layer ecosystem.",
+      "image": "./../images/mempool-space.png"
+    },
+    {
+      "title": "Bitcoin Explorer",
+      "url": "https://bitcoinexplorer.org/",
+      "description": "Free, open-source, easy-to-setup, easy-to-use, self-hosted explorer",
+      "image": "./../images/bitcoin-explorer.png"
+    },
+    {
+      "title": "OXT",
+      "url": "https://oxt.me",
+      "description": "Exploratory blockchain analysis tool for the Bitcoin blockchain.",
+      "image": "./../images/oxt.png"
+    },
+    {
+      "title": "Bitcoin Explorer - Blockstream.info",
+      "url": "https://blockstream.info",
+      "description": "Blockstream Explorer is an open source block explorer providing detailed blockchain data. Supports Tor and tracking-free.",
+      "image": "./../images/blockstream-explorer.png"
+    }
+  ]
+}

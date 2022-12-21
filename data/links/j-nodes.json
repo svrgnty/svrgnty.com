@@ -1,0 +1,82 @@
+{
+  "page": "/resources/bitcoin-nodes/",
+  "title": "Bitcoin Nodes",
+  "lead": "Run your personal Bitcoin node.",
+  "description": "The Bitcoin network is a decentralized peer-to-peer (P2P) network made up of thousands of nodes. Each node keeps a copy of the Bitcoin blockchain and verifies every single transaction and block. By running a full node you can verify the state of the ledger yourself, rather than trusting a third party. Running a full node also makes the network more robust, making it more decentralized and resistant to certain types of attacks.",
+  "icon": "hdd",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "Umbrel",
+      "url": "https://getumbrel.com",
+      "description": "Run your own Bitcoin and Lightning Network node on a Raspberry Pi. Use Bitcoin to its full potential.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/umbrel.png"
+    },
+    {
+      "title": "Citadel",
+      "url": "https://runcitadel.space/",
+      "description": "Citadel allows you to run a Bitcoin Lightning node or a personal server on a Raspberry Pi. Citadel is proudly Free and open-source software (FOSS). Anyone is free to use, copy, study, and change the software in any way.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/runcitadel.png"
+    },
+    {
+      "title": "myNode",
+      "url": "https://mynodebtc.com",
+      "description": "myNode aims to be the easiest way to run a dedicated, easy to use, Bitcoin Node and Lightning wallet.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/mynode.png"
+    },
+    {
+      "title": "RaspiBlitz",
+      "url": "https://shop.fulmo.org/raspiblitz",
+      "description": "The RaspiBlitz is a do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/raspiblitz.png"
+    },
+    {
+      "title": "Start9 Labs - Embassy",
+      "url": "https://start9labs.com",
+      "description": "A radical, uncompromising, plug and play personal server, offering one-click installation and simple configuration of open source software services that run over Tor.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/embassy.png"
+    }
+  ]
+}

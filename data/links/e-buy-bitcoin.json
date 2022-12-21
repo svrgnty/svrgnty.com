@@ -1,0 +1,162 @@
+{
+  "page": "/resources/buy-bitcoin/",
+  "title": "Buy Bitcoin",
+  "lead": "Where to easily buy bitcoin.",
+  "description": "KYC (Know Your Customer) is the practice of verifying the identity of clients. If you place a high priority on privacy, you should avoid buying bitcoin that requires KYC, as it means that your identity is tied to your purchases and the wallet addresses where that bitcoin is kept. Your data can be used to track your transactions.",
+  "icon": "bitcoin",
+  "iconPrefix": "fab",
+  "links": [
+    {
+      "title": "Relai",
+      "url": "https://relai.app",
+      "description": "Investing in bitcoin made easy. Instant start, no deposit, auto invest, no registration, high security.<br><strong>Referral code: REL1080</strong>",
+      "pills": [
+        {
+          "pill": "Switzerland",
+          "color": "blue"
+        },
+        {
+          "pill": "Europe",
+          "color": "purple"
+        },
+        {
+          "pill":"Partial KYC",
+          "color": "orange"
+        }
+      ],
+      "image": "./../images/relai.png"
+    },
+    {
+      "title": "Peach",
+      "url": "https://peachbitcoin.com",
+      "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.<br><strong>Referral code: PR9D17</strong>",
+      "pills": [
+        {
+          "pill": "Switzerland",
+          "color": "blue"
+        },
+        {
+          "pill": "Europe",
+          "color": "purple"
+        },
+        {
+          "pill":"No-KYC",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/peach.jpg"
+    },
+    {
+      "title": "Bisq - a decentralized bitcoin exchange",
+      "url": "https://bisq.network",
+      "description": "Open-source desktop application that allows you to buy and sell bitcoins in exchange for national currencies.",
+      "pills": [
+        {
+          "pill": "Global",
+          "color": "black"
+        }, 
+        {
+          "pill":"No-KYC",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/bisq-og.jpg"
+    },
+    {
+      "title": "Hodl Hodl",
+      "url": "https://hodlhodl.com",
+      "description": "A global multisig P2P bitcoin trading platform that doesn't hold funds.",
+      "pills": [
+        {
+          "pill": "Global",
+          "color": "black"
+        }, 
+        {
+          "pill":"No-KYC",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/hodlhodl.png"
+    },
+    {
+      "title": "Coin ATM Radar",
+      "url": "https://coinatmradar.com",
+      "description": "Find Bitcoin ATM locations easily with the Bitcoin ATM Map.",
+      "pills": [
+        {
+          "pill": "Global",
+          "color": "black"
+        }, 
+        {
+          "pill":"No-KYC",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/coinatmradar.png"
+    },
+    {
+      "title": "Swan Bitcoin",
+      "url": "https://www.swanbitcoin.com",
+      "description": "Swan makes bitcoin investing easy. Buy automatically every week, month, or paycheck, starting with as little as $5.",
+      "pills": [
+        {
+          "pill": "United States",
+          "color": "orange"
+        }, 
+        {
+          "pill":"KYC",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/swanbitcoin.png"
+    },
+    {
+      "title": "Kraken",
+      "url": "https://www.kraken.com",
+      "description": "One of the most trusted cryptocurrency exchanges on the market.",
+      "pills": [
+        {
+          "pill": "Global",
+          "color": "black"
+        }, 
+        {
+          "pill":"KYC",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/kraken-social.jpg"
+    },
+    {
+      "title": "River Financial",
+      "url": "https://river.com",
+      "description": "River is the premier bitcoin financial institution for the sophisticated investor.",
+      "pills": [
+        {
+          "pill": "United States",
+          "color": "orange"
+        }, 
+        {
+          "pill":"KYC",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/riverfinancial.png"
+    },
+    {
+      "title": "SBB Ticket Machine",
+      "url": "https://www.sbb.ch/en/station-services/at-the-station/services-from-the-ticket-machine/bitcoin.html",
+      "description": "You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.",
+      "pills": [
+        {
+          "pill": "Switzerland",
+          "color": "blue"
+        }, 
+        {
+          "pill":"Partial KYC",
+          "color": "orange"
+        }
+      ],
+      "image": "./../images/sbb.jpeg"
+    }
+  ]
+}

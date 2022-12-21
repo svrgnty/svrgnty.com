@@ -25,3 +25,9 @@
   }
 }
 
+.wrapper.extended{
+  @include bp(small) {
+    grid-template-columns: 1fr;
+  }
+}
+

@@ -1,0 +1,109 @@
+{
+  "page": "/resources/bitcoin-misconceptions/",
+  "title": "Misconceptions",
+  "lead": "Clarifying Bitcoin misconceptions.",
+  "icon": "bullseye",
+  "iconPrefix": "fa",
+  "links": [
+    {
+      "title": "Bitcoin is Protecting Human Rights Around the World",
+      "url": "https://www.youtube.com/watch?v=xLYYh4aPXAM",
+      "description": "&ldquo;It's an escape hatch from tyranny,&rdquo; writes the Human Rights Foundation's Alex Gladstein. &ldquo;It's nothing less than freedom money.&rdquo;",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/humanrights.jpg"
+    },
+    {
+      "title": "The Spiral Book of Bitcoin Mythology",
+      "url": "https://bitcoinmythology.org/",
+      "description": "Since there are no more prominent or prevalent myths about bitcoin than those having to do with its environmental impact, we start there.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-mythology.png"
+    },
+    {
+      "title": "Bitcoin is Not for Criminals",
+      "url": "https://unchained.com/blog/bitcoin-is-not-for-criminals/",
+      "description": "Just as the internet is not for drug dealers and terrorists, bitcoin is not for criminals. It is for everyone.",
+      "pills": [
+        {
+          "pill": "Audio",
+          "color": "green"
+        },
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/unchained.png"
+    },
+    {
+      "title": "Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.",
+      "url": "https://www.lynalden.com/bitcoin-energy/",
+      "description": "Bitcoin’s energy usage is a rounding error as far as global energy usage is concerned.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-energy.jpg"
+    },
+    {
+      "title": "Demystifying Bitcoin",
+      "url": "https://www.thebword.org/c/track-1-demystifying-bitcoin",
+      "description": "This track aims to correct mainstream narratives about Bitcoin, debunk the most common Bitcoin myths, and offer insights and real-world experiences on its various benefits.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/demystifying-bitcoin.png"
+    },
+    {
+      "title": "This Machine Greens",
+      "url": "https://thismachinegreens.com/",
+      "description": "A film exploring Bitcoin and the future of clean energy production. Find out why Bitcoin is not the first currency to be so closely linked to energy... and why its intriguing design might be a net benefit for the future of decarbonization.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/thismachinegreens.png"
+    },
+    {
+      "title": "Bitcoin Policy Institute",
+      "url": "https://www.btcpolicy.org/",
+      "description": "Interdisciplinary cohort of economists, coders, lawyers, climate scientists, philosophers, and policy analysts providing research, fact-checking, and commentary on bitcoin.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoinpolicyinstitute.png"
+    },
+    {
+      "title": "End the FUD",
+      "url": "https://endthefud.org/",
+      "description": "The best links to articles debunking Bitcoin FUD.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/endthefud.png"
+    }
+  ]
+}

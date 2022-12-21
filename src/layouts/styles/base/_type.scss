@@ -98,8 +98,8 @@ h2,
 
 h3,
 .h3 {
-  @include typesize(1);
-  text-transform: uppercase;
+  @include typesize(0);
+  //text-transform: uppercase;
   margin-bottom: space(1);
   line-height: $leading;
 }

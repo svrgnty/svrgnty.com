@@ -1,0 +1,33 @@
+{
+  "page": "/resources/social-media/",
+  "title": "Social Media",
+  "lead": "Where to learn more on social media.",
+  "icon": "users",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "Bitcoin Twitter",
+      "url": "https://twitter.com/svrgnty/following",
+      "description": "People to follow on Twitter.",
+      "image": "./../images/twitter.png"
+    },
+    {
+      "title": "Bitcoin Twitter Community",
+      "url": "https://hive.one/c/bitcoin",
+      "description": "Algorithmically generated list of the Bitcoin Twitter community.",
+      "image": "./../images/hive.png"
+    },
+    {
+      "title": "Bitcoin Reddit Community",
+      "url": "https://www.reddit.com/r/Bitcoin",
+      "description": "A community dedicated to Bitcoin, the currency of the Internet.",
+      "image": "./../images/reddit.png"
+    },
+    {
+      "title": "Bitcoin Beginners Reddit Community",
+      "url": "https://www.reddit.com/r/BitcoinBeginners",
+      "description": "On this group beginners can ask questions about Bitcoin.",
+      "image": "./../images/reddit.png"
+    }
+  ]
+}

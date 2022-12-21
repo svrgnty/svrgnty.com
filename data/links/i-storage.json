@@ -1,0 +1,46 @@
+{
+  "page": "/resources/storage/",
+  "title": "Storage",
+  "lead": "Secure your seeds and hardware wallets.",
+  "description": "Harden your security model and ensure the safety of your seeds and hardware wallets.",
+  "icon": "lock",
+  "iconPrefix": "fas",
+  "links": [    
+    {
+      "title": "SmallSeed",
+      "url": "https://smallseed.cc",
+      "description": "Super compact crypto cold storage on stainless steel.",
+      "image": "./../images/smallseed.png"
+    },
+    {
+      "title": "SEEDPLATE",
+      "url": "http://bitcoinseedbackup.com",
+      "description": "A better bitcoin seed metal backup plate!",
+      "image": "./../images/seedplate.png"
+    },
+    {
+      "title": "Metal Bitcoin Seed Storage Reviews",
+      "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",
+      "description": "Stress tests and reviews of seed storage devices.",
+      "image": "./../images/mbssr.png"
+    },
+    {
+      "title": "Blockmit Washer Jig",
+      "url": "https://www.cryptocloaks.com/product/blockmitjig",
+      "description": "The Blockmit jig is perfect for keeping your spacing perfect when punching your own seed phrase into washers.",
+      "image": "./../images/blockmit.jpg"
+    },
+    {
+      "title": "Privacy Pros Faraday Bags",
+      "url": "https://privacypros.io/collections/faraday-bags",
+      "description": "Protects electronics from being damaged by radio frequency interference (RFI) or from an electromagnetic pulse (EMP) by not allowing radio frequency or electromagnetic pulse waves to pass through the material.",
+      "image": "./../images/privacypros.png"
+    },
+    {
+      "title": "Silent Pocket Faraday Bags",
+      "url": "https://silent-pocket.com",
+      "description": "Wallets, bags, sleeves + more that make your devices invisible to the world.",
+      "image": "./../images/silentpocket.png"
+    }  
+  ]
+}

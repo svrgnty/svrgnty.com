@@ -1,0 +1,82 @@
+{
+  "page": "/resources/bitcoin/",
+  "title": "What is Bitcoin?",
+  "lead": "Learn more about Bitcoin and how it works.",
+  "description": "Bitcoin is a decentralized, open-source, peer-to-peer digital currency. There's no government, institution (e.g. bank), or other authority that controls it. Transactions of the digital asset, bitcoin, are made with no middle men and are recorded in a public ledger called the blockchain. Sounds confusing? Learn more on how it works.",
+  "icon": "btc",
+  "iconPrefix": "fab",
+  "links": [
+    {
+      "title": "Bitcoin Explained - Illustrated Beginner's Guide",
+      "url": "https://www.upfolio.com/ultimate-bitcoin-guide",
+      "description": "Quick and simple explanations: Discover how Bitcoin works and why it’s so popular.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/upfolio.jpg"
+    },
+    {
+      "title": "Explain Bitcoin Like I’m Five",
+      "url": "https://medium.com/free-code-camp/explain-bitcoin-like-im-five-73b4257ac833",
+      "description": "If you still can’t figure out what the heck a Bitcoin is...",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-eli5.jpg"
+    },
+    {
+      "title": "How Bitcoin Actually Works",
+      "url": "https://www.youtube.com/watch?v=6vQB3XGB7ig",
+      "description": "In this video, we take you “under the hood” to understand the basics of what makes bitcoin work. Learn what it means to own bitcoin, to send bitcoin and what mining is all about.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/actually-works.png"
+    },
+    {
+      "title": "What Is Bitcoin?",
+      "url": "https://river.com/learn/what-is-bitcoin/",
+      "description": "Bitcoin is a digital currency that facilitates peer-to-peer transactions. The Bitcoin network is maintained by miners who add blocks to the blockchain. Bitcoin's supply is predetermined and cannot be changed.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/river-learn.png"
+    },
+    {
+      "title": "Introduction to Bitcoin",
+      "url": "https://www.youtube.com/watch?v=l1si5ZWLgy0",
+      "description": "Learn what bitcoin is, why it's different from current systems you already know (like banking), and how it might affect all of us in the future.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/aantonop.jpg"
+    },
+    {
+      "title": "How Bitcoin Works Under the Hood",
+      "url": "https://www.youtube.com/watch?v=Lx9zgZCMqXE",
+      "description": "A somewhat technical explanation of how Bitcoin works.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/hood.png"
+    }
+  ]
+}

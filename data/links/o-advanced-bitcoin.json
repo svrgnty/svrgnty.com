@@ -1,0 +1,51 @@
+{
+  "page": "/resources/advanced-bitcoin/",
+  "title": "Advanced Bitcoin",
+  "lead": "Dive deep into Bitcoin and learn the details.",
+  "icon": "code",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+      "url": "https://bitcoin.org/bitcoin.pdf",
+      "description": "Satoshi Nakamoto published this paper that describes the bitcoin currency and solves the problem of double spending.",
+      "image": "./../images/whitepaper.png"
+    },
+    {
+      "title": "Bitcoin Whitepaper - Audio version",
+      "url": "https://bitcoinaudible.com/the-bitcoin-whitepaper",
+      "description": "The paper that first introduced Bitcoin.",
+      "image": "./../images/whitepaper.png"
+    },
+    {
+      "title": "Annotated Bitcoin Whitepaper",
+      "url": "https://fermatslibrary.com/s/bitcoin",
+      "description": "Bitcoin whitepaper annotated by the Fermat’s Library community.",
+      "image": "./../images/annotated-fermat.png"
+    },
+    {
+      "title": "Annotated Bitcoin Whitepaper",
+      "url": "https://genius.com/amp/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated",
+      "description": "Bitcoin whitepaper annotated by Coinbase, Balaji Srinivasan, and others.",
+      "image": "./../images/annotated.png"
+    },
+    {
+      "title": "Bitcoin Source Code",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Read the Bitcoin source code.",
+      "image": "./../images/bitcoin.png"
+    },
+    {
+      "title": "Bitcoin's Academic Pedigree",
+      "url": "https://queue.acm.org/detail.cfm?id=3136559",
+      "description": "The concept of cryptocurrencies is built from forgotten ideas in research literature.",
+      "image": "./../images/academic.png"
+    },
+    {
+      "title": "Bitcoin Core RPC API",
+      "url": "https://masonicboom.github.io/btcrpcapi",
+      "description": "A Map of the Bitcoin Core RPC API across Versions.",
+      "image": "./../images/btcrpcapi.png"
+    }
+  ]
+}

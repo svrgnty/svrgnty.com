@@ -1,0 +1,146 @@
+{
+  "page": "/resources/multisig/",
+  "title": "Multisig Solutions",
+  "lead": "Multi-Signature for enhanced security.",
+  "description": "Multisig, short for multi-signature, is a security protocol that requires at least two keys to authorize a transaction. It can be seen as a lock that only opens with enough keys out of a predefined set of keys. Enhance the security of your bitcoin wallet with multisig.",
+  "icon": "key",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "Specter Desktop - Multisig Made Easy",
+      "url": "https://specter.solutions",
+      "description": "Specter Desktop functions as a watch-only coordinator for multi-signature and single-key bitcoin wallets.",
+      "pills": [
+        {
+          "pill": "Intermediate",
+          "color": "orange"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/specter-multisig.jpg"
+    },
+    {
+      "title": "Sparrow Wallet",
+      "url": "https://sparrowwallet.com",
+      "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
+      "pills": [
+        {
+          "pill": "Intermediate",
+          "color": "orange"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/sparrowwallet.png"
+    },
+    {
+      "title": "Bitcoin Keeper",
+      "url": "https://www.bitcoinkeeper.app",
+      "description": "A secure bitcoin multi-sig wallet with privacy and inheritance.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        },
+        {
+          "pill": "Beta",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/keeper.png"
+    },
+    {
+      "title": "Nunchuk",
+      "url": "https://nunchuk.io",
+      "description": "A simple multisig self-custody solution for your bitcoin.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        },
+        {
+          "pill": "Beta",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/nunchuk.png"
+    },
+    {
+      "title": "BlueWallet - Multisig",
+      "url": "https://bluewallet.io",
+      "description": "The most secure Bitcoin technology. Multisig wallets are like a vault, where multiple keys are needed to spend.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bluewallet-multisig.png"
+    },
+    {
+      "title": "Caravan",
+      "url": "https://unchained-capital.github.io/caravan/#/",
+      "description": "Caravan is a Bitcoin multisig wallet you can use right in the browser.",
+      "pills": [
+        {
+          "pill": "Intermediate",
+          "color": "orange"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/unchained.png"
+    },
+    {
+      "title": "Unchained Capital Vault",
+      "url": "https://unchained-capital.com/vaults/",
+      "description": "Get enhanced security with an easy-to-use multisig vault solution that leaves you with sovereignty over your keys and bitcoin.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "Collaborative",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/unchained.png"
+    },
+    {
+      "title": "Casa Keymaster",
+      "url": "https://keys.casa/keymaster",
+      "description": "Casa Keymaster multisig is the safest way to store your bitcoin. Own your keys for total peace of mind.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "Collaborative",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/casa.png"
+    }
+  ]
+}

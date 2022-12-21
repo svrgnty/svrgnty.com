@@ -1,0 +1,310 @@
+{
+  "page": "/resources/hardware-wallets/",
+  "title": "Hardware Wallets",
+  "lead": "Best hardware wallets to secure your bitcoin.",
+  "description": "A hardware wallet is a type of bitcoin wallet that stores your private keys on a specially designed secure physical hardware device and/or authorizes spending (signing transactions). They’re considered safer than software wallets, as the keys are stored offline.",
+  "icon": "microchip",
+  "iconPrefix": "fas",
+  "cardType": "extended",
+  "links": [
+    {
+      "title": "Trezor Model One",
+      "url": "https://trezor.io/trezor-model-one",
+      "description": "Cold storage hardware wallet designed to keep your sats safe. As the first bitcoin hardware wallet, it has a proven track record.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "USB",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Firmware available",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Cost",
+          "description": "$$",
+          "category": "orange"
+        }
+      ],
+      "image": "./../images/trezor-model-one.png"
+    },
+    {
+      "title": "Coldcard MK4",
+      "url": "https://coldcardwallet.com",
+      "description": "Coldcard is a bitcoin hardware wallet with dual secure element, many security features, and verifiable seed generation.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Verifiable source code",
+          "category": "orange"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "USB, SD card, NFC",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Multiple security features",
+          "category": "green"
+        },
+        {
+          "label": "Cost",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/coldcard-mk4.png"
+    },
+    {
+      "title": "SeedSigner",
+      "url": "https://seedsigner.com",
+      "description": "Use an air-gapped Raspberry Pi Zero to sign for Bitcoin transactions, generate seed word 12/24, or generate a seed phrase from dice rolls.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Off-the-shelf",
+          "category": "green"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "Camera",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "DIY & Stateless",
+          "category": "orange"
+        },
+        {
+          "label": "Cost",
+          "description": "$",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/seedsigner.png"
+    },
+    {
+      "title": "BitBox02",
+      "url": "https://shiftcrypto.ch",
+      "description": "Simple and secure, Swiss made hardware wallet.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "USB",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Firmware available",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Customer data breach",
+          "category": "orange"
+        },
+        {
+          "label": "Cost",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/bitbox.png"
+    },
+    {
+      "title": "Specter DIY Signer",
+      "url": "https://specter.solutions/hardware/",
+      "description": "Specter DIY is a signer open-source firmware and off-the-shelf hardware, for trust minimized bitcoin self-custody.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Off-the-shelf",
+          "category": "green"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "Camera",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "DIY & Stateless",
+          "category": "orange"
+        },
+        {
+          "label": "Cost",
+          "description": "$$",
+          "category": "orange"
+        }
+      ],
+      "image": "./../images/specter-diy.jpg"
+    },
+    {
+      "title": "Trezor Model T",
+      "url": "https://trezor.io/trezor-model-t",
+      "description": "Cold storage wallet with a touchscreen. Like the Trezor Model One, it's designed with the most resilient security measures built in.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "USB",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Firmware available",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Cost",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/trezor-model-t.png"
+    },
+    {
+      "title": "Blockstream Jade",
+      "url": "https://blockstream.com/jade",
+      "description": "Easy-to-use, purely open-source hardware wallet that offers advanced security for your Bitcoin assets.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source",
+          "category": "orange"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "Camera",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Cost",
+          "description": "$",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/jade.png"
+    },
+    {
+      "title": "Passport",
+      "url": "https://foundationdevices.com",
+      "description": "Crafted from premium materials, and with premium price point.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "Camera, SD card",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Cost",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/passport.png"
+    }
+  ]
+}

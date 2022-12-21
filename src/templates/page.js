@@ -17,12 +17,10 @@ export default function Template({data}) {
   const {linksJson: pages} = data;
   const {allLinksJson: categories} = data;
 
-  var desc;
+  var desc = '';
 
   if (pages.description !== null) {
     desc = <p className="description">{pages.description}</p>;
-  } else {
-    desc = '';
   }
 
   const url = `https://svrgnty.com${pages.page}`;
@@ -53,11 +51,12 @@ export default function Template({data}) {
         <div className="page-content">
         <p className="lead">{pages.lead}</p>
         {desc}
-          <ul className="wrapper">
+          <ul className={"wrapper "+pages.cardType}>
             {pages.links.map((node, key) => (
               <li key={key}>
                 <Card
                 card={node}
+                class={pages.cardType}
                 />
               </li>
             ))}
@@ -97,6 +96,7 @@ export const pageQuery = graphql`
       title
       lead
       description
+      cardType
       ...Card_details
     }
     allLinksJson {
