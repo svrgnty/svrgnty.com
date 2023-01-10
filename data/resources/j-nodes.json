@@ -20,16 +20,20 @@
       "image": "./../images/umbrel.png"
     },
     {
-      "title": "Citadel",
-      "url": "https://runcitadel.space/",
-      "description": "Citadel allows you to run a Bitcoin Lightning node or a personal server on a Raspberry Pi. Citadel is proudly Free and open-source software (FOSS). Anyone is free to use, copy, study, and change the software in any way.",
+      "title": "Start9 Labs - Embassy",
+      "url": "https://start9labs.com",
+      "description": "A radical, uncompromising, plug and play personal server, offering one-click installation and simple configuration of open source software services that run over Tor.",
       "pills": [
         {
           "pill": "DIY",
           "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
         }
       ],
-      "image": "./../images/runcitadel.png"
+      "image": "./../images/embassy.png"
     },
     {
       "title": "myNode",
@@ -64,20 +68,16 @@
       "image": "./../images/raspiblitz.png"
     },
     {
-      "title": "Start9 Labs - Embassy",
-      "url": "https://start9labs.com",
-      "description": "A radical, uncompromising, plug and play personal server, offering one-click installation and simple configuration of open source software services that run over Tor.",
+      "title": "Citadel",
+      "url": "https://runcitadel.space/",
+      "description": "Citadel allows you to run a Bitcoin Lightning node or a personal server on a Raspberry Pi. Citadel is proudly Free and open-source software (FOSS). Anyone is free to use, copy, study, and change the software in any way.",
       "pills": [
         {
           "pill": "DIY",
           "color": "green"
-        },
-        {
-          "pill": "Plug & Play",
-          "color": "blue"
         }
       ],
-      "image": "./../images/embassy.png"
+      "image": "./../images/runcitadel.png"
     }
   ]
 }

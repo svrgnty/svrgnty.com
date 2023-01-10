@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from "gatsby";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons';
+import nostr from '../../../static/images/nostr.png';
 
 
 const Footer = () => (
@@ -12,13 +13,13 @@ const Footer = () => (
         <a href="https://paynym.is/+dampmath1f2" className="footer-site">
           https://paynym.is/+dampmath1f2
         </a>
-        <p>Last updated: 21 December 2022</p>
       </div>
       <div className="footer-social">
         <Link to="/privacy-policy/" className="footer-site">
           Privacy policy
         </Link>
         <ul>
+          <li><a href="https://www.nostr.guru/p/f3b633c30007c2fbedbbd028c2e973066504c15138b22d5c24f16a65f1a90ec4"><img alt="Nostr logo" src={nostr} /> <span className="element-invisible">Nostr</span></a></li>
           <li><a href="https://twitter.com/svrgnty"><FontAwesomeIcon icon={faTwitter} /> <span className="element-invisible">Twitter</span></a></li>
         </ul>
       </div>
