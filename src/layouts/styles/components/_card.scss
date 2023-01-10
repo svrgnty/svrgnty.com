@@ -11,8 +11,9 @@
 
   a {
     position: relative;
-    /*display: block;*/
+    display: block;
     height: 100%;
+    overflow: hidden; /*edge*/
 
     &:hover {
       background: $card-bg-hover;
