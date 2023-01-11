@@ -1,7 +1,7 @@
 import React from 'react';
 import Hero from '../components/layout/hero';
 import Layout from "../components/layout";
-import Breadcrumbs from '../components/layout/Breadcrumbs';
+import Breadcrumbs from '../components/layout/breadcrumbs';
 
 const Privacy = ({data}) => (
   <Layout>

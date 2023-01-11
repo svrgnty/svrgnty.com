@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 import Card from "../components/card";
 import Layout from "../components/layout";
 import Hero from '../components/layout/hero';
-import Breadcrumbs from '../components/layout/Breadcrumbs';
+import Breadcrumbs from '../components/layout/breadcrumbs';
 import Button from '../components/button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';

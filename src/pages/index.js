@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import Hero from '../components/layout/hero';
 import Button from '../components/button';
 import Layout from "../components/layout";
-import Breadcrumbs from '../components/layout/Breadcrumbs';
+import Breadcrumbs from '../components/layout/breadcrumbs';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library} from '@fortawesome/fontawesome-svg-core';
 import { faCircle, fas } from '@fortawesome/free-solid-svg-icons';
