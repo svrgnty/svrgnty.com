@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 19
-      -run: npm ci --legacy-peer-deps
+      - run: npm ci --legacy-peer-deps
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: ${{ secrets.GATSBY_BUILD }}
