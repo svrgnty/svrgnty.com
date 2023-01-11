@@ -1,4 +1,4 @@
-# svrgnty.com
+# Svrgnty.com
 
 A curated list of the best Bitcoin resources.
 

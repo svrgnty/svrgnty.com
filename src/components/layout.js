@@ -6,7 +6,6 @@ import { dom, config } from '@fortawesome/fontawesome-svg-core';
 import Container from './container';
 import Header from './layout/header';
 import Footer from './layout/footer';
-import Analytics from './util/analytics';
 
 import touchImage from '../../static/images/apple-touch-icon.png';
 
@@ -18,12 +17,12 @@ const TemplateWrapper = ({ children }) => (
   <Container>
 
     <Helmet
-      title="Bitcoin resources - svrgnty.com"
+      title="Bitcoin resources | Svrgnty.com"
       meta={[
         { name: 'description', content: 'A curated list of the best Bitcoin resources' },
         { name: 'og:type', content: 'website' },
         { name: 'twitter:card', content:'summary_large_image' },
-        { name: 'og:title', content: 'svrgnty.com' },
+        { name: 'og:title', content: 'Svrgnty.com' },
         { name: 'twitter:title', content: 'Svrgnty.com' },
         { name: 'og:description', content: 'A curated list of the best Bitcoin resources' },
         { name: 'twitter:description', content: 'A curated list of the best Bitcoin resources' },
@@ -47,8 +46,6 @@ const TemplateWrapper = ({ children }) => (
     {children}
 
     <Footer />
-
-    <Analytics />
 
   </Container>
 )

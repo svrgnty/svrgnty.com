@@ -1,4 +1,5 @@
 const path = require(`path`)
+const isProduction = process.env.NODE_ENV === 'production'
 
 module.exports = {
   siteMetadata: {
@@ -30,6 +31,14 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-transformer-json`, 
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-plugin-goatcounter`,
+      options: {
+        code: isProduction ? 'svrgnty' : 'svrgnty-dev',
+        allowLocal: !isProduction,
+        pixel: true,
+      },
+    },
   ],
 }
