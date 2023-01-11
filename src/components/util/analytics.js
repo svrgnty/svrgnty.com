@@ -4,9 +4,9 @@ var site = isProduction ? 'svrgnty' : 'svrgnty-dev'
 
 const Analytics = () => (
 <div>
-  <script>
+  {/* <script>
     window.goatcounter={'no_onload: true'};
-  </script>
+</script> */}
   <script data-goatcounter={"https://"+site+".goatcounter.com/count"} data-goatcounter-settings='{"allow_local": true}' async src="//gc.zgo.at/count.js"></script>
 </div>
 );

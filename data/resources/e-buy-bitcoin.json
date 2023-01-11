@@ -6,6 +6,7 @@
   "description": "KYC (Know Your Customer) is the practice of verifying the identity of clients. If you place a high priority on privacy, you should avoid buying bitcoin that requires KYC, as it means that your identity is tied to your purchases and the wallet addresses where that bitcoin is kept. Your data can be used to track your transactions.",
   "icon": "bitcoin",
   "iconPrefix": "fab",
+  "lastUpdate": "11 January 2023",
   "links": [
     {
       "title": "Relai",

@@ -17,10 +17,14 @@ export default function Template({data}) {
   const {resourcesJson: pages} = data;
   const {allResourcesJson: categories} = data;
 
-  var desc = '';
+  var desc, updated = '';
 
   if (pages.description !== null) {
     desc = <p className="description">{pages.description}</p>;
+  }
+
+  if (pages.lastUpdate !== null) {
+    updated = <p className="updated"> Last Updated: {pages.lastUpdate}</p>;
   }
 
   const url = `https://svrgnty.com${pages.page}`;
@@ -48,19 +52,20 @@ export default function Template({data}) {
       <Breadcrumbs title={pages.title} />
       <div className="main">
         <div className="contain">
-        <div className="page-content">
-        <p className="lead">{pages.lead}</p>
-        {desc}
-          <ul className={"wrapper "+pages.cardType}>
-            {pages.links.map((node, key) => (
-              <li key={key}>
-                <Card
-                card={node}
-                class={pages.cardType}
-                />
-              </li>
-            ))}
-          </ul>
+          <div className="page-content">
+          <p className="lead">{pages.lead}</p>
+          {desc}
+            <ul className={"wrapper "+pages.cardType}>
+              {pages.links.map((node, key) => (
+                <li key={key}>
+                  <Card
+                  card={node}
+                  class={pages.cardType}
+                  />
+                </li>
+              ))}
+            </ul>
+          {updated}
           </div>
         </div>
       </div>
@@ -97,6 +102,7 @@ export const pageQuery = graphql`
       lead
       description
       cardType
+      lastUpdate
       ...Card_details
     }
     allResourcesJson(sort: { position: ASC }) {
