@@ -4,9 +4,9 @@ import Helmet from 'react-helmet';
 import { dom, config } from '@fortawesome/fontawesome-svg-core';
 
 import Container from './container';
-import Header from '../components/layout/Header';
-import Footer from '../components/layout/Footer';
-import Analytics from '../components/util/Analytics';
+import Header from './layout/Header';
+import Footer from './layout/Footer';
+import Analytics from './util/Analytics';
 
 import touchImage from '../../static/images/apple-touch-icon.png';
 

@@ -8,6 +8,7 @@
     "@fortawesome/free-brands-svg-icons": "latest",
     "@fortawesome/free-solid-svg-icons": "latest",
     "@fortawesome/react-fontawesome": "latest",
+    "fs": "^0.0.1-security",
     "gatsby": "^5.3.2",
     "gatsby-cli": "latest",
     "gatsby-plugin-image": "latest",
