@@ -15,4 +15,5 @@ jobs:
           node-version: 18
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
+          access-token: ${{ secrets.GATSBY_BUILD }}
           deploy-branch: gh-pages
