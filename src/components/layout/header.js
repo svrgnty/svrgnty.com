@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "gatsby";
 
-import Share from '../Share';
+import Share from '../share';
 import logo from '../../../static/images/logo.png';
 
 const Header = () => (
