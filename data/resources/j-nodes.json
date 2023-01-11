@@ -75,6 +75,10 @@
         {
           "pill": "DIY",
           "color": "green"
+        },
+        {
+          "pill": "Beta",
+          "color": "red"
         }
       ],
       "image": "./../images/runcitadel.png"

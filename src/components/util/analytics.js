@@ -1,7 +1,6 @@
 import React from 'react';
 const isProduction = process.env.NODE_ENV === 'production'
 var site = isProduction ? 'svrgnty' : 'svrgnty-dev'
-var pathname = 'test';
 
 const Analytics = () => (
 <div>
