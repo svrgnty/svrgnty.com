@@ -32,7 +32,7 @@
     "serve": "latest"
   },
   "engines": {
-    "node": "latest"
+    "node": "v19.3.0"
   },
   "keywords": [
     "bitcoin"
