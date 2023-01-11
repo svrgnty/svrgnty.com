@@ -10,7 +10,6 @@
     "@fortawesome/react-fontawesome": "latest",
     "gatsby": "^5.3.2",
     "gatsby-cli": "latest",
-    "gatsby-plugin-goatcounter": "^0.4.0",
     "gatsby-plugin-image": "latest",
     "gatsby-plugin-react-helmet": "latest",
     "gatsby-plugin-robots-txt": "latest",

@@ -6,6 +6,7 @@ import { dom, config } from '@fortawesome/fontawesome-svg-core';
 import Container from './container';
 import Header from './layout/Header';
 import Footer from './layout/Footer';
+import Analytics from './util/Analytics';
 
 import touchImage from '../../static/images/apple-touch-icon.png';
 
@@ -23,7 +24,7 @@ const TemplateWrapper = ({ children }) => (
         { name: 'og:type', content: 'website' },
         { name: 'twitter:card', content:'summary_large_image' },
         { name: 'og:title', content: 'svrgnty.com' },
-        { name: 'twitter:title', content: 'Svrgnty' },
+        { name: 'twitter:title', content: 'Svrgnty.com' },
         { name: 'og:description', content: 'A curated list of the best Bitcoin resources' },
         { name: 'twitter:description', content: 'A curated list of the best Bitcoin resources' },
         { name: 'og:image', content: 'https://svrgnty.com/images/twitter-website.jpg' },
@@ -46,6 +47,8 @@ const TemplateWrapper = ({ children }) => (
     {children}
 
     <Footer />
+
+    <Analytics />
 
   </Container>
 )

@@ -43,9 +43,29 @@
         {
           "pill":"No-KYC",
           "color": "green"
+        },
+        {
+          "pill": "Beta",
+          "color": "red"
         }
       ],
       "image": "./../images/peach.jpg"
+    },
+    {
+      "title": "Robosats",
+      "url": "https://learn.robosats.com",
+      "description": "A simple and private way to exchange bitcoin for national currencies over lightning.",
+      "pills": [
+        {
+          "pill": "Global",
+          "color": "black"
+        }, 
+        {
+          "pill":"No-KYC",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/robosats.png"
     },
     {
       "title": "Bisq - a decentralized bitcoin exchange",
@@ -112,22 +132,6 @@
       "image": "./../images/swanbitcoin.png"
     },
     {
-      "title": "Kraken",
-      "url": "https://www.kraken.com",
-      "description": "One of the most trusted cryptocurrency exchanges on the market.",
-      "pills": [
-        {
-          "pill": "Global",
-          "color": "black"
-        }, 
-        {
-          "pill":"KYC",
-          "color": "red"
-        }
-      ],
-      "image": "./../images/kraken-social.jpg"
-    },
-    {
       "title": "River Financial",
       "url": "https://river.com",
       "description": "River is the premier bitcoin financial institution for the sophisticated investor.",
@@ -158,6 +162,22 @@
         }
       ],
       "image": "./../images/sbb.jpeg"
+    },
+    {
+      "title": "Kraken",
+      "url": "https://www.kraken.com",
+      "description": "One of the most trusted cryptocurrency exchanges on the market.",
+      "pills": [
+        {
+          "pill": "Global",
+          "color": "black"
+        }, 
+        {
+          "pill":"KYC",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/kraken-social.jpg"
     }
   ]
 }
