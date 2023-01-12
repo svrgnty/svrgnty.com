@@ -7,12 +7,6 @@
   "iconPrefix": "fas",
   "links": [
     {
-      "title": "CoinTracking",
-      "url": "https://cointracking.info",
-      "description": "Analyze your trades and generate real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more.",
-      "image": "./../images/cointracking.png"
-    },
-    {
       "title": "Bitcoinal",
       "url": "https://bitcoinal.com",
       "description": "Follow the price of Bitcoin in real time with live animations.",

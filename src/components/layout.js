@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+//import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { dom, config } from '@fortawesome/fontawesome-svg-core';
 
@@ -49,9 +49,9 @@ const TemplateWrapper = ({ children }) => (
 
   </Container>
 )
-
+/*
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
 }
-
+*/
 export default TemplateWrapper

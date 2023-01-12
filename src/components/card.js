@@ -25,8 +25,8 @@ class Card extends React.Component {
     if (pills !== null) {
       showPill =
       <ul className="pills">
-        {pills.map((pill) => (
-          <li key={pill.id}>
+        {pills.map((pill, i) => (
+          <li key={i}>
             <span className={"pill "+pill.color}>{pill.pill}</span>
           </li>
         ))}
@@ -41,8 +41,8 @@ class Card extends React.Component {
       if (details !== null) {
         cardDetails=
           <div className={"card-details card-details--"+details.length}>
-            {details.map((detail) => (
-              <div className="card-detail" key={detail.id}>
+            {details.map((detail, i) => (
+              <div className="card-detail" key={i}>
                 <h3>{detail.label}</h3>
                 <p className={"category "+detail.category}>{parse(detail.description)}</p>
               </div>
