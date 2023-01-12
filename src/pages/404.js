@@ -10,6 +10,17 @@ import { faCircle, fas } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 
 library.add(faCircle, fab, fas);
+import { dom, config } from '@fortawesome/fontawesome-svg-core';
+
+config.autoAddCss = false;
+
+export const Head = () => (
+  <>
+    <title>404 | Svrgnty.com</title>
+    <meta name="theme-color" content="#003366" />
+    <style type="text/css">{dom.css()}</style>
+  </>
+)
 
 const NotFoundPage = ({data}) => (
   <Layout>

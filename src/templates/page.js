@@ -1,17 +1,40 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import Helmet from 'react-helmet'
 import Card from "../components/card";
 import Layout from "../components/layout";
 import Hero from '../components/layout/hero';
 import Breadcrumbs from '../components/layout/breadcrumbs';
 import Button from '../components/button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { library } from '@fortawesome/fontawesome-svg-core';
+import { library, dom, config } from '@fortawesome/fontawesome-svg-core';
 import { faCircle, fas } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 
 library.add(faCircle, fab, fas);
+config.autoAddCss = false;
+
+export const Head = ({children, data}) => {
+  const {resourcesJson: pages} = data;
+  return <>
+    <title>{pages.title+" | Bitcoin Resources | Svrgnty.com"}</title>
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="og:title" content={pages.title+" | Bitcoin Resources | Svrgnty.com"} />
+    <meta name="twitter:title" content={pages.title+" | Bitcoin Resources | Svrgnty.com"} />
+    <meta name="description" content={pages.lead} />
+    <meta name="og:description" content={pages.lead} />
+    <meta name="twitter:description" content={pages.lead} />
+    <meta name="og:image" content={`https://svrgnty.com/images/twitter-website.jpg`} />
+    <meta name="twitter:image" content={`https://svrgnty.com/images/twitter-website.jpg`} />
+    <meta name="og:url" content={"https://svrgnty.com"+pages.page} />
+    <link rel="canonical" href={"https://svrgnty.com"+pages.page} />
+    <meta name="twitter:creator" content="@svrgnty" />
+    <meta name="theme-color" content="#003366" />
+    <link rel="apple-touch-icon" href={'/images/apple-touch-icon.png'} />
+    <style type="text/css">{dom.css()}</style>
+    {children}
+  </>
+}
 
 export default function Template({data}) {
   const {resourcesJson: pages} = data;
@@ -27,26 +50,8 @@ export default function Template({data}) {
     updated = <p className="updated"> Last Updated: {pages.lastUpdate}</p>;
   }
 
-  const url = `https://svrgnty.com${pages.page}`;
-  const title = `${pages.title} | Bitcoin Resources | Svrgnty.com`;
-
   return (
-
     <Layout>
-    <Helmet 
-      title={ title }
-      meta={[
-        { name: 'description', content: `${pages.lead}` },
-        { name: 'og:title', content: title },
-        { name: 'twitter:title', content: title },
-        { name: 'og:description', content: `${pages.lead}` },
-        { name: 'twitter:description', content: `${pages.lead}` },
-        { name: 'og:url', content: url },
-      ]}
-      link={[
-        { rel: 'canonical', href: url },
-      ]}
-    />
     <div>
       <Hero title={pages.title} />
       <Breadcrumbs title={pages.title} />
