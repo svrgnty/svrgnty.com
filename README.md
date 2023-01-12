@@ -26,9 +26,19 @@ npm run serve
 ```
 
 #### Build fails 
-Delete cache
+Delete cache and reinstall modules
 ```sh
-rm -rf .cache
+gatsby clean
+rm -rf node_modules
+rm package-lock.json
+npm install
+npm run develop
+```
+
+#### Update dependency versions
+Bump package.json dependencies to newest versions. Requires [npm-check-updates](https://www.npmjs.com/package/npm-check-updates).
+```sh
+ncu -u
 ```
 
 #### Gatsby website is missing or version updates
