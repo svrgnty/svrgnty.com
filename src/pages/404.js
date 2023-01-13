@@ -6,19 +6,15 @@ import Layout from "../components/layout";
 import Breadcrumbs from '../components/layout/breadcrumbs';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { faCircle, fas } from '@fortawesome/free-solid-svg-icons';
+import { fas } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 
-library.add(faCircle, fab, fas);
-import { dom, config } from '@fortawesome/fontawesome-svg-core';
-
-config.autoAddCss = false;
+library.add(fab, fas);
 
 export const Head = () => (
   <>
     <title>404 | Svrgnty.com</title>
     <meta name="theme-color" content="#003366" />
-    <style type="text/css">{dom.css()}</style>
   </>
 )
 
@@ -26,7 +22,7 @@ const NotFoundPage = ({data}) => (
   <Layout>
   <div>
     <Hero title="404: NOT FOUND" />
-    <Breadcrumbs title="🤯" />
+    <Breadcrumbs title="404: Not Found" />
     <div className="main">
       <div className="contain">
       <p className="lead">You just hit a page that doesn&#39;t exist... the sadness <span role="img" aria-label="saddened">😞</span>.</p>
@@ -52,7 +48,7 @@ const NotFoundPage = ({data}) => (
 
 export const notFoundQuery = graphql`
 query notFoundQuery{
-  allResourcesJson {
+  allResourcesJson(sort: { position: ASC }) {
     edges {
       node {
         id

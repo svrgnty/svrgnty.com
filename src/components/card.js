@@ -4,7 +4,7 @@ import { GatsbyImage } from "gatsby-plugin-image";
 import { graphql } from 'gatsby';
 import parse from 'html-react-parser';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faChevronCircleRight, faLongArrowAltRight } from '@fortawesome/free-solid-svg-icons';
+import { icon } from '@fortawesome/fontawesome-svg-core/import.macro';
 
 class Card extends React.Component {
   static propTypes = {
@@ -73,7 +73,7 @@ class Card extends React.Component {
               alt=""
               className="card-image" />
           </div>
-          <div className="card-context--feedback"><FontAwesomeIcon icon={faChevronCircleRight} size="4x" /></div>
+          <div className="card-context--feedback"><FontAwesomeIcon icon={icon({name: 'chevron-circle-right', style: 'solid'})} size="4x" /></div>
           {showPill}
         </div>
 
@@ -82,7 +82,7 @@ class Card extends React.Component {
             {title}
           </h2>
           <p>{lens}</p>
-          <FontAwesomeIcon icon={faLongArrowAltRight} />
+          <FontAwesomeIcon icon={icon({name: 'long-arrow-alt-right', style: 'solid'})} />
         </div>
       </a>
       {cardDetails}

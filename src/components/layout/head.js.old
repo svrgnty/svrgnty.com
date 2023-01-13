@@ -1,7 +1,4 @@
 import React from 'react';
-import { dom, config } from '@fortawesome/fontawesome-svg-core';
-
-config.autoAddCss = false;
 
 const Head = () => (
   <>
@@ -20,7 +17,6 @@ const Head = () => (
     <meta name="theme-color" content="#003366" />
     <link rel="canonical" href="https://svrgnty.com" />
     <link rel="apple-touch-icon" href={'/images/apple-touch-icon.png'} />
-    <style type="text/css">{dom.css()}</style>
   </>
 )
 

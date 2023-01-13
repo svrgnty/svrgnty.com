@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link } from "gatsby";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons';
-import nostr from '../../../static/images/nostr.png';
+import { brands } from '@fortawesome/fontawesome-svg-core/import.macro'
 
 
 const Footer = () => (
@@ -19,8 +18,9 @@ const Footer = () => (
           Privacy policy
         </Link>
         <ul>
-          <li><a href="https://www.nostr.guru/p/f3b633c30007c2fbedbbd028c2e973066504c15138b22d5c24f16a65f1a90ec4"><img alt="Nostr logo" src={nostr} /> <span className="element-invisible">Nostr</span></a></li>
-          <li><a href="https://twitter.com/svrgnty"><FontAwesomeIcon icon={faTwitter} /> <span className="element-invisible">Twitter</span></a></li>
+          <li><a href="https://github.com/svrgnty/svrgnty.com"><FontAwesomeIcon icon={brands('github')} /> <span className="element-invisible">Github</span></a></li>
+          <li><a href="https://www.nostr.guru/p/f3b633c30007c2fbedbbd028c2e973066504c15138b22d5c24f16a65f1a90ec4"><img alt="Nostr logo" src={'/images/nostr.png'} /> <span className="element-invisible">Nostr</span></a></li>
+          <li><a href="https://twitter.com/svrgnty"><FontAwesomeIcon icon={brands('twitter')} /> <span className="element-invisible">Twitter</span></a></li>
         </ul>
       </div>
     </div>

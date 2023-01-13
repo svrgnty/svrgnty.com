@@ -6,14 +6,13 @@ import Hero from '../components/layout/hero';
 import Breadcrumbs from '../components/layout/breadcrumbs';
 import Button from '../components/button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { library, dom, config } from '@fortawesome/fontawesome-svg-core';
-import { faCircle, fas } from '@fortawesome/free-solid-svg-icons';
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fas } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 
-library.add(faCircle, fab, fas);
-config.autoAddCss = false;
+library.add(fab, fas);
 
-export const Head = ({children, data}) => {
+export const Head = ({data}) => {
   const {resourcesJson: pages} = data;
   return <>
     <title>{pages.title+" | Bitcoin Resources | Svrgnty.com"}</title>
@@ -31,8 +30,6 @@ export const Head = ({children, data}) => {
     <meta name="twitter:creator" content="@svrgnty" />
     <meta name="theme-color" content="#003366" />
     <link rel="apple-touch-icon" href={'/images/apple-touch-icon.png'} />
-    <style type="text/css">{dom.css()}</style>
-    {children}
   </>
 }
 

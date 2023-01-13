@@ -5,12 +5,11 @@ import Button from '../components/button';
 import Layout from "../components/layout";
 import Breadcrumbs from '../components/layout/breadcrumbs';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { library, dom, config } from '@fortawesome/fontawesome-svg-core';
-import { faCircle, fas } from '@fortawesome/free-solid-svg-icons';
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fas } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 
-library.add(faCircle, fab, fas);
-config.autoAddCss = false;
+library.add(fab, fas);
 
 export const Head = () => (
   <>
@@ -29,7 +28,6 @@ export const Head = () => (
     <meta name="theme-color" content="#003366" />
     <link rel="canonical" href="https://svrgnty.com" />
     <link rel="apple-touch-icon" href={'/images/apple-touch-icon.png'} />
-    <style type="text/css">{dom.css()}</style>
   </>
 )
 

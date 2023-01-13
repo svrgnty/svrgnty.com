@@ -2,9 +2,6 @@ import React from 'react';
 import Hero from '../components/layout/hero';
 import Layout from "../components/layout";
 import Breadcrumbs from '../components/layout/breadcrumbs';
-import { dom, config } from '@fortawesome/fontawesome-svg-core';
-
-config.autoAddCss = false;
 
 export const Head = () => (
   <>
@@ -12,7 +9,6 @@ export const Head = () => (
     <meta name="theme-color" content="#003366" />
     <link rel="canonical" href="https://svrgnty.com/privacy-policy" />
     <link rel="apple-touch-icon" href={'/images/apple-touch-icon.png'} />
-    <style type="text/css">{dom.css()}</style>
   </>
 )
 
