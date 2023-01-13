@@ -3,7 +3,8 @@
   "page": "/resources/hardware-wallets/",
   "title": "Hardware Wallets",
   "lead": "Best hardware wallets to secure your bitcoin.",
-  "description": "A hardware wallet is a type of bitcoin wallet that stores your private keys on a specially designed secure physical hardware device and/or authorizes spending (signing transactions). They’re considered safer than software wallets, as the keys are stored offline.",
+  "description": "A hardware wallet is a type of bitcoin wallet that stores your private keys on a specially designed secure physical hardware device and/or authorizes spending (signing transactions).",
+  "body": "<p>Hardware wallets remain the best method to secure your assets. While some key features and tradeoffs are highlighted for the hardware wallets and signing devices below, they are all excellent devices. Should you decide to purchase or build one, consider your needs when selecting one.</p><ul class='list'><li><strong>Firmware</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Hardware</strong>: There are currently no open-source secure elements, though the is an initiative by <a href='https://tropicsquare.com/' target='_blank'>Tropic Square</a> to create one.</li><li><strong>Air-Gapped</strong>: This means the device is never connected directly to an internet enabled device. This reduces the possibility of attacks.</li><li><strong>Bitcoin-Only</strong>: Devices that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Additional Information</strong>: Information on the device.</li><li><strong>Price</strong>: Below $60 USD ($) is a good entry point for a device, between $60-$120 USD ($$) is an average price, above $120 USD ($$$) is a premium device.</li></ul>",
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
@@ -149,11 +150,6 @@
           "category": "orange"
         },
         {
-          "label": "Additional Info",
-          "description": "Customer data breach",
-          "category": "orange"
-        },
-        {
           "label": "Cost",
           "description": "$$$",
           "category": "red"
@@ -164,7 +160,7 @@
     {
       "title": "Specter DIY Signer",
       "url": "https://specter.solutions/hardware/",
-      "description": "Specter DIY is a signer open-source firmware and off-the-shelf hardware, for trust minimized bitcoin self-custody.",
+      "description": "Specter DIY is a signer with open-source firmware and off-the-shelf hardware, for trust minimized bitcoin self-custody.",
       "details" : [
         {
           "label": "Firmware",

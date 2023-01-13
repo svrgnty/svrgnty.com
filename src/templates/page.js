@@ -5,6 +5,7 @@ import Layout from "../components/layout";
 import Hero from '../components/layout/hero';
 import Breadcrumbs from '../components/layout/breadcrumbs';
 import Button from '../components/button';
+import parse from 'html-react-parser';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fas } from '@fortawesome/free-solid-svg-icons';
@@ -37,10 +38,14 @@ export default function Template({data}) {
   const {resourcesJson: pages} = data;
   const {allResourcesJson: categories} = data;
 
-  var desc, updated = '';
+  var desc, body, updated = '';
 
   if (pages.description !== null) {
     desc = <p className="description">{pages.description}</p>;
+  }
+
+  if (pages.body !== null) {
+    body = <div className="body">{parse(pages.body)}</div>;
   }
 
   if (pages.lastUpdate !== null) {
@@ -57,6 +62,7 @@ export default function Template({data}) {
           <div className="page-content">
           <p className="lead">{pages.lead}</p>
           {desc}
+          {body}
             <ul className={"wrapper "+pages.cardType}>
               {pages.links.map((node, key) => (
                 <li key={key}>
@@ -103,6 +109,7 @@ export const pageQuery = graphql`
       title
       lead
       description
+      body
       cardType
       lastUpdate
       ...Card_details
