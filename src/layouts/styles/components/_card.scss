@@ -139,6 +139,10 @@
     &.black {
       background: $pill-black;
     }
+
+    &.grey {
+      background: $pill-grey;
+    }
   }
 }
 
@@ -219,6 +223,10 @@
   
     &.red {
       background: rgba($pill-red, 0.2);
+    }
+
+    &.grey {
+      background: $pill-grey;
     }
   }
 }
