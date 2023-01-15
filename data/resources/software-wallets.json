@@ -4,33 +4,46 @@
   "title": "Software Wallets",
   "lead": "Best software wallets to store your bitcoin.",
   "description": "Software wallets are non-physical programs (e.g. apps) that store your private keys. Software wallets are more accessible and convenient, but not as secure as hardware wallets. Here are some of best and most secure open-source non-custodial bitcoin wallets.",
+  "body": "<p>Software wallets may be used to secure your assets and are ecxellent for day-to-day transacting. While some key features and tradeoffs are highlighted for the software wallets below, they are all excellent. Consider your needs when selecting one. You may also decide more than one is needed, for example one for on-chain transactions, and one for second layer transactions.</p><ul class='list'><li><strong>OS</strong>: Bitcoin wallets are available for both mobile and deskop devices.</li><li><strong>Open-source</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Layers</strong>: Wallets may provide support for on-chain transations and/or second layer protocols like Lightning</li><li><strong>Own Node</strong>: Wallets may provide the ability to plug-in your own Bitcoin full node so that you don't need to trust a third party node, thus providing enhanced privacy.</li><li><strong>TOR</strong>: <b>T</b>he <b>O</b>nion <b>R</b>outing (TOR) project is an open-source project designed to anonymize your internet traffic, for enhanced privacy.</li><li><strong>Additional Info</strong>: Additional information on the software.</li></ul>",
   "icon": "mobile",
   "iconPrefix": "fas",
+  "cardType": "extended",
+  "lastUpdate": "15 January 2023",
   "links": [
     {
-      "title": "BlueWallet - Bitcoin wallet",
+      "title": "BlueWallet",
       "url": "https://bluewallet.io",
-      "description": "A bitcoin wallet for iOS and android. Bitcoin should be fun, usable and for anyone.",
-      "pills": [
+      "description": "Bitcoin and Lightning wallet for iOS and Android with a focus on security and UX. Open-source, Segwit and HD wallets, plausible deniability, replace by fee, and full encryption.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android, iOS, macOS",
+          "category": "grey"
         },
         {
-          "pill": "iOS",
-          "color": "purple"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
         },
         {
-          "pill": "Desktop",
-          "color": "red"
+          "label": "Layers",
+          "description": "On-Chain, Lightning",
+          "category": "green"
         },
         {
-          "pill": "Bitcoin",
-          "color": "blue"
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
         },
         {
-          "pill": "Lightning",
-          "color": "black"
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Many additional features",
+          "category": "green"
         }
       ],
       "image": "./../images/bluewallet.png"
@@ -38,15 +51,37 @@
     {
       "title": "Samourai",
       "url": "https://samouraiwallet.com",
-      "description": "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds.",
-      "pills": [
+      "description": "A bitcoin wallet designed to keep your transactions private, your identity masked, and your funds secured.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android",
+          "category": "grey"
         },
         {
-          "pill": "Bitcoin",
-          "color": "blue"
+          "label": "Open-source",
+          "description": "Builds not reproducible",
+          "category": "orange"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain only",
+          "category": "orange"
+        },
+        {
+          "label": "Own Node",
+          "description": "Dojo only",
+          "category": "orange"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Security features",
+          "category": "green"
         }
       ],
       "image": "./../images/samourai.png"
@@ -54,63 +89,113 @@
     {
       "title": "Blockstream Green",
       "url": "https://blockstream.com/green",
-      "description": "Blockstream Green is an industry-leading bitcoin wallet, providing Bitcoin users with an unrivaled blend of security and ease-of-use.",
-      "pills": [
+      "description": "Blockstream Green is a bitcoin wallet providing Bitcoin users with a nice blend of security and ease-of-use.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android, iOS, macOS, Windows, Linux",
+          "category": "grey"
         },
         {
-          "pill": "iOS",
-          "color": "purple"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
         },
         {
-          "pill": "Desktop",
-          "color": "red"
+          "label": "Layers",
+          "description": "On-Chain, Liquid",
+          "category": "orange"
         },
         {
-          "pill": "Bitcoin",
-          "color": "blue"
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/green-graphic.png"
     },
     {
-      "title": "Muun",
-      "url": "https://muun.com",
-      "description": "Muun is a self-custodial wallet for bitcoin and lightning.",
-      "pills": [
+      "title": "Phoenix",
+      "url": "https://phoenix.acinq.co",
+      "description": "Phoenix is a self-custodial Bitcoin wallet that works on Lightning. It makes Bitcoin easy, safe, and fast.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android",
+          "category": "grey"
         },
         {
-          "pill": "iOS",
-          "color": "purple"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
         },
         {
-          "pill": "Lightning",
-          "color": "black"
+          "label": "Layers",
+          "description": "Lightning, On-chain converted to Lightning",
+          "category": "orange"
         },
         {
-          "pill": "Bitcoin",
-          "color": "blue"
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
-      "image": "./../images/muun.png"
+      "image": "./../images/phoenix.png"
     },
     {
       "title": "Sparrow Wallet",
       "url": "https://sparrowwallet.com",
       "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
-      "pills": [
+      "details": [
         {
-          "pill": "Desktop",
-          "color": "red"
+          "label": "OS",
+          "description": "macOS, Windows, Linux",
+          "category": "grey"
         },
         {
-          "pill": "Bitcoin",
-          "color": "blue"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain only",
+          "category": "orange"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Coinjoin mixing",
+          "category": "green"
         }
       ],
       "image": "./../images/sparrowwallet.png"
@@ -118,51 +203,113 @@
     {
       "title": "Zap",
       "url": "https://zaphq.io/",
-      "description": "Transactions with Zap are inexpensive and instantaneous, unlocking a new natively digital economy never seen before.",
-      "pills": [
+      "description": "Zap is a simple, non-custodial, Lightning wallet.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android, iOS, macOS, Windows, Linux",
+          "category": "grey"
         },
         {
-          "pill": "Lightning",
-          "color": "black"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "Lightning Only",
+          "category": "orange"
+        },
+        {
+          "label": "Own Node",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/zap-app.png"
     },
     {
-      "title": "Phoenix",
-      "url": "https://phoenix.acinq.co",
-      "description": "The bitcoin wallet from the future, native Lightning support, non custodial, intuitive and simple UX.",
-      "pills": [
+      "title": "Muun",
+      "url": "https://muun.com",
+      "description": "Muun is a self-custodial wallet for Bitcoin and Lightning.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
         },
         {
-          "pill": "Lightning",
-          "color": "black"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain, Lightning",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "TOR",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "Non-standard backup",
+          "category": "orange"
         }
       ],
-      "image": "./../images/phoenix.png"
+      "image": "./../images/muun.png"
     },
     {
       "title": "Breez",
       "url": "https://breez.technology",
-      "description": "Lightning Fast Bitcoin Payments",
-      "pills": [
+      "description": "Non-custodial Lightning wallet, to send and receive instantaneous bitcoin payments with.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
         },
         {
-          "pill": "iOS",
-          "color": "purple"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
         },
         {
-          "pill": "Lightning",
-          "color": "black"
+          "label": "Layers",
+          "description": "Lightning",
+          "category": "orange"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Beta",
+          "category": "orange"
         }
       ],
       "image": "./../images/breez.png"
@@ -170,19 +317,37 @@
     {
       "title": "Electrum Wallet",
       "url": "https://electrum.org",
-      "description": "One of the most popular bitcoin wallets.",
-      "pills": [
+      "description": "One of the most popular bitcoin desktop wallets.",
+      "details": [
         {
-          "pill": "Android",
-          "color": "green"
+          "label": "OS",
+          "description": "Android, macOS, Windows, Linux",
+          "category": "grey"
         },
         {
-          "pill": "Desktop",
-          "color": "red"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
         },
         {
-          "pill": "Bitcoin",
-          "color": "blue"
+          "label": "Layers",
+          "description": "On-Chain only",
+          "category": "orange"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/electrum.png"
@@ -190,15 +355,37 @@
     {
       "title": "Bitcoin Core Wallet",
       "url": "https://bitcoin.org/en/download",
-      "description": "Official bitcoin wallet for desktop.",
-      "pills": [
+      "description": "Official bitcoin core wallet for desktop.",
+      "details": [
         {
-          "pill": "Desktop",
-          "color": "red"
+          "label": "OS",
+          "description": "macOS, Windows, Linux",
+          "category": "grey"
         },
         {
-          "pill": "Bitcoin",
-          "color": "blue"
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain only",
+          "category": "orange"
+        },
+        {
+          "label": "Own Node",
+          "description": "Full Node",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Requires disk space",
+          "category": "orange"
         }
       ],
       "image": "./../images/bitcoin.png"
