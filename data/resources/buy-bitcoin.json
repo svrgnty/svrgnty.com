@@ -3,27 +3,42 @@
   "page": "/resources/buy-bitcoin/",
   "title": "Buy Bitcoin",
   "lead": "Where to easily buy bitcoin.",
-  "description": "KYC (Know Your Customer) is the practice of verifying the identity of clients. If you place a high priority on privacy, you should avoid buying bitcoin that requires KYC, as it means that your identity is tied to your purchases and the wallet addresses where that bitcoin is kept. Your data can be used to track your transactions.",
+  "description": "There are many ways to buy bitcoin, but not all methods are equal. Some require KYC while others may not allow you withdrawal your funds. Learn which are the most reputable.",
+  "body": "<p>While some KYC exchanges are listed, it is best to avoid them. Consider your needs when choosing where to buy your bitcoin.</p><ul  class='list'><li><strong>Available</strong>: Countries in which the option is available.</li><li><strong>KYC</strong>: <b>K</b>now <b>Y</b>our <b>C</b>ustomer (KYC) is the practice of verifying the identity of clients. You should place a high priority on privacy, and avoid buying bitcoin that requires KYC, as it means that your identity is tied to your purchases and to the wallet addresses where that bitcoin is kept. Data leaks, which happen often, can put you and your bitcoin at risk.</li><li><strong>Bitcoin Only</strong>: Services that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Keys</strong>: Not your keys, not your coins. Select methods that deposit directly to your wallet, or allow withdrawal.</li><li><strong>Additonal Info</strong>: More information on the service.</li></ul>",
   "icon": "bitcoin",
-  "iconPrefix": "fab",
-  "lastUpdate": "11 January 2023",
+  "iconPrefix": "fab",  
+  "cardType": "extended",
+  "lastUpdate": "16 January 2023",
   "links": [
     {
       "title": "Relai",
       "url": "https://relai.app",
       "description": "Investing in bitcoin made easy. Instant start, no deposit, auto invest, no registration, high security.<br><strong>Referral code: REL1080</strong>",
-      "pills": [
+      "details": [
         {
-          "pill": "Switzerland",
-          "color": "blue"
+          "label": "Available",
+          "description": "Switzerland, Europe",
+          "category": "grey"
         },
         {
-          "pill": "Europe",
-          "color": "purple"
+          "label": "KYC",
+          "description": "Partial",
+          "category": "orange"
         },
         {
-          "pill":"Partial KYC",
-          "color": "orange"
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Own Wallet",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/relai.png"
@@ -32,22 +47,31 @@
       "title": "Peach",
       "url": "https://peachbitcoin.com",
       "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.<br><strong>Referral code: PR9D17</strong>",
-      "pills": [
+      "details": [
         {
-          "pill": "Switzerland",
-          "color": "blue"
+          "label": "Available",
+          "description": "Switzerland, Europe",
+          "category": "grey"
         },
         {
-          "pill": "Europe",
-          "color": "purple"
+          "label": "KYC",
+          "description": "No",
+          "category": "green"
         },
         {
-          "pill":"No-KYC",
-          "color": "green"
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
         },
         {
-          "pill": "Beta",
-          "color": "red"
+          "label": "Keys",
+          "description": "Deposit to Address",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Beta",
+          "category": "orange"
         }
       ],
       "image": "./../images/peach.jpg"
@@ -56,14 +80,31 @@
       "title": "Robosats",
       "url": "https://learn.robosats.com",
       "description": "A simple and private way to exchange bitcoin for national currencies over lightning.",
-      "pills": [
+      "details": [
         {
-          "pill": "Global",
-          "color": "black"
-        }, 
+          "label": "Available",
+          "description": "Globally",
+          "category": "grey"
+        },
         {
-          "pill":"No-KYC",
-          "color": "green"
+          "label": "KYC",
+          "description": "No",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Deposit to Wallet",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Over Lightning",
+          "category": "grey"
         }
       ],
       "image": "./../images/robosats.png"
@@ -72,14 +113,31 @@
       "title": "Bisq - a decentralized bitcoin exchange",
       "url": "https://bisq.network",
       "description": "Open-source desktop application that allows you to buy and sell bitcoins in exchange for national currencies.",
-      "pills": [
+      "details": [
         {
-          "pill": "Global",
-          "color": "black"
-        }, 
+          "label": "Available",
+          "description": "Globally",
+          "category": "grey"
+        },
         {
-          "pill":"No-KYC",
-          "color": "green"
+          "label": "KYC",
+          "description": "No",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Own Wallet",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/bisq-og.jpg"
@@ -88,14 +146,31 @@
       "title": "Hodl Hodl",
       "url": "https://hodlhodl.com",
       "description": "A global multisig P2P bitcoin trading platform that doesn't hold funds.",
-      "pills": [
+      "details": [
         {
-          "pill": "Global",
-          "color": "black"
-        }, 
+          "label": "Available",
+          "description": "Globally",
+          "category": "grey"
+        },
         {
-          "pill":"No-KYC",
-          "color": "green"
+          "label": "KYC",
+          "description": "No",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Deposit to Address",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/hodlhodl.png"
@@ -104,14 +179,31 @@
       "title": "Coin ATM Radar",
       "url": "https://coinatmradar.com",
       "description": "Find Bitcoin ATM locations easily with the Bitcoin ATM Map.",
-      "pills": [
+      "details": [
         {
-          "pill": "Global",
-          "color": "black"
-        }, 
+          "label": "Available",
+          "description": "Globally",
+          "category": "grey"
+        },
         {
-          "pill":"No-KYC",
-          "color": "green"
+          "label": "KYC",
+          "description": "No",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Key Generated",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/coinatmradar.png"
@@ -120,14 +212,31 @@
       "title": "Swan Bitcoin",
       "url": "https://www.swanbitcoin.com",
       "description": "Swan makes bitcoin investing easy. Buy automatically every week, month, or paycheck, starting with as little as $5.",
-      "pills": [
+      "details": [
         {
-          "pill": "United States",
-          "color": "orange"
-        }, 
+          "label": "Available",
+          "description": "United States",
+          "category": "grey"
+        },
         {
-          "pill":"KYC",
-          "color": "red"
+          "label": "KYC",
+          "description": "Yes",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Withdrawal",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/swanbitcoin.png"
@@ -135,15 +244,32 @@
     {
       "title": "River Financial",
       "url": "https://river.com",
-      "description": "River is the premier bitcoin financial institution for the sophisticated investor.",
-      "pills": [
+      "description": "Easily buy, sell  Bitcoin in the USA, with leading customer support, and zero fees on recurring orders.",
+      "details": [
         {
-          "pill": "United States",
-          "color": "orange"
-        }, 
+          "label": "Available",
+          "description": "United States",
+          "category": "grey"
+        },
         {
-          "pill":"KYC",
-          "color": "red"
+          "label": "KYC",
+          "description": "Yes",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Withdrawal",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/riverfinancial.png"
@@ -152,14 +278,31 @@
       "title": "SBB Ticket Machine",
       "url": "https://www.sbb.ch/en/station-services/at-the-station/services-from-the-ticket-machine/bitcoin.html",
       "description": "You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.",
-      "pills": [
+      "details": [
         {
-          "pill": "Switzerland",
-          "color": "blue"
-        }, 
+          "label": "Available",
+          "description": "Switzerland",
+          "category": "grey"
+        },
         {
-          "pill":"Partial KYC",
-          "color": "orange"
+          "label": "KYC",
+          "description": "Partial",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Deposit to Address",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Requires SMS verification",
+          "category": "grey"
         }
       ],
       "image": "./../images/sbb.jpeg"
@@ -168,14 +311,31 @@
       "title": "Kraken",
       "url": "https://www.kraken.com",
       "description": "One of the most trusted cryptocurrency exchanges on the market.",
-      "pills": [
+      "details": [
         {
-          "pill": "Global",
-          "color": "black"
-        }, 
+          "label": "Available",
+          "description": "Globally",
+          "category": "grey"
+        },
         {
-          "pill":"KYC",
-          "color": "red"
+          "label": "KYC",
+          "description": "Yes",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "Keys",
+          "description": "Withdrawal",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/kraken-social.jpg"
