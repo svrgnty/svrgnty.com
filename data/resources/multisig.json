@@ -9,9 +9,9 @@
   "lastUpdate": "20 January 2023",
   "links": [
     {
-      "title": "Specter Desktop - Multisig Made Easy",
-      "url": "https://specter.solutions",
-      "description": "Specter Desktop functions as a watch-only coordinator for multi-signature and single-key bitcoin wallets.",
+      "title": "Specter Desktop",
+      "url": "https://specter.solutions/desktop/",
+      "description": "Your Bitcoin node, on your hardware, paired with your signing devices, creating secure wallets for bitcoin self-custody..",
       "pills": [
         {
           "pill": "Intermediate",
