@@ -21,7 +21,7 @@ const Privacy = ({data}) => (
       <div className="contain">
         <p>Last updated: January 1, 2021</p>
         <h2>Data Collected</h2>
-        <p>Analytics: GoatCounter is used for analytics, a privacy-aware web statistics service. Below is the information GoatCounter collects. More info on GoatCounter <a href="https://www.goatcounter.com/privacy">privacy policy</a>.</p>
+        <p>Analytics: GoatCounter is used for analytics, a privacy-aware web statistics service. Below is the information GoatCounter collects. More info on GoatCounter <a href="https://www.goatcounter.com/help/privacy">privacy policy</a>.</p>
         <ul className="list">
           <li>URL of the visited page.</li>
           <li>Referer header.</li>

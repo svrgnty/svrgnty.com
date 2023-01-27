@@ -44,19 +44,19 @@
     },
     {
       "title": "Johoe's Bitcoin Mempool Statistics",
-      "url": "https://jochen-hoenicke.de/queue",
+      "url": "https://jochen-hoenicke.de/queu/",
       "description": "This page displays the number and size of the unconfirmed bitcoin transactions, also known as the transactions in the mempool.",
       "image": "./../images/mempool.png"
     },
     {
       "title": "Transactionfee.info",
-      "url": "https://transactionfee.info/charts",
+      "url": "https://transactionfee.info/charts/",
       "description": "Transaction fees on the Bitcoin network.",
       "image": "./../images/transactionfee.png"
     },
     {
       "title": "CoinMarketCap",
-      "url": "https://coinmarketcap.com/currencies/bitcoin",
+      "url": "https://coinmarketcap.com/currencies/bitcoin/",
       "description": "Latest bitcoin price, BTC market cap, charts and data.",
       "image": "./../images/coinmarketcap.png"
     },
@@ -68,13 +68,13 @@
     },
     {
       "title": "Bitcoin Treasuries",
-      "url": "https://www.buybitcoinworldwide.com/treasuries/",
+      "url": "https://buybitcoinworldwide.com/treasuries/",
       "description": "Bitcoin treasuries in publicly traded and private companies.",
       "image": "./../images/bitcointreasuries.png"
     },
     {
       "title": "Look into Bitcoin",
-      "url": "https://www.lookintobitcoin.com/charts",
+      "url": "https://www.lookintobitcoin.com/charts/",
       "description": "Live Bitcoin charts and information using market cycle and on-chain analysis.",
       "image": "./../images/lookintobitcoin.png"
     }

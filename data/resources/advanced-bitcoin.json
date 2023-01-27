@@ -14,7 +14,7 @@
     },
     {
       "title": "Bitcoin Whitepaper - Audio version",
-      "url": "https://bitcoinaudible.com/the-bitcoin-whitepaper",
+      "url": "https://bitcoinaudible.com/the-bitcoin-whitepaper/",
       "description": "The paper that first introduced Bitcoin.",
       "image": "./../images/whitepaper.png"
     },
@@ -44,7 +44,7 @@
     },
     {
       "title": "Bitcoin Core RPC API",
-      "url": "https://masonicboom.github.io/btcrpcapi",
+      "url": "https://masonicboom.github.io/btcrpcapi/",
       "description": "A Map of the Bitcoin Core RPC API across Versions.",
       "image": "./../images/btcrpcapi.png"
     }

@@ -16,8 +16,8 @@ export const Head = () => (
     <title>Bitcoin resources | Svrgnty.com</title>
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="og:title" content="Bitcoin resources | Svrgnty.com" />
-    <meta name="twitter:title" content="Bitcoin resources | Svrgnty.com" />
+    <meta name="og:title" content="Bitcoin Resources | Svrgnty.com" />
+    <meta name="twitter:title" content="Bitcoin Resources | Svrgnty.com" />
     <meta name="description" content="Bitcoin for financial sovereignty" />
     <meta name="og:description" content="Bitcoin for financial sovereignty" />
     <meta name="twitter:description" content="Bitcoin for financial sovereignty" />

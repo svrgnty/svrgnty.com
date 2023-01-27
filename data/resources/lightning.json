@@ -21,7 +21,7 @@
     },
     {
       "title": "Lightning Network",
-      "url": "https://www.coincenter.org/education/key-concepts/lightning-network",
+      "url": "https://www.coincenter.org/education/key-concepts/lightning-network/",
       "description": "Lightning Network is a protocol for scaling and speeding up blockchains.",
       "pills": [
         {
@@ -33,7 +33,7 @@
     },
     {
       "title": "LN.Guide - A Beginners Guide",
-      "url": "https://ln.guide/",
+      "url": "https://bitcoiner.guide/lightning",
       "description": "This site aims to help people understand a little more on the mechanics of Lightning and how it interacts with the underlying Bitcoin network.",
       "pills": [
         {

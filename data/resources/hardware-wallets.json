@@ -50,7 +50,7 @@
     },
     {
       "title": "Coldcard MK4",
-      "url": "https://coldcardwallet.com",
+      "url": "https://coldcard.com/",
       "description": "Coldcard is a bitcoin hardware wallet with dual secure element, many security features, and verifiable seed generation.",
       "details" : [
         {
@@ -240,7 +240,7 @@
     },
     {
       "title": "Blockstream Jade",
-      "url": "https://blockstream.com/jade",
+      "url": "https://blockstream.com/jade/",
       "description": "Easy-to-use, purely open-source hardware wallet that offers advanced security for your Bitcoin assets.",
       "details" : [
         {

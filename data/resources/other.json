@@ -14,7 +14,7 @@
     },
     {
       "title": "Lopp.net",
-      "url": "http://lopp.net/bitcoin.html",
+      "url": "https://lopp.net/bitcoin.html",
       "description": "Jameson's goal is to spread knowledge of crypto systems and liberating technologies.",
       "image": "./../images/lopp.png"
     },
@@ -33,14 +33,8 @@
     {
       "title": "Bitcoiner.Guide",
       "url": "https://bitcoiner.guide",
-      "description": "A collection of Bitcoin resources by BitcoinQnA",
+      "description": "A collection of Bitcoin resources by BitcoinQ+A",
       "image": "./../images/bitcoiner.guide.png"
-    },
-    {
-      "title": "Bitcoin Q&A - Simple answers to your Bitcoin questions",
-      "url": "https://www.bitcoinqna.com",
-      "description": "Short and easy to digest answers to your most frequently asked Bitcoin questions.",
-      "image": "./../images/bitcoinqna.png"
     },
     {
       "title": "Keep It Simple Bitcoin",
