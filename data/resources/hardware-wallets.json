@@ -8,7 +8,7 @@
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "13 January 2023",
+  "lastUpdate": "27 January 2023",
   "links": [
     {
       "title": "Trezor Model One",
@@ -87,44 +87,6 @@
       "image": "./../images/coldcard-mk4.png"
     },
     {
-      "title": "SeedSigner",
-      "url": "https://seedsigner.com",
-      "description": "Use an air-gapped Raspberry Pi Zero to sign for Bitcoin transactions, generate seed word 12/24, or generate a seed phrase from dice rolls.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "Off-the-shelf",
-          "category": "green"
-        },
-        {
-          "label": "Air-Gapped",
-          "description": "Camera",
-          "category": "green"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "DIY & Stateless",
-          "category": "orange"
-        },
-        {
-          "label": "Price",
-          "description": "$",
-          "category": "green"
-        }
-      ],
-      "image": "./../images/seedsigner.png"
-    },
-    {
       "title": "BitBox02",
       "url": "https://shiftcrypto.ch",
       "description": "Simple and secure, Swiss made hardware wallet.",
@@ -163,6 +125,44 @@
       "image": "./../images/bitbox.png"
     },
     {
+      "title": "SeedSigner",
+      "url": "https://seedsigner.com",
+      "description": "Use an air-gapped Raspberry Pi Zero to sign for Bitcoin transactions, generate seed word 12/24, or generate a seed phrase from dice rolls.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Off-the-shelf",
+          "category": "green"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "Camera",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "DIY & Stateless, Multisig Only",
+          "category": "orange"
+        },
+        {
+          "label": "Price",
+          "description": "$",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/seedsigner.png"
+    },
+    {
       "title": "Specter DIY Signer",
       "url": "https://specter.solutions/hardware/",
       "description": "Specter DIY is a signer with open-source firmware and off-the-shelf hardware, for trust minimized bitcoin self-custody.",
@@ -189,7 +189,7 @@
         },
         {
           "label": "Additional Info",
-          "description": "DIY & Stateless",
+          "description": "DIY & Stateless, Multisig Only",
           "category": "orange"
         },
         {
