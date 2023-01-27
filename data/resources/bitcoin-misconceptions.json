@@ -3,9 +3,23 @@
   "page": "/resources/bitcoin-misconceptions/",
   "title": "Misconceptions",
   "lead": "Clarifying Bitcoin misconceptions.",
+  "description": "You've probably heard Bitcoin described as being bad for the environment, or being used only by criminals. There are a lot of misconceptions around Bitcoin and the resourses below clarify many of these misconceptions.",
   "icon": "bullseye",
   "iconPrefix": "fas",
+  "lastUpdate": "27 January 2023",
   "links": [
+    {
+      "title": "How Bitcoin is helping the environment",
+      "url": "https://www.cityam.com/why-i-think-bitcoin-could-be-a-key-to-saving-the-environment/",
+      "description": "Not many industries can take a potent greenhouse gas like methane and convert that into work that both secures a global network and drives down CO2. Bitcoin does this and more.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/helpingenvironment.png"
+    },
     {
       "title": "Bitcoin is Protecting Human Rights Around the World",
       "url": "https://www.youtube.com/watch?v=xLYYh4aPXAM",
@@ -17,18 +31,6 @@
         }
       ],
       "image": "./../images/humanrights.jpg"
-    },
-    {
-      "title": "The Spiral Book of Bitcoin Mythology",
-      "url": "https://bitcoinmythology.org/",
-      "description": "Since there are no more prominent or prevalent myths about bitcoin than those having to do with its environmental impact, we start there.",
-      "pills": [
-        {
-          "pill": "Read",
-          "color": "blue"
-        }
-      ],
-      "image": "./../images/bitcoin-mythology.png"
     },
     {
       "title": "Bitcoin is Not for Criminals",
@@ -61,7 +63,7 @@
     {
       "title": "Demystifying Bitcoin",
       "url": "https://www.thebword.org/c/track-1-demystifying-bitcoin",
-      "description": "This track aims to correct mainstream narratives about Bitcoin, debunk the most common Bitcoin myths, and offer insights and real-world experiences on its various benefits.",
+      "description": "This video aims to correct mainstream narratives about Bitcoin, debunk the most common Bitcoin myths, and offer insights and real-world experiences on its various benefits.",
       "pills": [
         {
           "pill": "Video",
@@ -73,7 +75,7 @@
     {
       "title": "This Machine Greens",
       "url": "https://thismachinegreens.com/",
-      "description": "A film exploring Bitcoin and the future of clean energy production. Find out why Bitcoin is not the first currency to be so closely linked to energy... and why its intriguing design might be a net benefit for the future of decarbonization.",
+      "description": "The film explores Bitcoin’s relationship with energy — and shows that the image often presented may well have things upside-down.",
       "pills": [
         {
           "pill": "Video",
@@ -83,21 +85,21 @@
       "image": "./../images/thismachinegreens.png"
     },
     {
-      "title": "Bitcoin Policy Institute",
-      "url": "https://www.btcpolicy.org/",
-      "description": "Interdisciplinary cohort of economists, coders, lawyers, climate scientists, philosophers, and policy analysts providing research, fact-checking, and commentary on bitcoin.",
+      "title": "The Spiral Book of Bitcoin Mythology: Bitcoin Mining",
+      "url": "https://bitcoinmythology.org/",
+      "description": "The truth is that bitcoin miners are like any other market participants: to last, they have to maximize efficiency. That means embracing green energy at every level.",
       "pills": [
         {
           "pill": "Read",
           "color": "blue"
         }
       ],
-      "image": "./../images/bitcoinpolicyinstitute.png"
+      "image": "./../images/bitcoin-mythology.png"
     },
     {
       "title": "End the FUD",
       "url": "https://endthefud.org/",
-      "description": "The best links to articles debunking Bitcoin FUD.",
+      "description": "Links to articles debunking Bitcoin Fear, Uncertainty, and Doubt.",
       "pills": [
         {
           "pill": "Read",
