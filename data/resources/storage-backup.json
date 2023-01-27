@@ -6,13 +6,19 @@
   "description": "Harden your security model and ensure the safety of your seeds and hardware wallets.",
   "icon": "lock",
   "iconPrefix": "fas",
-  "lastUpdate": "23 January 2023",
+  "lastUpdate": "27 January 2023",
   "links": [
     {
       "title": "SEEDPLATE",
       "url": "http://bitcoinseedbackup.com",
       "description": "Bitcoin seed metal backup plate, 12.7x7.62cm.",
       "image": "./../images/seedplate.png"
+    },
+    {
+      "title": "RoninSteel",
+      "url": "https://shop.ronindojo.io/product-category/roninsteel/",
+      "description": "Created so that you can keep your backup safe in a covert manner.",
+      "image": "./../images/roninsteel.png"
     },  
     {
       "title": "SmallSeed",
