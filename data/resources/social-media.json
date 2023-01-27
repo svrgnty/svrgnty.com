@@ -3,8 +3,10 @@
   "page": "/resources/social-media/",
   "title": "Social Media",
   "lead": "Where to learn more on social media.",
+  "description": "Social media is a great place to connect with other Bitcoiners and to learn more about it.",
   "icon": "users",
   "iconPrefix": "fas",
+  "lastUpdate": "27 January 2023",
   "links": [
     {
       "title": "Bitcoin Twitter",
@@ -19,15 +21,27 @@
       "image": "./../images/hive.png"
     },
     {
-      "title": "Bitcoin Reddit Community",
-      "url": "https://www.reddit.com/r/Bitcoin",
-      "description": "A community dedicated to Bitcoin, the currency of the Internet.",
-      "image": "./../images/reddit.png"
+      "title": "Snort nostr import",
+      "url": "https://snort.social/new",
+      "description": "Find your twitter follows on nostr and automatically follow them.",
+      "image": "./../images/snortimport.png"
     },
     {
-      "title": "Bitcoin Beginners Reddit Community",
+      "title": "nostr.directory",
+      "url": "https://www.nostr.directory/",
+      "description": "Find people you know on other social media sites on nostr.",
+      "image": "./../images/nostrdirectory.png"
+    },
+    {
+      "title": "Bitcoin Reddit",
+      "url": "https://www.reddit.com/r/Bitcoin",
+      "description": "A community dedicated to Bitcoin.",
+      "image": "./../images/bitcoinreddit.png"
+    },
+    {
+      "title": "Bitcoin Beginners Reddit",
       "url": "https://www.reddit.com/r/BitcoinBeginners",
-      "description": "On this group beginners can ask questions about Bitcoin.",
+      "description": "A subreddit for new users to ask Bitcoin related questions.",
       "image": "./../images/reddit.png"
     }
   ]

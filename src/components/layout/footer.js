@@ -19,7 +19,7 @@ const Footer = () => (
         </Link>
         <ul>
           <li><a href="https://github.com/svrgnty/svrgnty.com"><FontAwesomeIcon icon={brands('github')} /> <span className="element-invisible">Github</span></a></li>
-          <li><a href="https://www.nostr.guru/p/f3b633c30007c2fbedbbd028c2e973066504c15138b22d5c24f16a65f1a90ec4"><img alt="" src={'/images/nostr.png'} /> <span className="element-invisible">Nostr</span></a></li>
+          <li><a href="https://snort.social/p/npub17wmr8scqqlp0hmdm6q5v96tnqejsfs238zez6hpy794xtudfpmzqf7kms8"><img alt="" src={'/images/nostr.png'} /> <span className="element-invisible">Nostr</span></a></li>
           <li><a href="https://twitter.com/svrgnty"><FontAwesomeIcon icon={brands('twitter')} /> <span className="element-invisible">Twitter</span></a></li>
         </ul>
       </div>

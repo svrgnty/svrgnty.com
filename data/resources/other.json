@@ -71,12 +71,6 @@
       "url": "https://bitcoin-intro.com",
       "description": "Start Using Bitcoin.",
       "image": "./../images/bitcoin.png"
-    },
-    {
-      "title": "Bitcoin Design",
-      "url": "https://bitcoin.design/guide",
-      "description": "The Bitcoin Design Guide is a reference for the design of bitcoin applications.",
-      "image": "./../images/bitcoindesign.png"
     }
   ]
 }
