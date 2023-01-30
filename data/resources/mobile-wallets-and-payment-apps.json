@@ -1,15 +1,53 @@
 {
   "position": 6,
-  "page": "/resources/software-wallets/",
-  "title": "Software Wallets",
-  "lead": "Best software wallets to store your bitcoin.",
-  "description": "Software wallets are non-physical programs (e.g. apps) that store your private keys. Software wallets are more accessible and convenient, but not as secure as hardware wallets. Here are some of best and most secure open-source non-custodial bitcoin wallets.",
-  "body": "<p>Software wallets may be used to secure your assets and are ecxellent for day-to-day transacting. While some key features and tradeoffs are highlighted for the software wallets below, they are all excellent. Consider your needs when selecting one. You may also decide more than one is needed, for example one for on-chain transactions, and one for second layer transactions.</p><ul class='list'><li><strong>OS</strong>: Bitcoin wallets are available for both mobile and deskop devices.</li><li><strong>Open-source</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Layers</strong>: Wallets may provide support for on-chain transations and/or second layer protocols like Lightning</li><li><strong>Own Node</strong>: Wallets may provide the ability to plug-in your own Bitcoin full node so that you don't need to trust a third party node, thus providing enhanced privacy.</li><li><strong>TOR</strong>: <b>T</b>he <b>O</b>nion <b>R</b>outing (TOR) project is an open-source project designed to anonymize your internet traffic, for enhanced privacy.</li><li><strong>Additional Info</strong>: Additional information on the software.</li></ul>",
+  "page": "/resources/mobile-wallets-and-payment-apps/",
+  "title": "Mobile Wallets",
+  "lead": "Best mobile bitcoin wallets and payment apps.",
+  "description": "Mobile Bitcoin wallets are non-physical programs that store your private keys, signs transactions, and broadcast them to the network. Lightning payment apps route payments through nodes connected by payment channels.",
+  "body": "<p>Mobile wallets may be used to secure smaller amounts of your assets and are ecxellent for day-to-day transacting. Below are some of the best and most secure open-source non-custodial bitcoin wallets and lightning payment apps. While some key features and tradeoffs are highlighted for the apps, they are all excellent. Consider your needs when selecting one. You may also decide more than one is needed, for example one for on-chain transactions, and one for second layer transactions (e.g. lightning).</p><ul class='list'><li><strong>OS</strong>: Which Operating System the app is available for.</li><li><strong>Open-source</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Layers</strong>: Wallets may provide support for on-chain transations and/or second layer protocols like Lightning.</li><li><strong>Own Node</strong>: Wallets may provide the ability to plug-in your own Bitcoin full node so that you don't need to trust a third party node, thus providing enhanced privacy.</li><li><strong>TOR</strong>: <b>T</b>he <b>O</b>nion <b>R</b>outing (TOR) project is an open-source project designed to anonymize your internet traffic, for enhanced privacy.</li><li><strong>Additional Info</strong>: Additional information on the software.</li></ul>",
   "icon": "mobile",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "15 January 2023",
+  "lastUpdate": "30 January 2023",
   "links": [
+    {
+      "title": "Zeus",
+      "url": "https://zeusln.app/",
+      "description": "Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain, Lightning",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Non-custodial",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/zeus.png"
+    },
     {
       "title": "BlueWallet",
       "url": "https://bluewallet.io",
@@ -17,7 +55,7 @@
       "details": [
         {
           "label": "OS",
-          "description": "Android, iOS, macOS",
+          "description": "Android, iOS",
           "category": "grey"
         },
         {
@@ -93,7 +131,7 @@
       "details": [
         {
           "label": "OS",
-          "description": "Android, iOS, macOS, Windows, Linux",
+          "description": "Android, iOS",
           "category": "grey"
         },
         {
@@ -131,7 +169,7 @@
       "details": [
         {
           "label": "OS",
-          "description": "Android",
+          "description": "Android, iOS",
           "category": "grey"
         },
         {
@@ -156,20 +194,20 @@
         },
         {
           "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
+          "description": "Min Lightning balance",
+          "category": "orange"
         }
       ],
       "image": "./../images/phoenix.png"
     },
     {
-      "title": "Sparrow Wallet",
-      "url": "https://sparrowwallet.com",
-      "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
+      "title": "Breez",
+      "url": "https://breez.technology",
+      "description": "Non-custodial Lightning wallet, to send and receive instantaneous bitcoin payments with.",
       "details": [
         {
           "label": "OS",
-          "description": "macOS, Windows, Linux",
+          "description": "Android, iOS",
           "category": "grey"
         },
         {
@@ -179,7 +217,7 @@
         },
         {
           "label": "Layers",
-          "description": "On-Chain only",
+          "description": "Lightning, On-chain converted to Lightning",
           "category": "orange"
         },
         {
@@ -189,16 +227,16 @@
         },
         {
           "label": "TOR",
-          "description": "Yes",
-          "category": "green"
+          "description": "No",
+          "category": "red"
         },
         {
           "label": "Additional Info",
-          "description": "Coinjoin mixing",
-          "category": "green"
+          "description": "Min Lightning balance",
+          "category": "orange"
         }
       ],
-      "image": "./../images/sparrowwallet.png"
+      "image": "./../images/breez.png"
     },
     {
       "title": "Zap",
@@ -207,7 +245,7 @@
       "details": [
         {
           "label": "OS",
-          "description": "Android, iOS, macOS, Windows, Linux",
+          "description": "Android, iOS",
           "category": "grey"
         },
         {
@@ -275,120 +313,6 @@
         }
       ],
       "image": "./../images/muun.png"
-    },
-    {
-      "title": "Breez",
-      "url": "https://breez.technology",
-      "description": "Non-custodial Lightning wallet, to send and receive instantaneous bitcoin payments with.",
-      "details": [
-        {
-          "label": "OS",
-          "description": "Android, iOS",
-          "category": "grey"
-        },
-        {
-          "label": "Open-source",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Layers",
-          "description": "Lightning",
-          "category": "orange"
-        },
-        {
-          "label": "Own Node",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "TOR",
-          "description": "No",
-          "category": "red"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Beta",
-          "category": "orange"
-        }
-      ],
-      "image": "./../images/breez.png"
-    },
-    {
-      "title": "Electrum Wallet",
-      "url": "https://electrum.org",
-      "description": "One of the most popular bitcoin desktop wallets.",
-      "details": [
-        {
-          "label": "OS",
-          "description": "Android, macOS, Windows, Linux",
-          "category": "grey"
-        },
-        {
-          "label": "Open-source",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Layers",
-          "description": "On-Chain only",
-          "category": "orange"
-        },
-        {
-          "label": "Own Node",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "TOR",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
-        }
-      ],
-      "image": "./../images/electrum.png"
-    },
-    {
-      "title": "Bitcoin Core Wallet",
-      "url": "https://bitcoin.org/en/download",
-      "description": "Official bitcoin core wallet for desktop.",
-      "details": [
-        {
-          "label": "OS",
-          "description": "macOS, Windows, Linux",
-          "category": "grey"
-        },
-        {
-          "label": "Open-source",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Layers",
-          "description": "On-Chain only",
-          "category": "orange"
-        },
-        {
-          "label": "Own Node",
-          "description": "Full Node",
-          "category": "green"
-        },
-        {
-          "label": "TOR",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Requires disk space",
-          "category": "orange"
-        }
-      ],
-      "image": "./../images/bitcoin.png"
     }
   ]
 }
