@@ -11,44 +11,6 @@
   "lastUpdate": "27 January 2023",
   "links": [
     {
-      "title": "Trezor Model One",
-      "url": "https://trezor.io/trezor-model-one",
-      "description": "Cold storage hardware wallet designed to keep your sats safe. As the first bitcoin hardware wallet, it has a proven track record.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Air-Gapped",
-          "description": "USB",
-          "category": "red"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Firmware available",
-          "category": "orange"
-        },
-        {
-          "label": "Additional Info",
-          "description": "No secure element",
-          "category": "orange"
-        },
-        {
-          "label": "Price",
-          "description": "$$",
-          "category": "orange"
-        }
-      ],
-      "image": "./../images/trezor-model-one.png"
-    },
-    {
       "title": "Coldcard MK4",
       "url": "https://coldcard.com/",
       "description": "Coldcard is a bitcoin hardware wallet with dual secure element, many security features, and verifiable seed generation.",
@@ -201,6 +163,44 @@
       "image": "./../images/specter-diy.jpg"
     },
     {
+      "title": "Trezor Model One",
+      "url": "https://trezor.io/trezor-model-one",
+      "description": "Cold storage hardware wallet designed to keep your sats safe. As the first bitcoin hardware wallet, it has a proven track record.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "USB",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Firmware available",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Price",
+          "description": "$$",
+          "category": "orange"
+        }
+      ],
+      "image": "./../images/trezor-model-one.png"
+    },
+    {
       "title": "Trezor Model T",
       "url": "https://trezor.io/trezor-model-t",
       "description": "Cold storage wallet with a touchscreen. Like the Trezor Model One, it's designed with the most resilient security measures built in.",
@@ -239,44 +239,6 @@
       "image": "./../images/trezor-model-t.png"
     },
     {
-      "title": "Blockstream Jade",
-      "url": "https://blockstream.com/jade/",
-      "description": "Easy-to-use, purely open-source hardware wallet that offers advanced security for your Bitcoin assets.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "Open-source",
-          "category": "orange"
-        },
-        {
-          "label": "Air-Gapped",
-          "description": "Camera",
-          "category": "green"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "No secure element",
-          "category": "orange"
-        },
-        {
-          "label": "Price",
-          "description": "$",
-          "category": "green"
-        }
-      ],
-      "image": "./../images/jade.png"
-    },
-    {
       "title": "Passport",
       "url": "https://foundationdevices.com",
       "description": "Crafted from premium materials, and with premium price point.",
@@ -313,6 +275,44 @@
         }
       ],
       "image": "./../images/passport.png"
+    },
+    {
+      "title": "Blockstream Jade",
+      "url": "https://blockstream.com/jade/",
+      "description": "Easy-to-use, purely open-source hardware wallet that offers advanced security for your Bitcoin assets.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "Camera",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "No secure element, Requires Green Wallet for setup",
+          "category": "red"
+        },
+        {
+          "label": "Price",
+          "description": "$",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/jade.png"
     }
   ]
 }
