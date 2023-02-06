@@ -303,8 +303,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "Flimsy, Requires Green Wallet for setup",
-          "category": "red"
+          "description": "Flimsy",
+          "category": "orange"
         },
         {
           "label": "Price",
