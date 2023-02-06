@@ -6,8 +6,24 @@
   "description": "Multisig, short for multi-signature, is a security protocol that requires at least two keys to authorize a transaction. It can be seen as a lock that only opens with enough keys out of a predefined set of keys. Enhance the security of your bitcoin wallet with multisig.",
   "icon": "key",
   "iconPrefix": "fas",
-  "lastUpdate": "30 January 2023",
+  "lastUpdate": "06 February 2023",
   "links": [
+    {
+      "title": "Sparrow Wallet",
+      "url": "https://sparrowwallet.com",
+      "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/sparrowwallet.png"
+    },
     {
       "title": "Specter Desktop",
       "url": "https://specter.solutions/desktop/",
@@ -25,58 +41,6 @@
       "image": "./../images/specter-multisig.jpg"
     },
     {
-      "title": "Sparrow Wallet",
-      "url": "https://sparrowwallet.com",
-      "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
-      "pills": [
-        {
-          "pill": "Intermediate",
-          "color": "orange"
-        },
-        {
-          "pill": "DIY",
-          "color": "blue"
-        }
-      ],
-      "image": "./../images/sparrowwallet.png"
-    },
-    {
-      "title": "BlueWallet - Multisig",
-      "url": "https://bluewallet.io",
-      "description": "The most secure Bitcoin technology. Multisig wallets are like a vault, where multiple keys are needed to spend.",
-      "pills": [
-        {
-          "pill": "Easy",
-          "color": "green"
-        },
-        {
-          "pill": "DIY",
-          "color": "blue"
-        }
-      ],
-      "image": "./../images/bluewallet-multisig.png"
-    },
-    {
-      "title": "Nunchuk",
-      "url": "https://nunchuk.io",
-      "description": "Security. Inheritance planning. Ease of use.",
-      "pills": [
-        {
-          "pill": "Easy",
-          "color": "green"
-        },
-        {
-          "pill": "DIY",
-          "color": "blue"
-        },
-        {
-          "pill": "Collaborative",
-          "color": "purple"
-        }
-      ],
-      "image": "./../images/nunchuk.png"
-    },
-    {
       "title": "Lily Wallet",
       "url": "https://lily-wallet.com",
       "description": "Lily combines bitcoin standard practices with an easy to understand user interface to keep your bitcoin secure and accessible.",
@@ -92,18 +56,22 @@
         {
           "pill": "Collaborative",
           "color": "purple"
+        },
+        {
+          "pill": "Paid",
+          "color": "grey"
         }
       ],
       "image": "./../images/lily.png"
     },
     {
       "title": "Caravan",
-      "url": "https://unchained-capital.github.io/caravan/#/",
-      "description": "Caravan is a Bitcoin multisig wallet you can use right in the browser.",
+      "url": "https://github.com/unchained-capital/caravan#host-locally",
+      "description": "Caravan is a Bitcoin multisig wallet you can host locally and use right in the browser.",
       "pills": [
         {
-          "pill": "Intermediate",
-          "color": "orange"
+          "pill": "Advanced",
+          "color": "red"
         },
         {
           "pill": "DIY",
@@ -113,7 +81,7 @@
       "image": "./../images/unchained.png"
     },
     {
-      "title": "Unchained Capital Vault",
+      "title": "Unchained Personal Vault",
       "url": "https://unchained.com/vaults/",
       "description": "Get enhanced security with an easy-to-use multisig vault solution that leaves you with sovereignty over your keys and bitcoin.",
       "pills": [
@@ -124,6 +92,14 @@
         {
           "pill": "Collaborative",
           "color": "purple"
+        },
+        {
+          "pill": "KYC",
+          "color": "red"
+        },
+        {
+          "pill": "Paid",
+          "color": "grey"
         }
       ],
       "image": "./../images/unchained.png"
@@ -140,6 +116,10 @@
         {
           "pill": "Collaborative",
           "color": "purple"
+        },
+        {
+          "pill": "Paid",
+          "color": "grey"
         }
       ],
       "image": "./../images/casa.png"
@@ -161,9 +141,9 @@
       "image": "./../images/electrum.png"
     },
     {
-      "title": "Bitcoin Keeper",
-      "url": "https://www.bitcoinkeeper.app",
-      "description": "A secure bitcoin multi-sig wallet with privacy and inheritance.",
+      "title": "Nunchuk",
+      "url": "https://nunchuk.io",
+      "description": "Security. Inheritance planning. Ease of use.",
       "pills": [
         {
           "pill": "Easy",
@@ -174,11 +154,15 @@
           "color": "blue"
         },
         {
-          "pill": "Beta",
-          "color": "red"
+          "pill": "Collaborative",
+          "color": "purple"
+        },
+        {
+          "pill": "Paid",
+          "color": "grey"
         }
       ],
-      "image": "./../images/keeper.png"
+      "image": "./../images/nunchuk.png"
     }
   ]
 }
