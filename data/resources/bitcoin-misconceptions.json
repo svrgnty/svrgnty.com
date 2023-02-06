@@ -49,6 +49,22 @@
       "image": "./../images/unchained.png"
     },
     {
+      "title": "Bitcoin Rocks",
+      "url": "https://bitcoin.rocks/",
+      "description": "Bitcoin has stabilized the power grid, protected human rights, saved people from high inflation, supported local farmers, reduced emissions from oil drilling, and so much more.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        },
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/bitcoin-rocks.png"
+    },
+    {
       "title": "Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.",
       "url": "https://www.lynalden.com/bitcoin-energy/",
       "description": "Bitcoin’s energy usage is a rounding error as far as global energy usage is concerned.",
