@@ -8,7 +8,7 @@
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "27 January 2023",
+  "lastUpdate": "06 February 2023",
   "links": [
     {
       "title": "Coldcard MK4",
@@ -98,8 +98,8 @@
         },
         {
           "label": "Hardware",
-          "description": "Off-the-shelf",
-          "category": "green"
+          "description": "Off-the-shelf, No secure element",
+          "category": "orange"
         },
         {
           "label": "Air-Gapped",
@@ -136,8 +136,8 @@
         },
         {
           "label": "Hardware",
-          "description": "Off-the-shelf",
-          "category": "green"
+          "description": "Off-the-shelf, No secure element",
+          "category": "orange"
         },
         {
           "label": "Air-Gapped",
@@ -174,8 +174,8 @@
         },
         {
           "label": "Hardware",
-          "description": "Open-source",
-          "category": "green"
+          "description": "No secure element",
+          "category": "orange"
         },
         {
           "label": "Air-Gapped",
@@ -189,8 +189,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "No secure element",
-          "category": "orange"
+          "description": "NA",
+          "category": "grey"
         },
         {
           "label": "Price",
@@ -212,8 +212,8 @@
         },
         {
           "label": "Hardware",
-          "description": "Open-source",
-          "category": "green"
+          "description": "No secure element",
+          "category": "orange"
         },
         {
           "label": "Air-Gapped",
@@ -227,8 +227,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "No secure element",
-          "category": "orange"
+          "description": "NA",
+          "category": "grey"
         },
         {
           "label": "Price",
@@ -288,13 +288,13 @@
         },
         {
           "label": "Hardware",
-          "description": "Open-source",
-          "category": "green"
+          "description": "Open-source, No secure element",
+          "category": "orange"
         },
         {
           "label": "Air-Gapped",
-          "description": "Camera",
-          "category": "green"
+          "description": "USB, Camera, Bluetooth",
+          "category": "orange"
         },
         {
           "label": "Bitcoin Only",
@@ -303,7 +303,7 @@
         },
         {
           "label": "Additional Info",
-          "description": "No secure element, Requires Green Wallet for setup",
+          "description": "Flimsy, Requires Green Wallet for setup",
           "category": "red"
         },
         {
