@@ -8,7 +8,7 @@
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "06 February 2023",
+  "lastUpdate": "07 February 2023",
   "links": [
     {
       "title": "Coldcard MK4",
@@ -47,44 +47,6 @@
         }
       ],
       "image": "./../images/coldcard-mk4.png"
-    },
-    {
-      "title": "BitBox02",
-      "url": "https://shiftcrypto.ch",
-      "description": "Simple and secure, Swiss made hardware wallet.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "Closed-source secure element",
-          "category": "orange"
-        },
-        {
-          "label": "Air-Gapped",
-          "description": "USB",
-          "category": "red"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Firmware available",
-          "category": "orange"
-        },
-        {
-          "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
-        },
-        {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
-        }
-      ],
-      "image": "./../images/bitbox.png"
     },
     {
       "title": "SeedSigner",
@@ -275,6 +237,44 @@
         }
       ],
       "image": "./../images/passport.png"
+    },
+    {
+      "title": "BitBox02",
+      "url": "https://shiftcrypto.ch",
+      "description": "Simple and secure, Swiss made hardware wallet.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Air-Gapped",
+          "description": "USB",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Firmware available",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Requires BitBox App",
+          "category": "orange"
+        },
+        {
+          "label": "Price",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/bitbox.png"
     },
     {
       "title": "Blockstream Jade",
