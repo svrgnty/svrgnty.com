@@ -11,6 +11,39 @@
   "lastUpdate": "16 January 2023",
   "links": [
     {
+      "title": "Peach",
+      "url": "https://peachbitcoin.com",
+      "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.<br><strong>Referral code: PR9D17</strong>",
+      "details": [
+        {
+          "label": "Available",
+          "description": "Switzerland, Europe",
+          "category": "grey"
+        },
+        {
+          "label": "KYC",
+          "description": "No",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Deposit to Address",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/peach.jpg"
+    },
+    {
       "title": "Relai",
       "url": "https://relai.app",
       "description": "Investing in bitcoin made easy. Instant start, no deposit, auto invest, no registration, high security.<br><strong>Referral code: REL1080</strong>",
@@ -42,39 +75,6 @@
         }
       ],
       "image": "./../images/relai.png"
-    },
-    {
-      "title": "Peach",
-      "url": "https://peachbitcoin.com",
-      "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.<br><strong>Referral code: PR9D17</strong>",
-      "details": [
-        {
-          "label": "Available",
-          "description": "Switzerland, Europe",
-          "category": "grey"
-        },
-        {
-          "label": "KYC",
-          "description": "No",
-          "category": "green"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Keys",
-          "description": "Deposit to Address",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Beta",
-          "category": "orange"
-        }
-      ],
-      "image": "./../images/peach.jpg"
     },
     {
       "title": "Robosats",
