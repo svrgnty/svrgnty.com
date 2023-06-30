@@ -6,12 +6,12 @@
   "description": "The Bitcoin network is a decentralized peer-to-peer (P2P) network made up of thousands of nodes. Each node keeps a copy of the Bitcoin blockchain and verifies every single transaction and block. By running a full node you can verify the state of the ledger yourself, rather than trusting a third party. Running a full node also makes the network more robust, making it more decentralized and resistant to certain types of attacks. Support the Bitcoin network by running your own full node.",
   "icon": "hdd",
   "iconPrefix": "fas",
-  "lastUpdate": "30 January 2023",
+  "lastUpdate": "30 June 2023",
   "links": [
     {
-      "title": "Start9 Embassy",
+      "title": "Start9",
       "url": "https://start9.com/",
-      "description": "Personal server powered by EmbassyOS, offering one-click installation and simple configuration of open source software services that run over Tor.",
+      "description": "Personal server powered by StartOS, offering one-click installation and simple configuration of open source software services that run over Tor.",
       "pills": [
         {
           "pill": "DIY",
@@ -64,6 +64,10 @@
         {
           "pill": "DIY",
           "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
         },
         {
           "pill": "Beta",

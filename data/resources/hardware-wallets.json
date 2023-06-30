@@ -4,11 +4,11 @@
   "title": "Hardware Wallets",
   "lead": "Best hardware wallets to secure your bitcoin.",
   "description": "A hardware wallet is a type of bitcoin wallet that stores your private keys on a specially designed secure physical hardware device and/or authorizes spending (signing transactions).",
-  "body": "<p>Hardware wallets remain the best method to secure your assets. While some key features and tradeoffs are highlighted for the hardware wallets and signing devices below, they are all excellent devices. Should you decide to purchase or build one, consider your needs when selecting one.</p><ul class='list'><li><strong>Firmware</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Hardware</strong>: There are currently no open-source secure elements, though there is an initiative by <a href='https://tropicsquare.com/' target='_blank'>Tropic Square</a> to create one.</li><li><strong>Air-Gapped</strong>: This means the device is never connected directly to an internet enabled device. This reduces the possibility of attacks.</li><li><strong>Bitcoin Only</strong>: Devices that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Additional Info</strong>: Additional information on the device.</li><li><strong>Price</strong>: Below $60 USD ($) is a good entry point for a device, between $60-$120 USD ($$) is an average price, above $120 USD ($$$) is a premium device.</li></ul>",
+  "body": "<p>Hardware wallets remain the best method to secure your assets. While some key features and tradeoffs are highlighted for the hardware wallets and signing devices below, they are all excellent devices. Should you decide to purchase or build one, consider your needs when selecting one.</p><ul class='list'><li><strong>Firmware</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Hardware</strong>: There are currently no open-source secure elements, though there is an initiative by <a href='https://tropicsquare.com/' target='_blank'>Tropic Square</a> to create one.</li><li><strong>Signing</strong>: Methods for signing transactions, some are more convenient than others, but some may come with additional security risks.</li><li><strong>Bitcoin Only</strong>: Devices that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Additional Info</strong>: Additional information on the device.</li><li><strong>Price</strong>: Below $60 USD ($) is a good entry point for a device, between $60-$120 USD ($$) is an average price, above $120 USD ($$$) is a premium device.</li></ul>",
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "07 February 2023",
+  "lastUpdate": "30 June 2023",
   "links": [
     {
       "title": "Coldcard MK4",
@@ -26,7 +26,7 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
+          "label": "Signing",
           "description": "USB, SD card, NFC",
           "category": "orange"
         },
@@ -64,8 +64,8 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
-          "description": "Camera",
+          "label": "Signing",
+          "description": "QR",
           "category": "green"
         },
         {
@@ -102,8 +102,8 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
-          "description": "Camera",
+          "label": "Signing",
+          "description": "QR",
           "category": "green"
         },
         {
@@ -140,7 +140,7 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
+          "label": "Signing",
           "description": "USB",
           "category": "red"
         },
@@ -178,7 +178,7 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
+          "label": "Signing",
           "description": "USB",
           "category": "red"
         },
@@ -216,8 +216,8 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
-          "description": "Camera, SD card",
+          "label": "Signing",
+          "description": "QR, SD card",
           "category": "green"
         },
         {
@@ -254,7 +254,7 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
+          "label": "Signing",
           "description": "USB",
           "category": "red"
         },
@@ -292,8 +292,8 @@
           "category": "orange"
         },
         {
-          "label": "Air-Gapped",
-          "description": "USB, Camera, Bluetooth",
+          "label": "Signing",
+          "description": "USB, QR, Bluetooth",
           "category": "orange"
         },
         {
@@ -303,7 +303,7 @@
         },
         {
           "label": "Additional Info",
-          "description": "Flimsy",
+          "description": "Built-in battery",
           "category": "orange"
         },
         {
@@ -313,6 +313,44 @@
         }
       ],
       "image": "./../images/jade.png"
+    },
+    {
+      "title": "Krux",
+      "url": "https://selfcustody.github.io/krux/",
+      "description": "Open-source firmware that enables anyone to build a Bitcoin signing device with off-the-shelf parts such as the M5StickV and Maix Amigo.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Off-the-shelf, No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "QR",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "DIY & Stateless, Beta",
+          "category": "red"
+        },
+        {
+          "label": "Price",
+          "description": "$",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/krux.png"
     }
   ]
 }

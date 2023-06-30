@@ -6,7 +6,7 @@
   "description": "Harden your security model and ensure the safety of your seeds and hardware wallets.",
   "icon": "lock",
   "iconPrefix": "fas",
-  "lastUpdate": "27 January 2023",
+  "lastUpdate": "30 June 2023",
   "links": [
     {
       "title": "SEEDPLATE",
@@ -15,17 +15,11 @@
       "image": "./../images/seedplate.png"
     },
     {
-      "title": "RoninSteel",
-      "url": "https://shop.ronindojo.io/product-category/roninsteel/",
+      "title": "BitPLATES",
+      "url": "https://www.bitplates.com/",
       "description": "Created so that you can keep your backup safe in a covert manner.",
-      "image": "./../images/roninsteel.png"
+      "image": "./../images/bitplates.png"
     },  
-    {
-      "title": "SmallSeed",
-      "url": "https://smallseed.cc",
-      "description": "Compact credit card size bitcoin cold storage on stainless steel.",
-      "image": "./../images/smallseed.png"
-    },
     {
       "title": "Metal Bitcoin Seed Storage Reviews",
       "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",
@@ -35,14 +29,26 @@
     {
       "title": "Blockmit Washer Jig",
       "url": "https://blockmit.com/english/guides/diy/make-cold-wallet-washers/",
-      "description": "The Blockmit Jig is perfect for keeping your spacing perfect when punching your own seed phrase into washers.",
-      "image": "./../images/blockmit.jpg"
+      "description": "The Blockmit Jig is perfect for keeping your spacing perfect when punching your own seed phrase into washers. Verify steel quality!",
+      "image": "./../images/blockmit.jpg",
+      "pills": [
+        {
+          "pill": "Corrosion warining",
+          "color": "red"
+        }
+      ]
     },
     {
       "title": "Blockmit Plate",
       "url": "https://blockmit.com/guias/hazlo-tu-mismo/fabrica-billetera-fria-placa-mediana/",
-      "description": "The Blockmit Plate is perfect for keeping your spacing perfect when punching your own seed phrase into steel plates.",
-      "image": "./../images/blockmitplate.jpg"
+      "description": "The Blockmit Plate is perfect for keeping your spacing perfect when punching your own seed phrase into steel plates. Verify steel quality!",
+      "image": "./../images/blockmitplate.jpg",
+      "pills": [
+        {
+          "pill": "Corrosion warining",
+          "color": "red"
+        }
+      ]
     },
     {
       "title": "Privacy Pros Faraday Bags",
