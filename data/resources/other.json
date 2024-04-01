@@ -5,6 +5,7 @@
   "lead": "More resources to learn about bitcoin.",
   "icon": "info-circle",
   "iconPrefix": "fas",
+  "lastUpdate": "1 April 2024",
   "links": [
     {
       "title": "BTC Sessions",
@@ -20,7 +21,7 @@
     },
     {
       "title": "Matt Odell",
-      "url": "https://mattodell.keybase.pub",
+      "url": "https://odell.xyz/",
       "description": "Matt focuses on bitcoin, distributed systems, and privacy.",
       "image": "./../images/bitcoin.png"
     },      

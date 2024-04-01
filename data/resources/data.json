@@ -7,6 +7,12 @@
   "iconPrefix": "fas",
   "links": [
     {
+      "title": "Nakamoto Portfolio",
+      "url": "https://nakamotoportfolio.com/nakamoto/start",
+      "description": "A set of tools, research and open source code to explore the ground breaking effects that Bitcoin has on the financial world.",
+      "image": "./../images/nakamoto-portfolio.png"
+    },
+    {
       "title": "Bitcoinal",
       "url": "https://bitcoinal.com",
       "description": "Follow the price of Bitcoin in real time with live animations.",
@@ -44,7 +50,7 @@
     },
     {
       "title": "Johoe's Bitcoin Mempool Statistics",
-      "url": "https://jochen-hoenicke.de/queu/",
+      "url": "https://mempool.jhoenicke.de/",
       "description": "This page displays the number and size of the unconfirmed bitcoin transactions, also known as the transactions in the mempool.",
       "image": "./../images/mempool.png"
     },
@@ -53,12 +59,6 @@
       "url": "https://transactionfee.info/charts/",
       "description": "Transaction fees on the Bitcoin network.",
       "image": "./../images/transactionfee.png"
-    },
-    {
-      "title": "CoinMarketCap",
-      "url": "https://coinmarketcap.com/currencies/bitcoin/",
-      "description": "Latest bitcoin price, BTC market cap, charts and data.",
-      "image": "./../images/coinmarketcap.png"
     },
     {
       "title": "Bitcoin Rich List",

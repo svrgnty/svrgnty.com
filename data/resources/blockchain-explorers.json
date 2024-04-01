@@ -5,6 +5,7 @@
   "lead": "Explore blocks, addresses, and transactions.",
   "icon": "dice-d6",
   "iconPrefix": "fas",
+  "lastUpdate": "1 April 2024",
   "links": [
     {
       "title": "Mempool.space",
@@ -15,8 +16,14 @@
     {
       "title": "Bitcoin Explorer",
       "url": "https://bitcoinexplorer.org/",
-      "description": "Free, open-source, easy-to-setup, easy-to-use, self-hosted explorer",
+      "description": "Free, open-source, easy-to-setup, easy-to-use, self-hosted explorer.",
       "image": "./../images/bitcoin-explorer.png"
+    },
+    {
+      "title": "Bitcoin Explorer",
+      "url": "https://bitcoin.jonasschnelli.ch/explorer/",
+      "description": "A trivial block explorer written in a single PHP file.",
+      "image": "./../images/jonas-explorer.png"
     },
     {
       "title": "OXT",

@@ -6,7 +6,7 @@
   "description": "The Bitcoin network is a decentralized peer-to-peer (P2P) network made up of thousands of nodes. Each node keeps a copy of the Bitcoin blockchain and verifies every single transaction and block. By running a full node you can verify the state of the ledger yourself, rather than trusting a third party. Running a full node also makes the network more robust, making it more decentralized and resistant to certain types of attacks. Support the Bitcoin network by running your own full node.",
   "icon": "hdd",
   "iconPrefix": "fas",
-  "lastUpdate": "30 June 2023",
+  "lastUpdate": "1 April 2024",
   "links": [
     {
       "title": "Start9",
@@ -42,8 +42,8 @@
     },
     {
       "title": "RaspiBlitz",
-      "url": "https://shop.fulmo.org/raspiblitz/",
-      "description": "The RaspiBlitz is a do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode.",
+      "url": "https://github.com/raspiblitz/raspiblitz",
+      "description": "The RaspiBlitz is a do-it-yourself Lightning Node based on LND running together with a Bitcoin full node.",
       "pills": [
         {
           "pill": "DIY",
@@ -54,7 +54,35 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/raspiblitz.png"
+      "image": "./../images/raspiblitz.jpg"
+    },
+    {
+      "title": "RaspiBolt",
+      "url": "https://raspibolt.org/",
+      "description": "Build your own “do-everything-yourself” Bitcoin full node that will make you a sovereign peer in the Bitcoin and Lightning network.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/raspibolt.png"
+    },
+    {
+      "title": "Parmanode",
+      "url": "https://parmanode.com/",
+      "description": "Open Source, easy AF Bitcoin node for Desktop Computers and Pi.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/arman.png"
     },
     {
       "title": "Umbrel",

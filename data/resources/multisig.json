@@ -6,7 +6,7 @@
   "description": "Multisig, short for multi-signature, is a security protocol that requires at least two keys to authorize a transaction. It can be seen as a lock that only opens with enough keys out of a predefined set of keys. Enhance the security of your bitcoin wallet with multisig.",
   "icon": "key",
   "iconPrefix": "fas",
-  "lastUpdate": "06 February 2023",
+  "lastUpdate": "1 April 2024",
   "links": [
     {
       "title": "Sparrow Wallet",
@@ -27,7 +27,7 @@
     {
       "title": "Specter Desktop",
       "url": "https://specter.solutions/desktop/",
-      "description": "Your Bitcoin node, on your hardware, paired with your signing devices, creating secure wallets for bitcoin self-custody..",
+      "description": "Your Bitcoin node, on your hardware, paired with your signing devices, creating secure wallets for bitcoin self-custody.",
       "pills": [
         {
           "pill": "Intermediate",
@@ -41,9 +41,9 @@
       "image": "./../images/specter-multisig.jpg"
     },
     {
-      "title": "Lily Wallet",
-      "url": "https://lily-wallet.com",
-      "description": "Lily combines bitcoin standard practices with an easy to understand user interface to keep your bitcoin secure and accessible.",
+      "title": "Nunchuk",
+      "url": "https://nunchuk.io",
+      "description": "Security. Inheritance planning. Ease of use.",
       "pills": [
         {
           "pill": "Easy",
@@ -62,7 +62,47 @@
           "color": "grey"
         }
       ],
-      "image": "./../images/lily.png"
+      "image": "./../images/nunchuk.png"
+    },
+    {
+      "title": "Keeper",
+      "url": "https://bitcoinkeeper.app/",
+      "description": "Bitcoin Keeper is an open source, bitcoin-only app designed for seasoned bitcoin hodlers. Built to store bitcoin over a prolonged period of time, Keeper helps you source, clean, and stack sats across different kinds of wallets.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        },
+        {
+          "pill": "Collaborative",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/keeper.png"
+    },
+    {
+      "title": "Liana",
+      "url": "https://wizardsardine.com/liana/",
+      "description": "Liana is a simple Bitcoin wallet leveraging on-chain timelocks for safety and recovery.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "DIY",
+          "color": "blue"
+        },
+        {
+          "pill": "Paid",
+          "color": "grey"
+        }
+      ],
+      "image": "./../images/liana.png"
     },
     {
       "title": "Caravan",
@@ -139,30 +179,6 @@
         }
       ],
       "image": "./../images/electrum.png"
-    },
-    {
-      "title": "Nunchuk",
-      "url": "https://nunchuk.io",
-      "description": "Security. Inheritance planning. Ease of use.",
-      "pills": [
-        {
-          "pill": "Easy",
-          "color": "green"
-        },
-        {
-          "pill": "DIY",
-          "color": "blue"
-        },
-        {
-          "pill": "Collaborative",
-          "color": "purple"
-        },
-        {
-          "pill": "Paid",
-          "color": "grey"
-        }
-      ],
-      "image": "./../images/nunchuk.png"
     }
   ]
 }

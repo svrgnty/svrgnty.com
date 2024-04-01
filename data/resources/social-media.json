@@ -6,19 +6,13 @@
   "description": "Social media is a great place to connect with other Bitcoiners and to learn more about it.",
   "icon": "users",
   "iconPrefix": "fas",
-  "lastUpdate": "27 January 2023",
+  "lastUpdate": "1 April 2024",
   "links": [
     {
       "title": "Bitcoin Twitter",
       "url": "https://twitter.com/svrgnty/following",
       "description": "People to follow on Twitter.",
       "image": "./../images/twitter.png"
-    },
-    {
-      "title": "Bitcoin Twitter Community",
-      "url": "https://hive.one/c/bitcoin",
-      "description": "Algorithmically generated list of the Bitcoin Twitter community.",
-      "image": "./../images/hive.png"
     },
     {
       "title": "Snort nostr import",
@@ -37,12 +31,6 @@
       "url": "https://www.reddit.com/r/Bitcoin",
       "description": "A community dedicated to Bitcoin.",
       "image": "./../images/bitcoinreddit.png"
-    },
-    {
-      "title": "Bitcoin Beginners Reddit",
-      "url": "https://www.reddit.com/r/BitcoinBeginners",
-      "description": "A subreddit for new users to ask Bitcoin related questions.",
-      "image": "./../images/reddit.png"
     }
   ]
 }

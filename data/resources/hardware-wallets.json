@@ -8,8 +8,46 @@
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "30 June 2023",
+  "lastUpdate": "1 April 2024",
   "links": [
+    {
+      "title": "Coldcard Q",
+      "url": "https://coldcard.com/q",
+      "description": "Same security features as the Coldcard, but in addition it has a full QWERTY keyboard, a larger LCD screen that's easy to read, a real QR scanner, and more",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Verifiable source code",
+          "category": "orange"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "USB, SD card, NFC, QR",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Multiple security features",
+          "category": "green"
+        },
+        {
+          "label": "Price",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/coldcard-q.png"
+    },
     {
       "title": "Coldcard MK4",
       "url": "https://coldcard.com/",
@@ -47,6 +85,82 @@
         }
       ],
       "image": "./../images/coldcard-mk4.png"
+    },
+    {
+      "title": "Passport",
+      "url": "https://foundation.xyz/",
+      "description": "Crafted from premium materials, and with premium price point.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "QR, SD card",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
+        },
+        {
+          "label": "Price",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/passport.png"
+    },
+    {
+      "title": "Portal",
+      "url": "https://twenty-two.xyz/",
+      "description": "The first mobile-native hardware wallet, which is also completely open-source.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "NFC",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NFC powered",
+          "category": "grey"
+        },
+        {
+          "label": "Price",
+          "description": "$$",
+          "category": "orange"
+        }
+      ],
+      "image": "./../images/portal.png"
     },
     {
       "title": "SeedSigner",
@@ -125,6 +239,44 @@
       "image": "./../images/specter-diy.jpg"
     },
     {
+      "title": "Krux",
+      "url": "https://selfcustody.github.io/krux/",
+      "description": "Open-source firmware that enables anyone to build a Bitcoin signing device with off-the-shelf parts such as the M5StickV and Maix Amigo.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Off-the-shelf, No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "QR",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "DIY & Stateless, Beta",
+          "category": "red"
+        },
+        {
+          "label": "Price",
+          "description": "$",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/krux.png"
+    },
+    {
       "title": "Trezor Model One",
       "url": "https://trezor.io/trezor-model-one",
       "description": "Cold storage hardware wallet designed to keep your sats safe. As the first bitcoin hardware wallet, it has a proven track record.",
@@ -156,11 +308,49 @@
         },
         {
           "label": "Price",
+          "description": "$",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/trezor-model-one.png"
+    },
+    {
+      "title": "Trezor Safe 3",
+      "url": "https://trezor.io/trezor-safe-3",
+      "description": "The newest Trezor hardware wallet with Secure Element protection, open-source design, and on-device confirmation.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "USB",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Firmware available",
+          "category": "orange"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
+        },
+        {
+          "label": "Price",
           "description": "$$",
           "category": "orange"
         }
       ],
-      "image": "./../images/trezor-model-one.png"
+      "image": "./../images/trezor-safe-3.png"
     },
     {
       "title": "Trezor Model T",
@@ -199,44 +389,6 @@
         }
       ],
       "image": "./../images/trezor-model-t.png"
-    },
-    {
-      "title": "Passport",
-      "url": "https://foundationdevices.com",
-      "description": "Crafted from premium materials, and with premium price point.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "Closed-source secure element",
-          "category": "orange"
-        },
-        {
-          "label": "Signing",
-          "description": "QR, SD card",
-          "category": "green"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
-        },
-        {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
-        }
-      ],
-      "image": "./../images/passport.png"
     },
     {
       "title": "BitBox02",
@@ -315,24 +467,14 @@
       "image": "./../images/jade.png"
     },
     {
-      "title": "Krux",
-      "url": "https://selfcustody.github.io/krux/",
-      "description": "Open-source firmware that enables anyone to build a Bitcoin signing device with off-the-shelf parts such as the M5StickV and Maix Amigo.",
+      "title": "Opendime",
+      "url": "https://opendime.com/",
+      "description": "Not a hardware wallet. Opendime is a small USB stick that allows you to spend Bitcoin like a dollar bill. Pass it along multiple times. Connect to any USB to check balance. Unseal anytime to spend online.",
       "details" : [
         {
           "label": "Firmware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "Off-the-shelf, No secure element",
+          "description": "Verifiable source code",
           "category": "orange"
-        },
-        {
-          "label": "Signing",
-          "description": "QR",
-          "category": "green"
         },
         {
           "label": "Bitcoin Only",
@@ -341,8 +483,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "DIY & Stateless, Beta",
-          "category": "red"
+          "description": "Bearer instrument",
+          "category": "green"
         },
         {
           "label": "Price",
@@ -350,7 +492,7 @@
           "category": "green"
         }
       ],
-      "image": "./../images/krux.png"
+      "image": "./../images/opendime.png"
     }
   ]
 }
