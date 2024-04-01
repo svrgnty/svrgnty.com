@@ -20,7 +20,7 @@ const Footer = () => (
         <ul>
           <li><a href="https://github.com/svrgnty/svrgnty.com"><FontAwesomeIcon icon={brands('github')} /> <span className="element-invisible">Github</span></a></li>
           <li><a href="https://snort.social/p/npub17wmr8scqqlp0hmdm6q5v96tnqejsfs238zez6hpy794xtudfpmzqf7kms8"><FontAwesomeIcon icon={solid('feather-pointed')} /> <span className="element-invisible">Nostr</span></a></li>
-          <li><a href="https://twitter.com/svrgnty"><FontAwesomeIcon icon={brands('twitter')} /> <span className="element-invisible">X</span></a></li>
+          <li><a href="https://twitter.com/svrgnty"><FontAwesomeIcon icon={brands('x-twitter')} /> <span className="element-invisible">X</span></a></li>
         </ul>
       </div>
     </div>
