@@ -8,7 +8,7 @@
   "icon": "mobile",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "30 January 2023",
+  "lastUpdate": "2 April 2024",
   "links": [
     {
       "title": "Zeus",
@@ -163,6 +163,44 @@
       "image": "./../images/green-graphic.png"
     },
     {
+      "title": "Aqua",
+      "url": "https://aquawallet.io/",
+      "description": "Simple Bitcoin wallet.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain, Lightning, Liquid",
+          "category": "orange"
+        },
+        {
+          "label": "Own Node",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "TOR",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/aqua.png"
+    },
+    {
       "title": "Phoenix",
       "url": "https://phoenix.acinq.co",
       "description": "Phoenix is a self-custodial Bitcoin wallet that works on Lightning. It makes Bitcoin easy, safe, and fast.",
@@ -239,13 +277,13 @@
       "image": "./../images/breez.png"
     },
     {
-      "title": "Zap",
-      "url": "https://zaphq.io/",
-      "description": "Zap is a simple, non-custodial, Lightning wallet.",
+      "title": "BitBanana",
+      "url": "https://bitbanana.app/",
+      "description": "BitBanana is a native android app for node operators focused on user experience and ease of use. While it is not a wallet on its own, BitBanana works like a remote control allowing you to use your node as a wallet wherever you go.",
       "details": [
         {
           "label": "OS",
-          "description": "Android, iOS",
+          "description": "Android",
           "category": "grey"
         },
         {
@@ -260,8 +298,8 @@
         },
         {
           "label": "Own Node",
-          "description": "No",
-          "category": "red"
+          "description": "Yes",
+          "category": "green"
         },
         {
           "label": "TOR",
@@ -274,7 +312,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/zap-app.png"
+      "image": "./../images/bitbanana.png"
     },
     {
       "title": "Muun",
