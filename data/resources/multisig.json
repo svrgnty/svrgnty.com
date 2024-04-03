@@ -6,7 +6,7 @@
   "description": "Multisig, short for multi-signature, is a security protocol that requires at least two keys to authorize a transaction. It can be seen as a lock that only opens with enough keys out of a predefined set of keys. Enhance the security of your bitcoin wallet with multisig.",
   "icon": "key",
   "iconPrefix": "fas",
-  "lastUpdate": "1 April 2024",
+  "lastUpdate": "3 April 2024",
   "links": [
     {
       "title": "Sparrow Wallet",
@@ -121,6 +121,26 @@
       "image": "./../images/unchained.png"
     },
     {
+      "title": "Casa Keymaster",
+      "url": "https://keys.casa/",
+      "description": "Casa Keymaster multisig is the safest way to store your bitcoin. Own your keys for total peace of mind.",
+      "pills": [
+        {
+          "pill": "Easy",
+          "color": "green"
+        },
+        {
+          "pill": "Collaborative",
+          "color": "purple"
+        },
+        {
+          "pill": "Paid",
+          "color": "grey"
+        }
+      ],
+      "image": "./../images/casa.png"
+    },
+    {
       "title": "Unchained Personal Vault",
       "url": "https://unchained.com/vaults/",
       "description": "Get enhanced security with an easy-to-use multisig vault solution that leaves you with sovereignty over your keys and bitcoin.",
@@ -145,9 +165,9 @@
       "image": "./../images/unchained.png"
     },
     {
-      "title": "Casa Keymaster",
-      "url": "https://keys.casa/",
-      "description": "Casa Keymaster multisig is the safest way to store your bitcoin. Own your keys for total peace of mind.",
+      "title": "Swan Vault",
+      "url": "https://www.swanbitcoin.com/vault/",
+      "description": "Swan Vault makes Bitcoin self-custody convenient and accessible to all users, including newcomers and non-experts.",
       "pills": [
         {
           "pill": "Easy",
@@ -158,11 +178,15 @@
           "color": "purple"
         },
         {
+          "pill": "KYC",
+          "color": "red"
+        },
+        {
           "pill": "Paid",
           "color": "grey"
         }
       ],
-      "image": "./../images/casa.png"
+      "image": "./../images/swan.png"
     },
     {
       "title": "Electrum Wallet",
