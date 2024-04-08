@@ -6,13 +6,19 @@
   "description": "Social media is a great place to connect with other Bitcoiners and to learn more about it.",
   "icon": "users",
   "iconPrefix": "fas",
-  "lastUpdate": "1 April 2024",
+  "lastUpdate": "8 April 2024",
   "links": [
     {
       "title": "Bitcoin X (formerly twitter)",
       "url": "https://twitter.com/svrgnty/following",
       "description": "People to follow on X.",
       "image": "./../images/twitter.png"
+    },
+    {
+      "title": "nostr Resources",
+      "url": "https://nostr-resources.com/",
+      "description": "nostr is new and confusing but also really cool. It is the simplest open protocol that is able to create a censorship-resistant global “social” network once and for all.",
+      "image": "./../images/nostr-resources.png"
     },
     {
       "title": "Snort nostr import",

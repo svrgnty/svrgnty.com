@@ -5,7 +5,14 @@
   "lead": "Bitcoin charts, data, metrics, and reports.",
   "icon": "chart-line",
   "iconPrefix": "fas",
+  "lastUpdate": "8 April 2024",
   "links": [
+    {
+      "title": "Timechain Calendar",
+      "url": "https://timechaincalendar.com/",
+      "description": "Live data from the Bitcoin timechain with past block lookup and other calendar features.",
+      "image": "./../images/timechain-calendar.png"
+    },
     {
       "title": "Nakamoto Portfolio",
       "url": "https://nakamotoportfolio.com/nakamoto/start",
