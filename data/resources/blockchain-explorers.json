@@ -1,5 +1,5 @@
 {
-  "position": 11,
+  "position": 12,
   "page": "/resources/blockchain-explorers/",
   "title": "Blockchain Explorers",
   "lead": "Explore blocks, addresses, and transactions.",
@@ -14,7 +14,7 @@
       "image": "./../images/mempool-space.png"
     },
     {
-      "title": "Bitcoin Explorer",
+      "title": "Bitcoin RPC Explorer",
       "url": "https://bitcoinexplorer.org/",
       "description": "Free, open-source, easy-to-setup, easy-to-use, self-hosted explorer.",
       "image": "./../images/bitcoin-explorer.png"
