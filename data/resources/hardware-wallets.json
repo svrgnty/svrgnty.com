@@ -13,7 +13,7 @@
     {
       "title": "Coldcard Q",
       "url": "https://coldcard.com/q",
-      "description": "Same security features as the Coldcard, but in addition it has a full QWERTY keyboard, a larger LCD screen that's easy to read, a real QR scanner, and more",
+      "description": "Same security features as the Coldcard, but in addition it has a full QWERTY keyboard, a larger LCD screen, QR scanner, and more.",
       "details" : [
         {
           "label": "Firmware",
@@ -123,6 +123,44 @@
         }
       ],
       "image": "./../images/passport.png"
+    },
+    {
+      "title": "Keystone 3 Pro",
+      "url": "https://keyst.one/btc-only",
+      "description": "Open-source and equipped with 3 secure elements.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "QR, SD card",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Touch Screen",
+          "category": "grey"
+        },
+        {
+          "label": "Price",
+          "description": "$$$",
+          "category": "red"
+        }
+      ],
+      "image": "./../images/keystone.png"
     },
     {
       "title": "Portal",
@@ -265,8 +303,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "DIY & Stateless, Beta",
-          "category": "red"
+          "description": "DIY & Stateless",
+          "category": "orange"
         },
         {
           "label": "Price",
