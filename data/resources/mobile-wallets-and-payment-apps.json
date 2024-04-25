@@ -8,7 +8,7 @@
   "icon": "mobile",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "2 April 2024",
+  "lastUpdate": "25 April 2024",
   "links": [
     {
       "title": "Zeus",
@@ -87,9 +87,9 @@
       "image": "./../images/bluewallet.png"
     },
     {
-      "title": "Samourai",
-      "url": "https://samouraiwallet.com",
-      "description": "A bitcoin wallet designed to keep your transactions private, your identity masked, and your funds secured.",
+      "title": "Brainbow",
+      "url": "https://brainbow.space/",
+      "description": "Bitcoin Brainbow: A stateless, noncustodial, deterministic Bitcoin wallet powered by the WarpWallet technique. Seamlessly loading your secure HD Wallet using credentials making it your ultimate run away wallet.",
       "details": [
         {
           "label": "OS",
@@ -98,18 +98,18 @@
         },
         {
           "label": "Open-source",
-          "description": "Builds not reproducible",
-          "category": "orange"
+          "description": "Yes",
+          "category": "green"
         },
         {
           "label": "Layers",
-          "description": "On-Chain only",
+          "description": "On-Chain",
           "category": "orange"
         },
         {
           "label": "Own Node",
-          "description": "Dojo only",
-          "category": "orange"
+          "description": "Yes",
+          "category": "green"
         },
         {
           "label": "TOR",
@@ -118,11 +118,11 @@
         },
         {
           "label": "Additional Info",
-          "description": "Security features",
-          "category": "green"
+          "description": "Brainwallet",
+          "category": "grey"
         }
       ],
-      "image": "./../images/samourai.png"
+      "image": "./../images/brainbow.png"
     },
     {
       "title": "Blockstream Green",

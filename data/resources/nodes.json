@@ -6,7 +6,7 @@
   "description": "The Bitcoin network is a decentralized peer-to-peer (P2P) network made up of thousands of nodes. Each node keeps a copy of the Bitcoin blockchain and verifies every single transaction and block. By running a full node you can verify the state of the ledger yourself, rather than trusting a third party. Running a full node also makes the network more robust, making it more decentralized and resistant to certain types of attacks. Support the Bitcoin network by running your own full node.",
   "icon": "hdd",
   "iconPrefix": "fas",
-  "lastUpdate": "8 April 2024",
+  "lastUpdate": "25 April 2024",
   "links": [
     {
       "title": "Start9",
@@ -119,22 +119,6 @@
         }
       ],
       "image": "./../images/runcitadel.png"
-    },
-    {
-      "title": "RoninDojo",
-      "url": "https://ronindojo.io/index",
-      "description": "A stack that is extremely focused and pointed at what you will use and need as a privacy-focused Bitcoiner. Integrates with Samourai wallet",
-      "pills": [
-        {
-          "pill": "DIY",
-          "color": "green"
-        },
-        {
-          "pill": "Plug & Play",
-          "color": "blue"
-        }
-      ],
-      "image": "./../images/ronindojo.png"
     },
     {
       "title": "Bitcoin Core Wallet",
