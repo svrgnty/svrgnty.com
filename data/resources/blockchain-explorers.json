@@ -26,12 +26,6 @@
       "image": "./../images/jonas-explorer.png"
     },
     {
-      "title": "OXT",
-      "url": "https://oxt.me",
-      "description": "Exploratory blockchain analysis tool for the Bitcoin blockchain.",
-      "image": "./../images/oxt.png"
-    },
-    {
       "title": "Bitcoin Explorer - Blockstream.info",
       "url": "https://blockstream.info",
       "description": "Blockstream Explorer is an open source block explorer providing detailed blockchain data. Supports Tor and tracking-free.",
