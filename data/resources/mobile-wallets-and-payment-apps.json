@@ -8,7 +8,7 @@
   "icon": "mobile",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "25 April 2024",
+  "lastUpdate": "26 April 2024",
   "links": [
     {
       "title": "Zeus",
@@ -75,8 +75,8 @@
         },
         {
           "label": "TOR",
-          "description": "Yes",
-          "category": "green"
+          "description": "With Orbot",
+          "category": "orange"
         },
         {
           "label": "Additional Info",
@@ -161,44 +161,6 @@
         }
       ],
       "image": "./../images/aqua.png"
-    },
-    {
-      "title": "Phoenix",
-      "url": "https://phoenix.acinq.co",
-      "description": "Phoenix is a self-custodial Bitcoin wallet that works on Lightning. It makes Bitcoin easy, safe, and fast.",
-      "details": [
-        {
-          "label": "OS",
-          "description": "Android, iOS",
-          "category": "grey"
-        },
-        {
-          "label": "Open-source",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Layers",
-          "description": "Lightning, On-chain converted to Lightning",
-          "category": "orange"
-        },
-        {
-          "label": "Own Node",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "TOR",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Min Lightning balance",
-          "category": "orange"
-        }
-      ],
-      "image": "./../images/phoenix.png"
     },
     {
       "title": "Breez",
