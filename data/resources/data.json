@@ -20,6 +20,12 @@
       "image": "./../images/nakamoto-portfolio.png"
     },
     {
+      "title": "Bull Bitcoin Fee Multiple",
+      "url": "https://feemultiple.bullbitcoin.com/",
+      "description": "The Bull Bitcoin Fee Multiple is an indicator which shows clearly if the current Bitcoin Network fees are high or low relative to the average of the past year and the past month.",
+      "image": "./../images/bullbitcoin.png"
+    },
+    {
       "title": "Bitcoinal",
       "url": "https://bitcoinal.com",
       "description": "Follow the price of Bitcoin in real time with live animations.",
