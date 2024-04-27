@@ -47,12 +47,6 @@
       "url": "https://seedpicker.net",
       "description": "Construct your own Seed Phrase and calculate the corresponding Extended Public Key.",
       "image": "./../images/seedpicker.png"
-    },
-    {
-      "title": "TX Pusher",
-      "url": "https://www.txpusher.com/",
-      "description": "TX Pusher allows you to automatically broadcast your signed Bitcoin transaction based on predefined conditions.",
-      "image": "./../images/tx-pusher.png"
     }
   ]
 }
