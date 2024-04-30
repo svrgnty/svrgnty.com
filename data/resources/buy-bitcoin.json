@@ -8,7 +8,7 @@
   "icon": "bitcoin",
   "iconPrefix": "fab",  
   "cardType": "extended",
-  "lastUpdate": "16 January 2023",
+  "lastUpdate": "30 April 2024",
   "links": [
     {
       "title": "Peach",
@@ -17,7 +17,7 @@
       "details": [
         {
           "label": "Available",
-          "description": "Switzerland, Europe",
+          "description": "Switzerland, Europe, Latin America",
           "category": "grey"
         },
         {
