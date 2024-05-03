@@ -184,7 +184,7 @@
   }
 
 
-  a {
+  > a {
     height: auto;
 
     @include bp(small) {
@@ -235,7 +235,12 @@
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
       background: $pill-grey;
-      border: 3px $base-font-color solid;
+      border: 3px $pill-orange solid;
+
+      a:hover {
+        background: none;
+        text-decoration: underline solid $pill-orange 2px;
+      }
     }
   }
 }
