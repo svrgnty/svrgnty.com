@@ -13,7 +13,7 @@
     {
       "title": "Peach",
       "url": "https://peachbitcoin.com",
-      "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.<br><strong>Referral code: SVRGNTY</strong>",
+      "description": "Peach is a mobile application that connects Bitcoin Buyers & Sellers together.",
       "details": [
         {
           "label": "Available",
@@ -36,9 +36,9 @@
           "category": "green"
         },
         {
-          "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
+          "label": "Referral code",
+          "description": "SVRGNTY",
+          "category": "referral"
         }
       ],
       "image": "./../images/peach.jpg"
@@ -46,7 +46,7 @@
     {
       "title": "Relai",
       "url": "https://relai.app",
-      "description": "Investing in bitcoin made easy. Instant start, no deposit, auto invest, no registration, high security.<br><strong>Referral code: REL1080</strong>",
+      "description": "Investing in bitcoin made easy. Instant start, no deposit, auto invest, no registration, high security.",
       "details": [
         {
           "label": "Available",
@@ -69,12 +69,45 @@
           "category": "green"
         },
         {
-          "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
+          "label": "Referral code",
+          "description": "REL1080",
+          "category": "referral"
         }
       ],
       "image": "./../images/relai.png"
+    },
+    {
+      "title": "Pocket",
+      "url": "https://pocketbitcoin.com/",
+      "description": "Pocket automatically exchanges your bank transfers into bitcoin and sends them directly to your own bitcoin wallet.",
+      "details": [
+        {
+          "label": "Available",
+          "description": "Switzerland, Europe",
+          "category": "grey"
+        },
+        {
+          "label": "KYC",
+          "description": "Partial",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "Own Wallet",
+          "category": "green"
+        },
+        {
+          "label": "Referral code",
+          "description": "GYDTKS",
+          "category": "referral"
+        }
+      ],
+      "image": "./../images/pocket.png"
     },
     {
       "title": "Robosats",

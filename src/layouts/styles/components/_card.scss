@@ -229,6 +229,14 @@
     &.grey {
       background: $pill-grey;
     }
+
+    &.referral {
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      background: $pill-grey;
+      border: 3px $base-font-color solid;
+    }
   }
 }
 
