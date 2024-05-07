@@ -8,7 +8,7 @@
   "icon": "bitcoin",
   "iconPrefix": "fab",  
   "cardType": "extended",
-  "lastUpdate": "3 May 2024",
+  "lastUpdate": "7 May 2024",
   "links": [
     {
       "title": "Peach",
@@ -174,39 +174,6 @@
         }
       ],
       "image": "./../images/hodlhodl.png"
-    },
-    {
-      "title": "AgoraDesk",
-      "url": "https://agoradesk.com/",
-      "description": "Buy and sell Bitcoin online without ID verification - use PayPal, credit/debit card or bank transfer, gift cards, cash by mail, Venmo or any other method.",
-      "details": [
-        {
-          "label": "Available",
-          "description": "Globally",
-          "category": "grey"
-        },
-        {
-          "label": "KYC",
-          "description": "No",
-          "category": "green"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Keys",
-          "description": "External Address",
-          "category": "green"
-        },
-        {
-          "label": "Referral link",
-          "description": "<a href='https://agoradesk.com/?rc=k0ey' target='_blank'>agoradesk.com</a>",
-          "category": "referral"
-        }
-      ],
-      "image": "./../images/agora.png"
     },
     {
       "title": "Robosats",
