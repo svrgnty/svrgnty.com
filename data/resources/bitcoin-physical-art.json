@@ -1,0 +1,47 @@
+{
+    "position": 15,
+    "page": "/resources/physical-bitcoin-art/",
+    "title": "Physical Bitcoin Art",
+    "lead": "\"Physical #Bitcoin art is inspirational\" – Mandrik",
+    "icon": "paintbrush",
+    "iconPrefix": "fas",
+    "lastUpdate": "10 May 2024",
+    "links": [
+      {
+        "title": "MADEX Art",
+        "url": "https://madex.art/",
+        "description": "MVDEX (MADEX) Art and Rare Products.",
+        "image": "./../images/madex.jpg"
+      },
+      {
+        "title": "cryptograffiti",
+        "url": "https://cryptograffiti.com/",
+        "description": "#bitcoin activist artist",
+        "image": "./../images/cryptograffiti.png"
+      },
+      {
+        "title": "NAJP",
+        "url": "https://najp.ch/",
+        "description": "Bitcoin Physical Art.",
+        "image": "./../images/najp.png"
+      },
+      {
+        "title": "RYR",
+        "url": "https://ryrstudio.com/",
+        "description": "Shredded FIAT banknotes.",
+        "image": "./../images/ryr.jpg"
+      },
+      {
+        "title": "Kanuto",
+        "url": "https://kanuto.io/",
+        "description": "Bitcoin related design & unique artwork.",
+        "image": "./../images/kanuto.png"
+      },
+      {
+        "title": "Bitcoin Apex Art",
+        "url": "https://www.bitcoinapexart.com/",
+        "description": "Unique Bitcoin pencil art.",
+        "image": "./../images/apex.png"
+      }
+    ]
+  }
