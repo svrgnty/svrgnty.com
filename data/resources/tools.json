@@ -5,6 +5,7 @@
   "lead": "Useful bitcoin tools.",
   "icon": "toolbox",
   "iconPrefix": "fas",
+  "lastUpdate": "16 May 2024",
   "links": [
     {
       "title": "Wallet Scrutiny",
@@ -41,12 +42,6 @@
       "url": "https://github.com/alexk111/HD-Wallet-Scanner",
       "description": "Find all used addresses in your bitcoin hardware wallets bypassing gap limits.",
       "image": "./../images/hdwalletscanner.png"
-    },
-    {
-      "title": "SeedPicker",
-      "url": "https://seedpicker.net",
-      "description": "Construct your own Seed Phrase and calculate the corresponding Extended Public Key.",
-      "image": "./../images/seedpicker.png"
     }
   ]
 }

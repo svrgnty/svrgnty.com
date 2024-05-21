@@ -6,7 +6,7 @@
   "description": "Harden your security model and ensure the safety of your seeds and hardware wallets.",
   "icon": "lock",
   "iconPrefix": "fas",
-  "lastUpdate": "30 June 2023",
+  "lastUpdate": "21 May 2024",
   "links": [
     {
       "title": "SEEDPLATE",
@@ -15,11 +15,23 @@
       "image": "./../images/seedplate.png"
     },
     {
+      "title": "Sx6",
+      "url": "https://sx6.store/",
+      "description": "Sx6 Metal Seed Phrase Backup Plate.",
+      "image": "./../images/sx6.png"
+    },
+    {
       "title": "BitPLATES",
       "url": "https://www.bitplates.com/",
       "description": "Created so that you can keep your backup safe in a covert manner.",
       "image": "./../images/bitplates.png"
-    },  
+    },
+    {
+      "title": "Blockplate",
+      "url": "https://www.blockplate.com/",
+      "description": "Blockplate is the easiest way to protect your seed phrase from the unexpected — tested and proven to ensure your bitcoin will last a lifetime.",
+      "image": "./../images/blockplate.png"
+    },
     {
       "title": "Metal Bitcoin Seed Storage Reviews",
       "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",

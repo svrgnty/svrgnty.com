@@ -6,19 +6,8 @@
   "description": "Bitcoin is a decentralized, open-source, peer-to-peer digital currency. There's no government, institution (e.g. bank), or other authority that controls it. Transactions of the digital asset, bitcoin, are made with no middle men and are recorded in a public ledger called the blockchain. Sounds confusing? Learn more on how it works.",
   "icon": "btc",
   "iconPrefix": "fab",
+  "lastUpdate": "21 May 2024",
   "links": [
-    {
-      "title": "Bitcoin Explained - Illustrated Beginner's Guide",
-      "url": "https://www.upfolio.com/ultimate-bitcoin-guide",
-      "description": "Quick and simple explanations: Discover how Bitcoin works and why it’s so popular.",
-      "pills": [
-        {
-          "pill": "Read",
-          "color": "blue"
-        }
-      ],
-      "image": "./../images/upfolio.jpg"
-    },
     {
       "title": "Explain Bitcoin Like I’m Five",
       "url": "https://medium.com/free-code-camp/explain-bitcoin-like-im-five-73b4257ac833",
@@ -78,6 +67,18 @@
         }
       ],
       "image": "./../images/hood.png"
+    },
+    {
+      "title": "Learn me a bitcoin",
+      "url": "https://learnmeabitcoin.com/",
+      "description": "Explains how Bitcoin works in a way that everyone can understand.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/learnmeabitcoin.png"
     }
   ]
 }
