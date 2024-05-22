@@ -33,6 +33,12 @@
       "image": "./../images/blockplate.png"
     },
     {
+      "title": "Stamp Seed",
+      "url": "https://www.stampseed.com/",
+      "description": "Safeguard your bitcoin by hammering the seed words from your hardware wallet into titanium.",
+      "image": "./../images/stampseed.png"
+    },
+    {
       "title": "Metal Bitcoin Seed Storage Reviews",
       "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",
       "description": "Stress tests and reviews of seed storage devices.",
