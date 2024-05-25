@@ -4,69 +4,308 @@
   "title": "Storage & Backup",
   "lead": "Secure your seeds and hardware wallets.",
   "description": "Harden your security model and ensure the safety of your seeds and hardware wallets.",
+  "body": "<p>Putting your bitcoin seed phrase to metal ensures durability and longevity, protecting it from physical damage, fire, and water, and safeguarding your access to your bitcoin wallet. When choosing a metal plate, there are some things you should consider:</p><ul class='list'><li><strong>Type</strong>: There are several ways to put your see to metal, but the preferred methods are using a center punch, stamping, or etching the metal.</li><li><strong>Material</strong>: To ensure durability and longevity, it is important to use a high quality metal.</li><li><strong>Data</strong>: Different plates support different data, some are limited to the seed phrase, while other may be specific for a passphrase.</li><li><strong>Size</strong>: While sizes vary, in general smaller plates become more difficult to read and mark.</li><li><strong>Additional Info</strong>: Additional information to the steel plate.</li></ul>",
   "icon": "lock",
   "iconPrefix": "fas",
-  "lastUpdate": "21 May 2024",
+  "cardType": "extended",
+  "lastUpdate": "25 May 2024",
   "links": [
-    {
-      "title": "SEEDPLATE",
-      "url": "http://bitcoinseedbackup.com",
-      "description": "Bitcoin seed metal backup plate, 12.7x7.62cm.",
-      "image": "./../images/seedplate.png"
-    },
-    {
-      "title": "Sx6",
-      "url": "https://sx6.store/",
-      "description": "Sx6 Metal Seed Phrase Backup Plate.",
-      "image": "./../images/sx6.png"
-    },
     {
       "title": "BitPLATES",
       "url": "https://www.bitplates.com/",
       "description": "Created so that you can keep your backup safe in a covert manner.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Center punch",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "316L stainless steel",
+          "category": "green"
+        },
+        {
+          "label": "Data",
+          "description": "12-24 words",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "150mm x 100mm x 3mm (24 word)",
+          "category": "grey"
+        },
+        {
+          "label": "Referral code",
+          "description": "SVRGNTY",
+          "category": "referral"
+        }
+      ],
       "image": "./../images/bitplates.png"
+    },
+    {
+      "title": "SEEDPLATE",
+      "url": "http://bitcoinseedbackup.com",
+      "description": "Single plate design, 12 words per side. Quality steel cut and etched in Canada.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Center punch",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "304 stainless steel",
+          "category": "orange"
+        },
+        {
+          "label": "Data",
+          "description": "24 words",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "136mm x 84mm x 2mm",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/seedplate.png"
     },
     {
       "title": "Blockplate",
       "url": "https://www.blockplate.com/",
       "description": "Blockplate is the easiest way to protect your seed phrase from the unexpected — tested and proven to ensure your bitcoin will last a lifetime.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Center punch",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "304 stainless steel",
+          "category": "orange"
+        },
+        {
+          "label": "Data",
+          "description": "12-24 word, or Passphrase",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "155mm x 88mm x 3mm (24 word)",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "Passphrase plate available",
+          "category": "grey"
+        }
+      ],
       "image": "./../images/blockplate.png"
+    },
+    {
+      "title": "Sx6",
+      "url": "https://sx6.store/",
+      "description": "Sx6 Metal Seed Phrase Backup Plate.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Center punch",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "316L stainless steel",
+          "category": "green"
+        },
+        {
+          "label": "Data",
+          "description": "24 words and notes",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "110mm x 72mm x 2mm",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "Notes field on plate",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/sx6.png"
     },
     {
       "title": "Stamp Seed",
       "url": "https://www.stampseed.com/",
       "description": "Safeguard your bitcoin by hammering the seed words from your hardware wallet into titanium.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Stamp",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "Titanium",
+          "category": "green"
+        },
+        {
+          "label": "Data",
+          "description": "24 words and label",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "76mm x 76mm x 2mm",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
       "image": "./../images/stampseed.png"
     },
     {
-      "title": "Metal Bitcoin Seed Storage Reviews",
-      "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",
-      "description": "Stress tests and reviews of seed storage devices.",
-      "image": "./../images/mbssr.png"
+      "title": "SteelQR",
+      "url": "https://vulcan21.com/",
+      "description": "SteelQR backup plate allows you to back up your seed words as a scannable QR Code.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Center punch",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "316L stainless steel",
+          "category": "green"
+        },
+        {
+          "label": "Data",
+          "description": "12-24 word QR and notes",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "56mm x 56mm x 3mm",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "SeedSigner and Blockstream Jade compatible",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/steelqr.png"
+    },
+    {
+      "title": "SeedHammer",
+      "url": "https://seedhammer.com/",
+      "description": "Easily backup bitcoin multisig wallets with wallet descriptor onto stainless steel.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Automatic Etching",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "316L stainless steel",
+          "category": "green"
+        },
+        {
+          "label": "Data",
+          "description": "12-24 words, QR, and wallet descriptor",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "85mm x 85mm x 3mm",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "Ideal for multisig",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/seedhammer.png"
     },
     {
       "title": "Blockmit Washer Jig",
       "url": "https://blockmit.com/english/guides/diy/make-cold-wallet-washers/",
       "description": "The Blockmit Jig is perfect for keeping your spacing perfect when punching your own seed phrase into washers. Verify steel quality!",
-      "image": "./../images/blockmit.jpg",
-      "pills": [
+      "details": [
         {
-          "pill": "Corrosion warining",
-          "color": "red"
+          "label": "Type",
+          "description": "Stamp",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "Corrosion risk with low grade material",
+          "category": "red"
+        },
+        {
+          "label": "Data",
+          "description": "12-24 word",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "M8/24 Washer",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "DIY",
+          "category": "grey"
         }
-      ]
+      ],
+      "image": "./../images/blockmit.jpg"
     },
     {
       "title": "Blockmit Plate",
       "url": "https://blockmit.com/guias/hazlo-tu-mismo/fabrica-billetera-fria-placa-mediana/",
       "description": "The Blockmit Plate is perfect for keeping your spacing perfect when punching your own seed phrase into steel plates. Verify steel quality!",
-      "image": "./../images/blockmitplate.jpg",
-      "pills": [
+      "details": [
         {
-          "pill": "Corrosion warining",
-          "color": "red"
+          "label": "Type",
+          "description": "Stamp",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "Corrosion risk with low grade material",
+          "category": "red"
+        },
+        {
+          "label": "Data",
+          "description": "Custom",
+          "category": "grey"
+        },
+        {
+          "label": "Price",
+          "description": "85mm x 53mm",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "DIY",
+          "category": "grey"
         }
-      ]
+      ],
+      "image": "./../images/blockmitplate.jpg"
     },
     {
       "title": "Privacy Pros Faraday Bags",
@@ -79,6 +318,12 @@
       "url": "https://slnt.com/collections/faraday-sleeves",
       "description": "Designed to Instantly block ALL Wireless Signal including Cellular, GPS, WiFi, Bluetooth, RFID, and NFC.",
       "image": "./../images/silentpocket.png"
-    }  
+    },
+    {
+      "title": "Metal Bitcoin Seed Storage Reviews",
+      "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",
+      "description": "Stress tests and reviews of seed storage devices.",
+      "image": "./../images/mbssr.jpeg"
+    }
   ]
 }

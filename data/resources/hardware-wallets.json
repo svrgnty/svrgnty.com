@@ -4,11 +4,11 @@
   "title": "Hardware Wallets",
   "lead": "Best hardware wallets to secure your bitcoin.",
   "description": "A hardware wallet is a type of bitcoin wallet that stores your private keys on a specially designed secure physical hardware device and/or authorizes spending (signing transactions).",
-  "body": "<p>Hardware wallets remain the best method to secure your assets. While some key features and tradeoffs are highlighted for the hardware wallets and signing devices below, they are all excellent devices. Should you decide to purchase or build one, consider your needs when selecting one.</p><ul class='list'><li><strong>Firmware</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Hardware</strong>: There are currently no open-source secure elements, though there is an initiative by <a href='https://tropicsquare.com/' target='_blank'>Tropic Square</a> to create one.</li><li><strong>Signing</strong>: Methods for signing transactions, some are more convenient than others, but some may come with additional security risks.</li><li><strong>Bitcoin Only</strong>: Devices that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Additional Info</strong>: Additional information on the device.</li><li><strong>Price</strong>: Below $60 USD ($) is a good entry point for a device, between $60-$120 USD ($$) is an average price, above $120 USD ($$$) is a premium device.</li></ul>",
+  "body": "<p>Hardware wallets remain the best method to secure your assets. While some key features and tradeoffs are highlighted for the hardware wallets and signing devices below, they are all excellent devices. Should you decide to purchase or build one, consider your needs when selecting one.</p><ul class='list'><li><strong>Firmware</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Hardware</strong>: There are currently no open-source secure elements, though there is an initiative by <a href='https://tropicsquare.com/' target='_blank'>Tropic Square</a> to create one.</li><li><strong>Signing</strong>: Methods for signing transactions, some are more convenient than others, but some may come with additional security risks.</li><li><strong>Bitcoin Only</strong>: Devices that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Additional Info</strong>: Additional information on the device.</li><li><strong>Price</strong>: Below $60 USD ($) is a good entry point for a device, between $60-$120 USD ($$) is an average price, above $120 USD ($$$) is a premium device.</li></ul><p>For a more detailed review of the hardware wallets, also see:</p><ul class='list'><li><a href='https://x.com/svrgnty/status/1672952487433719812' target='_blank'>Bitcoin hardware wallets review - part 1</a></li><li><a href='https://x.com/svrgnty/status/1784846001003512232' target='_blank'>Bitcoin hardware wallets review - part 2</a></li></ul>",
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "1 April 2024",
+  "lastUpdate": "25 May 2024",
   "links": [
     {
       "title": "Coldcard Q",
@@ -49,7 +49,7 @@
       "image": "./../images/coldcard-q.png"
     },
     {
-      "title": "Coldcard MK4",
+      "title": "Coldcard Mk4",
       "url": "https://coldcard.com/",
       "description": "Coldcard is a bitcoin hardware wallet with dual secure element, many security features, and verifiable seed generation.",
       "details" : [
@@ -84,7 +84,7 @@
           "category": "red"
         }
       ],
-      "image": "./../images/coldcard-mk4.png"
+      "image": "./../images/coldcard-mk4.jpg"
     },
     {
       "title": "Passport",
