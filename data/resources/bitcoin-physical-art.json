@@ -5,7 +5,7 @@
     "lead": "\"Physical #Bitcoin art is inspirational\" – Mandrik",
     "icon": "paintbrush",
     "iconPrefix": "fas",
-    "lastUpdate": "10 May 2024",
+    "lastUpdate": "26 May 2024",
     "links": [
       {
         "title": "MADEX Art",
@@ -18,12 +18,6 @@
         "url": "https://cryptograffiti.com/",
         "description": "#bitcoin activist artist",
         "image": "./../images/cryptograffiti.png"
-      },
-      {
-        "title": "NAJP",
-        "url": "https://najp.ch/",
-        "description": "Bitcoin Physical Art.",
-        "image": "./../images/najp.png"
       },
       {
         "title": "RYR",
@@ -42,6 +36,30 @@
         "url": "https://www.bitcoinapexart.com/",
         "description": "Unique Bitcoin pencil art.",
         "image": "./../images/apex.png"
+      },
+      {
+        "title": "Timechain Artifacts",
+        "url": "https://timechainartifacts.com/",
+        "description": "Cypherpunk Artist infusing software, math, art, tech, and chemistry into biological interfaces.",
+        "image": "./../images/timechainartifacts.png"
+      },
+      {
+        "title": "Petek",
+        "url": "https://www.petek.co.uk/",
+        "description": "Bitcoin, specifically the energy of money, the Moon, and cosmic materials are Petek's muses.",
+        "image": "./../images/petek.png"
+      },
+      {
+        "title": "Rebel Money",
+        "url": "https://www.rebelmoney.art/",
+        "description": "Bitcoin artist, art champion and culture miner.",
+        "image": "./../images/rebelmoney.png"
+      },
+      {
+        "title": "NAJP",
+        "url": "https://najp.ch/",
+        "description": "Bitcoin Physical Art.",
+        "image": "./../images/najp.png"
       }
     ]
   }
