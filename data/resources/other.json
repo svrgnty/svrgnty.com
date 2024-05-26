@@ -60,12 +60,6 @@
       "url": "https://bitcoin.org",
       "description": "Find all you need to know and get started with Bitcoin on bitcoin.org.",
       "image": "./../images/bitcoin.png"
-    },
-    {
-      "title": "Bitcoin Intro",
-      "url": "https://bitcoin-intro.com",
-      "description": "Start Using Bitcoin.",
-      "image": "./../images/bitcoin.png"
     }
   ]
 }
