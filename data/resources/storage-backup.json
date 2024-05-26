@@ -4,11 +4,11 @@
   "title": "Storage & Backup",
   "lead": "Secure your seeds and hardware wallets.",
   "description": "Harden your security model and ensure the safety of your seeds and hardware wallets.",
-  "body": "<p>Putting your bitcoin seed phrase to metal ensures durability and longevity, protecting it from physical damage, fire, and water, and safeguarding your access to your bitcoin wallet. When choosing a metal plate, there are some things you should consider:</p><ul class='list'><li><strong>Type</strong>: There are several ways to put your see to metal, but the preferred methods are using a center punch, stamping, or etching the metal.</li><li><strong>Material</strong>: To ensure durability and longevity, it is important to use a high quality metal.</li><li><strong>Data</strong>: Different plates support different data, some are limited to the seed phrase, while other may be specific for a passphrase.</li><li><strong>Size</strong>: While sizes vary, in general smaller plates become more difficult to read and mark.</li><li><strong>Additional Info</strong>: Additional information to the steel plate.</li></ul>",
+  "body": "<p>Putting your bitcoin seed phrase to metal ensures durability and longevity, protecting it from physical damage, fire, and water, and safeguarding your access to your bitcoin wallet. When choosing a metal plate, there are some things you should consider:</p><ul class='list'><li><strong>Type</strong>: There are several ways to put your see to metal, but the preferred methods are using a center punch, stamping, or etching the metal.</li><li><strong>Material</strong>: To ensure durability and longevity, it is important to use a high quality metal.</li><li><strong>Data</strong>: Different plates support different data, some are limited to the seed phrase, while other may be specific for a passphrase.</li><li><strong>Size</strong>: While sizes vary, in general smaller plates become more difficult to read and mark.</li><li><strong>Additional Info</strong>: Additional information to the steel plate.</li></ul><p>For best practices and tips, also see:</p><ul class='list'><li><a href='https://x.com/svrgnty/status/1794431080734351591' target='_blank'>Metal seed plate best practices and tips</a></li></ul>",
   "icon": "lock",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "25 May 2024",
+  "lastUpdate": "26 May 2024",
   "links": [
     {
       "title": "BitPLATES",
