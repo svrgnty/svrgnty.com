@@ -20,8 +20,12 @@
 .body {
   margin: space(4) 0 0;
 
-  a:hover {
-    text-decoration: underline solid $pill-orange 2px;
+  a {
+    font-weight: $extra-bold-weight;
+  
+    &:hover {
+      text-decoration: underline solid $pill-orange 2px;
+    }
   }
 }
 

@@ -4,11 +4,11 @@
   "title": "Hardware Wallets",
   "lead": "Best hardware wallets to secure your bitcoin.",
   "description": "A hardware wallet is a type of bitcoin wallet that stores your private keys on a specially designed secure physical hardware device and/or authorizes spending (signing transactions).",
-  "body": "<p>Hardware wallets remain the best method to secure your assets. While some key features and tradeoffs are highlighted for the hardware wallets and signing devices below, they are all excellent devices. Should you decide to purchase or build one, consider your needs when selecting one.</p><ul class='list'><li><strong>Firmware</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Hardware</strong>: There are currently no open-source secure elements, though there is an initiative by <a href='https://tropicsquare.com/' target='_blank'>Tropic Square</a> to create one.</li><li><strong>Signing</strong>: Methods for signing transactions, some are more convenient than others, but some may come with additional security risks.</li><li><strong>Bitcoin Only</strong>: Devices that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Additional Info</strong>: Additional information on the device.</li><li><strong>Price</strong>: Below $60 USD ($) is a good entry point for a device, between $60-$120 USD ($$) is an average price, above $120 USD ($$$) is a premium device.</li></ul><p>For a more detailed review of the hardware wallets, also see:</p><ul class='list'><li><a href='https://x.com/svrgnty/status/1672952487433719812' target='_blank'>Bitcoin hardware wallets review - part 1</a></li><li><a href='https://x.com/svrgnty/status/1784846001003512232' target='_blank'>Bitcoin hardware wallets review - part 2</a></li></ul>",
+  "body": "<p>Hardware wallets remain the best method to secure your assets. While some key features and tradeoffs are highlighted for the hardware wallets and signing devices below, they are all excellent devices. Should you decide to purchase or build one, consider your needs when selecting one.</p><ul class='list'><li><strong>Firmware</strong>: Open-source allows the community to verify the code and ensure if it can be trusted.</li><li><strong>Hardware</strong>: There are currently no open-source secure elements, though there is an initiative by <a href='https://tropicsquare.com/' target='_blank'>Tropic Square</a> to create one.</li><li><strong>Signing</strong>: Methods for signing transactions, some are more convenient than others, but some may come with additional security risks.</li><li><strong>Bitcoin Only</strong>: Devices that focus on Bitcoin only tend to provide a better experience and tend to have a smaller attack surface.</li><li><strong>Review</strong>: Review posted on X (formerly twitter) with the good, bad, and neutral of the device.</li><li><strong>Additional Info</strong>: Additional information on the device.</li></ul>",
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "25 May 2024",
+  "lastUpdate": "28 May 2024",
   "links": [
     {
       "title": "Coldcard Q",
@@ -36,14 +36,14 @@
           "category": "green"
         },
         {
-          "label": "Additional Info",
-          "description": "Multiple security features",
-          "category": "green"
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1784846009211772971' target='_blank'>Coldcard Q review</a>",
+          "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
+          "label": "Affiliate Link",
+          "description": "<a href='https://store.coinkite.com/promo/20F33C4C3CD70AB2EF81' target='_blank'>Coinkite store</a>",
+          "category": "referral"
         }
       ],
       "image": "./../images/coldcard-q.png"
@@ -74,14 +74,14 @@
           "category": "green"
         },
         {
-          "label": "Additional Info",
-          "description": "Multiple security features",
-          "category": "green"
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952522263101445' target='_blank'>Coldcard Mk4 review</a>",
+          "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
+          "label": "Affiliate Link",
+          "description": "<a href='https://store.coinkite.com/promo/20F33C4C3CD70AB2EF81' target='_blank'>Coinkite store</a>",
+          "category": "referral"
         }
       ],
       "image": "./../images/coldcard-mk4.jpg"
@@ -112,14 +112,14 @@
           "category": "green"
         },
         {
-          "label": "Additional Info",
-          "description": "NA",
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952500100698118' target='_blank'>Passport review</a>",
           "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/passport.png"
@@ -146,18 +146,18 @@
         },
         {
           "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
+          "description": "Firmware available",
+          "category": "orange"
         },
         {
-          "label": "Additional Info",
-          "description": "Touch Screen",
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1784846062638739857' target='_blank'>Keystone 3 Pro review</a>",
           "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
+          "label": "Additional Info",
+          "description": "Touchscreen",
+          "category": "grey"
         }
       ],
       "image": "./../images/keystone.png"
@@ -188,14 +188,14 @@
           "category": "green"
         },
         {
-          "label": "Additional Info",
-          "description": "NFC powered",
+          "label": "Review",
+          "description": "NA",
           "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$",
-          "category": "orange"
+          "label": "Additional Info",
+          "description": "Pre-order",
+          "category": "grey"
         }
       ],
       "image": "./../images/portal.png"
@@ -226,14 +226,14 @@
           "category": "green"
         },
         {
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952628567851008' target='_blank'>SeedSigner review</a>",
+          "category": "grey"
+        },
+        {
           "label": "Additional Info",
           "description": "DIY & Stateless, Multisig Recommended",
           "category": "orange"
-        },
-        {
-          "label": "Price",
-          "description": "$",
-          "category": "green"
         }
       ],
       "image": "./../images/seedsigner.png"
@@ -264,13 +264,13 @@
           "category": "green"
         },
         {
-          "label": "Additional Info",
-          "description": "DIY & Stateless",
-          "category": "orange"
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952591456534530' target='_blank'>Specter DIY review</a>",
+          "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$",
+          "label": "Additional Info",
+          "description": "DIY & Stateless",
           "category": "orange"
         }
       ],
@@ -302,14 +302,14 @@
           "category": "green"
         },
         {
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1784846053369328121' target='_blank'>Krux review</a>",
+          "category": "grey"
+        },
+        {
           "label": "Additional Info",
           "description": "DIY & Stateless",
           "category": "orange"
-        },
-        {
-          "label": "Price",
-          "description": "$",
-          "category": "green"
         }
       ],
       "image": "./../images/krux.png"
@@ -340,14 +340,14 @@
           "category": "orange"
         },
         {
-          "label": "Additional Info",
-          "description": "NA",
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952548007768065' target='_blank'>Trezor Model One review</a>",
           "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$",
-          "category": "green"
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/trezor-model-one.png"
@@ -378,14 +378,14 @@
           "category": "orange"
         },
         {
-          "label": "Additional Info",
-          "description": "NA",
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1784846042208588097' target='_blank'>Trezor Safe 3 review</a>",
           "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$",
-          "category": "orange"
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/trezor-safe-3.png"
@@ -416,14 +416,14 @@
           "category": "orange"
         },
         {
-          "label": "Additional Info",
-          "description": "NA",
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952548007768065' target='_blank'>Trezor Model T review</a>",
           "category": "grey"
         },
         {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
         }
       ],
       "image": "./../images/trezor-model-t.png"
@@ -454,14 +454,14 @@
           "category": "orange"
         },
         {
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952565665783808' target='_blank'>BitBox02 review</a>",
+          "category": "grey"
+        },
+        {
           "label": "Additional Info",
           "description": "Requires BitBox App",
           "category": "orange"
-        },
-        {
-          "label": "Price",
-          "description": "$$$",
-          "category": "red"
         }
       ],
       "image": "./../images/bitbox.png"
@@ -492,17 +492,55 @@
           "category": "green"
         },
         {
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952536901230592' target='_blank'>Blockstream Jade review</a>",
+          "category": "grey"
+        },
+        {
           "label": "Additional Info",
           "description": "Built-in battery",
           "category": "orange"
-        },
-        {
-          "label": "Price",
-          "description": "$",
-          "category": "green"
         }
       ],
       "image": "./../images/jade.png"
+    },
+    {
+      "title": "Tapsigner",
+      "url": "https://tapsigner.com/",
+      "description": "It's a wireless NFC smart-card that holds your Bitcoin private key (XPRV) and will sign transactions with a simple tap on your phone.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Verification code is open source",
+          "category": "orange"
+        },
+        {
+          "label": "Hardware",
+          "description": "Card",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "NFC",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1784846082544906369' target='_blank'>Tapsigner review</a>",
+          "category": "grey"
+        },
+        {
+          "label": "Affiliate Link",
+          "description": "<a href='https://store.coinkite.com/promo/20F33C4C3CD70AB2EF81' target='_blank'>Coinkite store</a>",
+          "category": "referral"
+        }
+      ],
+      "image": "./../images/tapsigner.png"
     },
     {
       "title": "Opendime",
@@ -525,12 +563,40 @@
           "category": "green"
         },
         {
-          "label": "Price",
-          "description": "$",
-          "category": "green"
+          "label": "Affiliate Link",
+          "description": "<a href='https://store.coinkite.com/promo/20F33C4C3CD70AB2EF81' target='_blank'>Coinkite store</a>",
+          "category": "referral"
         }
       ],
       "image": "./../images/opendime.png"
+    },
+    {
+      "title": "Satscard",
+      "url": "https://satscard.com/",
+      "description": "Not a hardware wallet. Like cash in hand, pass physical Bitcoin along multiple times. It's a wireless NFC smart-card that can hold Bitcoin. You can hand it to someone else, and then they control the balance. Simple as that.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Verification code is open source",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Bearer instrument",
+          "category": "green"
+        },
+        {
+          "label": "Affiliate Link",
+          "description": "<a href='https://store.coinkite.com/promo/20F33C4C3CD70AB2EF81' target='_blank'>Coinkite store</a>",
+          "category": "referral"
+        }
+      ],
+      "image": "./../images/satscard.png"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "icon": "lock",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "26 May 2024",
+  "lastUpdate": "28 May 2024",
   "links": [
     {
       "title": "BitPLATES",
@@ -37,7 +37,7 @@
         },
         {
           "label": "Referral code",
-          "description": "SVRGNTY",
+          "description": "10% Discount Code: SVRGNTY",
           "category": "referral"
         }
       ],
@@ -69,9 +69,9 @@
           "category": "grey"
         },
         {
-          "label": "Additional info",
-          "description": "NA",
-          "category": "grey"
+          "label": "Affiliate Link",
+          "description": "<a href='https://store.coinkite.com/promo/20F33C4C3CD70AB2EF81' target='_blank'>Coinkite store</a>",
+          "category": "referral"
         }
       ],
       "image": "./../images/seedplate.png"

@@ -48,9 +48,9 @@ export default function Template({data}) {
     body = <div className="body">{parse(pages.body)}</div>;
   }
 
-  if (pages.lastUpdate !== null) {
-    updated = <p className="updated"> Last Updated: {pages.lastUpdate}</p>;
-  }
+//  if (pages.lastUpdate !== null) {
+//    updated = <p className="updated"> Last Updated: {pages.lastUpdate}</p>;
+//  }
 
   return (
     <Layout>

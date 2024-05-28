@@ -236,8 +236,12 @@
       -webkit-box-sizing: border-box;
       background: $pill-grey;
       border: 3px $pill-orange solid;
+    }
 
-      a:hover {
+    a {
+      height: auto;
+
+      &:hover {
         background: none;
         text-decoration: underline solid $pill-orange 2px;
       }
