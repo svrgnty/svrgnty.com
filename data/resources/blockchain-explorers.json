@@ -20,6 +20,12 @@
       "image": "./../images/bitcoin-explorer.png"
     },
     {
+      "title": "Orion.Ninja",
+      "url": "https://orion.ninja/",
+      "description": "Visualize the path of bitcoin transaction and outputs.",
+      "image": "./../images/orion.png"
+    },    
+    {
       "title": "Bitcoin Explorer",
       "url": "https://bitcoin.jonasschnelli.ch/explorer/",
       "description": "A trivial block explorer written in a single PHP file.",
