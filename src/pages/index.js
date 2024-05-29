@@ -35,7 +35,6 @@ const IndexPage = ({data}) => (
   <Layout>
   <div>
     <Hero title="Bitcoin Resources" />
-    <Breadcrumbs title="💎" />
     <div className="main">
       <div className="contain">
       <p className="lead">A curated list of the best Bitcoin resources.</p>
