@@ -34,7 +34,7 @@ export const Head = () => (
 const IndexPage = ({data}) => (
   <Layout>
   <div>
-    <Hero title="Everything Bitcoin" />
+    <Hero title="Bitcoin Resources" />
     <div className="main">
       <div className="contain">
       <p className="lead">A curated list of the best Bitcoin resources.</p>
