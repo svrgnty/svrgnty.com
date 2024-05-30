@@ -3,7 +3,7 @@
   "page": "/resources/security-privacy/",
   "title": "Security and Privacy",
   "lead": "Security and privacy basics.",
-  "icon": "user-secret",
+  "icon": "shield",
   "iconPrefix": "fas",
   "links": [
     {

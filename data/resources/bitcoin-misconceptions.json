@@ -1,10 +1,10 @@
 {
-  "position": 3,
+  "position": 5,
   "page": "/resources/bitcoin-misconceptions/",
   "title": "Misconceptions",
   "lead": "Clarifying Bitcoin misconceptions.",
   "description": "You've probably heard Bitcoin described as being bad for the environment, or being used only by criminals. There are a lot of misconceptions around Bitcoin and the resourses below clarify many of these misconceptions.",
-  "icon": "bullseye",
+  "icon": "circle-xmark",
   "iconPrefix": "fas",
   "lastUpdate": "06 February 2023",
   "links": [

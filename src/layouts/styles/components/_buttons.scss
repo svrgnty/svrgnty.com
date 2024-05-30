@@ -80,13 +80,13 @@ h2 {
   }
 
   div {
-    margin: space(4) space(2) space(4) 0;
+    margin: space(3) space(2) space(3) 0;
   }
 
   .svg-inline--fa {
     display:flex; 
     align-items:center;
-    margin: space(4.6) space(1.4) space(2.5) space(2);
+    margin: space(3.6) space(1.4) space(2.5) space(2);
     height: 1em;
     color: $light-font-color;
     transition: all $base-time $base-ease;

@@ -14,7 +14,7 @@ import {
 } from 'react-share';
 
 const shareUrl = 'https://svrgnty.com';
-const shareTitle = 'Bitcoin Resources';
+const shareTitle = 'Everything Bitcoin';
 const shareDescription = 'Bitcoin for financial sovereignty';
 const shareDescriptionTwitter = 'Bitcoin for financial sovereignty';
 const shareTags = '#Bitcoin';

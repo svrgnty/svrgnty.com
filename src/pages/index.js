@@ -13,11 +13,11 @@ library.add(fab, fas);
 
 export const Head = () => (
   <>
-    <title>Bitcoin resources | Svrgnty.com</title>
+    <title>Everything Bitcoin | Svrgnty.com</title>
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="og:title" content="Bitcoin Resources | Svrgnty.com" />
-    <meta name="twitter:title" content="Bitcoin Resources | Svrgnty.com" />
+    <meta name="og:title" content="Everything Bitcoin | Svrgnty.com" />
+    <meta name="twitter:title" content="Everything Bitcoin | Svrgnty.com" />
     <meta name="description" content="Bitcoin for financial sovereignty" />
     <meta name="og:description" content="Bitcoin for financial sovereignty" />
     <meta name="twitter:description" content="Bitcoin for financial sovereignty" />
@@ -34,7 +34,7 @@ export const Head = () => (
 const IndexPage = ({data}) => (
   <Layout>
   <div>
-    <Hero title="Bitcoin Resources" />
+    <Hero title="Everything Bitcoin" />
     <div className="main">
       <div className="contain">
       <p className="lead">A curated list of the best Bitcoin resources.</p>
