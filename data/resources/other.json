@@ -24,7 +24,13 @@
       "url": "https://odell.xyz/",
       "description": "Matt focuses on bitcoin, distributed systems, and privacy.",
       "image": "./../images/bitcoin.png"
-    },      
+    },
+    {
+      "title": "Bitcoin Resources",
+      "url": "https://bitcoin-resources.com/",
+      "description": "Books, Articles, Podcasts, and other curated Bitcoin resources.",
+      "image": "./../images/bitcoin.png"
+    },
     {
       "title": "Bitcoin Only",
       "url": "https://bitcoin-only.com",
@@ -50,9 +56,9 @@
       "image": "./../images/arman.png"
     },
     {
-      "title": "Btcinformation.org",
-      "url": "https://btcinformation.org",
-      "description": "Find all you need to know and get started with Bitcoin on btcinformation.org.",
+      "title": "Awesome Bitcoin",
+      "url": "https://github.com/igorbarinov/awesome-bitcoin",
+      "description": "A curated list of bitcoin services and tools for software developers.",
       "image": "./../images/bitcoin.png"
     },
     {
