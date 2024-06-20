@@ -21,8 +21,14 @@
       "image": "./../images/nostr-resources.png"
     },
     {
+      "title": "awesome-nostr",
+      "url": "https://nostr.net/",
+      "description": "A collection of projects and resources built on nostr to help developers and users find new things ",
+      "image": "./../images/awesome-nostr.png"
+    },
+    {
       "title": "Snort nostr import",
-      "url": "https://snort.social/new",
+      "url": "https://snort.social/new/import",
       "description": "Find your twitter follows on nostr and automatically follow them.",
       "image": "./../images/snortimport.png"
     },

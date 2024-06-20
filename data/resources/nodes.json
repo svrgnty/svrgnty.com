@@ -9,6 +9,18 @@
   "lastUpdate": "25 April 2024",
   "links": [
     {
+      "title": "Bitcoin Core",
+      "url": "https://bitcoin.org/en/full-node",
+      "description": "Essential for running a full Bitcoin node, powering the decentralized validation of transactions and blocks on the Bitcoin network and serving as the foundation upon which many other nodes rely.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/bitcoin.png"
+    },
+    {
       "title": "Start9",
       "url": "https://start9.com/",
       "description": "Personal server powered by StartOS, offering one-click installation and simple configuration of open source software services that run over Tor.",
@@ -85,26 +97,6 @@
       "image": "./../images/arman.png"
     },
     {
-      "title": "Umbrel",
-      "url": "https://umbrel.com",
-      "description": "Umbrel is an OS for running a personal server in your home. Self-host open source apps like Nextcloud, Bitcoin node, and more.",
-      "pills": [
-        {
-          "pill": "DIY",
-          "color": "green"
-        },
-        {
-          "pill": "Plug & Play",
-          "color": "blue"
-        },
-        {
-          "pill": "Beta",
-          "color": "red"
-        }
-      ],
-      "image": "./../images/umbrel.png"
-    },
-    {
       "title": "Citadel",
       "url": "https://runcitadel.space/",
       "description": "Citadel started out as a modified version of Umbrel. It is Free and Open-Source Software (FOSS), focusing on transparency and security.",
@@ -121,16 +113,32 @@
       "image": "./../images/runcitadel.png"
     },
     {
-      "title": "Bitcoin Core Wallet",
-      "url": "https://bitcoin.org/en/full-node",
-      "description": "Run a full node using the official Bitcoin Core wallet for desktop.",
+      "title": "Umbrel",
+      "url": "https://umbrel.com",
+      "description": "Umbrel is an OS for running a personal server in your home. Self-host open source apps like Nextcloud, Bitcoin node, and more.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/umbrel.png"
+    },
+    {
+      "title": "Bitcoin Knots",
+      "url": "https://bitcoinknots.org/",
+      "description": "Alternative implementation to Bitcoin Core with different policy rules like a reduced datacarrier size.",
       "pills": [
         {
           "pill": "DIY",
           "color": "green"
         }
       ],
-      "image": "./../images/bitcoin.png"
+      "image": "./../images/bitcoin-knots.png"
     }
   ]
 }
