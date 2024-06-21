@@ -8,6 +8,18 @@
   "iconPrefix": "fas",
   "links": [
     {
+      "title": "How Bitcoin Goes Carbon Negative by 2028",
+      "url": "https://www.youtube.com/watch?v=sr-RGdbyRDQ",
+      "description": "Bitcoin mining can significantly mitigate methane emissions, turning the entire Bitcoin network carbon negative. Discover the untold environmental benefits of Bitcoin mining and how it combats negative press while driving renewable energy infrastructure.",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/bitcoin-misconceptions/carbon-negative.jpg"
+    },
+    {
       "title": "How Bitcoin is helping the environment",
       "url": "https://www.cityam.com/why-i-think-bitcoin-could-be-a-key-to-saving-the-environment/",
       "description": "Not many industries can take a potent greenhouse gas like methane and convert that into work that both secures a global network and drives down CO2. Bitcoin does this and more.",
@@ -106,7 +118,7 @@
     {
       "title": "Bitcoin Rocks",
       "url": "https://bitcoin.rocks/",
-      "description": "Bitcoin has stabilized the power grid, protected human rights, saved people from high inflation, supported local farmers, reduced emissions from oil drilling, and so much more.",
+      "description": "Bitcoin is a misunderstood technology that is building a better world.",
       "pills": [
         {
           "pill": "Read",

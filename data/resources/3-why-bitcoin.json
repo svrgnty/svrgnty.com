@@ -7,6 +7,18 @@
   "iconPrefix": "fas",
   "links": [
     {
+      "title": "How Money & Banking Work (& why they're broken today)",
+      "url": "https://www.youtube.com/watch?v=jk_HWmmwiAs",
+      "description": "In this 30-minute explainer video, Lyn Alden takes a step back through history and looks into the intricacies of money and banking, offering an answer to an overlooked but extremely important question: What is money?",
+      "pills": [
+        {
+          "pill": "Video",
+          "color": "purple"
+        }
+      ],
+      "image": "./../images/why-bitcoin/how-money-and-banking-work.png"
+    },
+    {
       "title": "What is Bitcoin and why does it matter?",
       "url": "https://www.youtube.com/watch?v=8R584hYKhrYE",
       "description": "Bitcoin is a revolutionary innovation on par with the printing press and internet.",

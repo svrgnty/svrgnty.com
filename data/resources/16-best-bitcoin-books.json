@@ -7,40 +7,58 @@
   "iconPrefix": "fas",
   "links": [
     {
+      "title": "Resistance Money",
+      "url": "https://www.resistance.money/",
+      "description": "It examines bitcoin's monetary policy, censorship-resistance, privacy, inclusion, and energy use to develop a comprehensive and measured case that bitcoin is a net benefit to the world, despite its imperfections.",
+      "image": "./../images/bitcoin-books/resistance-money.png"
+    },
+    {
+      "title": "Broken Money",
+      "url": "https://www.lynalden.com/broken-money/",
+      "description": "Broken Money explores the history of money through the lens of technology. Politics can affect things temporarily and locally, but technology is what drives things forward globally and permanently.",
+      "image": "./../images/bitcoin-books/broken-money.png"
+    },
+    {
       "title": "The Bitcoin Standard",
       "url": "https://saifedean.com/thebitcoinstandard",
       "description": "The Bitcoin Standard analyzes the economic properties that have allowed it to grow quickly, and its likely economic, political, and social implications.",
-      "image": "./../images/bitcoin-books/bitcoinstandard.jpg"
+      "image": "./../images/bitcoin-books/the-bitcoin-standard.png"
+    },
+    {
+      "title": "The Sovereign Individual",
+      "url": "https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720",
+      "description": "The Sovereign Individual details strategies necessary for adapting financially to the next phase of Western civilization.",
+      "image": "./../images/bitcoin-books/the-sovereign-individual.png"
     },
     {
       "title": "Layered Money",
       "url": "https://www.layeredmoney.com/",
       "description": "From Gold and Dollars to Bitcoin and Central Bank Digital Currencies.",
-      "image": "./../images/bitcoin-books/layeredmoney.png"
+      "image": "./../images/bitcoin-books/layered-money.png"
+    },
+    {
+      "title": "Bitcoin: Everything Divided by 21 Million",
+      "url": "https://bitcoinbook.shop/products/bitcoin-everything-divided-by-21-million",
+      "description": "Imagine, everything there is and everything that will ever be, divided by 21 million.",
+      "image": "./../images/bitcoin-books/everything-divided.png"
+    },
+    {
+      "title": "Gradually, Then Suddenly",
+      "url": "https://academy.saifedean.com/product/gradually-then-suddenly-hardcover/",
+      "description": "Gradually, Then Suddenly is a framework for understanding bitcoin as money, built on a foundation of reason and logic.",
+      "image": "./../images/bitcoin-books/gradually-then-suddenly.png"
     },
     {
       "title": "21 Lessons",
       "url": "https://21lessons.com/",
       "description": "What I've Learned from Falling Down the Bitcoin Rabbit Hole.",
-      "image": "./../images/bitcoin-books/21lessons.png"
+      "image": "./../images/bitcoin-books/21-lessons.png"
     },
     {
       "title": "Bitcoin is Venice",
       "url": "https://www.amazon.com/Bitcoin-Venice-Essays-Future-Capitalism/dp/B09TTTGT11",
       "description": "crash course through the errors of modern economic theory and the world's broken fiat currency system with a hopeful destination: Bitcoin Is Venice.",
-      "image": "./../images/bitcoin-books/bitcoinisvenice.png"
-    },
-    {
-      "title": "Digital Gold",
-      "url": "https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X",
-      "description": "Bitcoin and the inside story of the misfits and millionaires trying to reinvent money.",
-      "image": "./../images/bitcoin-books/digitalgold.jpg"
-    },
-    {
-      "title": "Cryptoasset Inheritance Planning",
-      "url": "https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116",
-      "description": "A clear blueprint to inheritance planning for your bitcoin.",
-      "image": "./../images/bitcoin-books/inheritanceplanning.jpg"
+      "image": "./../images/bitcoin-books/bitcoin-is-venice.png"
     }
   ]
 }
