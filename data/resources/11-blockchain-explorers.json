@@ -1,11 +1,10 @@
 {
-  "position": 12,
+  "position": 11,
   "page": "/resources/blockchain-explorers/",
   "title": "Blockchain Explorers",
   "lead": "Explore blocks, addresses, and transactions.",
   "icon": "dice-d6",
   "iconPrefix": "fas",
-  "lastUpdate": "25 April 2024",
   "links": [
     {
       "title": "Mempool.space",

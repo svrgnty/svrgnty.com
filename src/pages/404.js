@@ -26,7 +26,7 @@ const NotFoundPage = ({data}) => (
     <div className="main">
       <div className="contain">
       <p className="lead">You just hit a page that doesn&#39;t exist... the sadness <span role="img" aria-label="saddened">😞</span>.</p>
-      <p className="lead">No worries, browse the categries below to continue learning about Bitcoin <span role="img" aria-label="strength">💪</span><span role="img" aria-label="happy">😁</span>.</p>
+      <p className="lead">No worries, browse the categories below to continue learning about Bitcoin <span role="img" aria-label="strength">💪</span><span role="img" aria-label="happy">😁</span>.</p>
         <ul className="wrapper">
           {data.allResourcesJson.edges.map((node, i) => (
             <li key={node.node.id}>

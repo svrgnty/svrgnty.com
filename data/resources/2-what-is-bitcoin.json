@@ -1,12 +1,11 @@
 {
-  "position": 1,
-  "page": "/resources/bitcoin/",
+  "position": 2,
+  "page": "/resources/what-is-bitcoin/",
   "title": "What is Bitcoin?",
   "lead": "Learn more about Bitcoin and how it works.",
   "description": "Bitcoin is a decentralized, open-source, peer-to-peer digital currency. There's no government, institution (e.g. bank), or other authority that controls it. Transactions of the digital asset, bitcoin, are made with no middle men and are recorded in a public ledger called the blockchain. Sounds confusing? Learn more on how it works.",
   "icon": "btc",
   "iconPrefix": "fab",
-  "lastUpdate": "21 May 2024",
   "links": [
     {
       "title": "Explain Bitcoin Like I’m Five",

@@ -38,7 +38,7 @@ const IndexPage = ({data}) => (
     <div className="main">
       <div className="contain">
       <p className="lead">A curated list of the best Bitcoin resources.</p>
-      <p className="description">You're curious about Bitcoin and want to learn more about it. I understand, Bitcoin is the first of its kind, a peer-to-peer decentralized digital currency with no trusted third party. It is still in its infancy, but one day it will be as ubiquitous as computers, and the Internet. Excited yet? Here is a collection of resources to learn more and understand it better.</p>
+      <p className="description">You're curious about Bitcoin and want to learn more about it. I understand, Bitcoin is the first of its kind, a peer-to-peer decentralized digital currency with no trusted third parties. It is still in its infancy, but one day it will be as ubiquitous as computers, and the Internet. Excited yet? Here is a collection of resources to learn more and understand it better.</p>
         <ul className="wrapper">
           {data.allResourcesJson.edges.map((node) => (
             <li key={node.node.id}>

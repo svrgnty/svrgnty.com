@@ -7,10 +7,10 @@ export const Head = () => (
   </>
 )
 
-const SoftwareWallets = () => (
+const MobileWallets = () => (
   <>
     <link rel="canonical" href="https://svrgnty.com/resources/best-bitcoin-mobile-wallets/" />
   </>
 );
 
-export default SoftwareWallets
+export default MobileWallets

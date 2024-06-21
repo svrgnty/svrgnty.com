@@ -1,12 +1,11 @@
 {
-    "position": 11,
+    "position": 12,
     "page": "/resources/coin-control/",
     "title": "Coin Control",
     "lead": "Coin control, labeling, UTXO management.",
     "description": "Coin control allows users to choose which coins are to be spent as inputs in an outgoing transaction. It gives you total control over what information you choose to reveal each time you use Bitcoin.",
     "icon": "tags",
     "iconPrefix": "fas",
-    "lastUpdate": "9 April 2024",
     "links": [
         {
             "title": "Bitcoin’s UTXO Model",

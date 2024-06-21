@@ -1,0 +1,104 @@
+{
+    "position": 8,
+    "page": "/resources/best-bitcoin-desktop-wallets/",
+    "title": "Desktop Wallets",
+    "lead": "Best desktop bitcoin wallets.",
+    "description": "",
+    "icon": "key",
+    "iconPrefix": "fas",
+    "links": [
+      {
+        "title": "Sparrow Wallet",
+        "url": "https://sparrowwallet.com",
+        "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          }
+        ],
+        "image": "./../images/sparrowwallet.png"
+      },
+      {
+        "title": "Specter Desktop",
+        "url": "https://specter.solutions/desktop/",
+        "description": "Your Bitcoin node, on your hardware, paired with your signing devices, creating secure wallets for bitcoin self-custody.",
+        "pills": [
+          {
+            "pill": "Intermediate",
+            "color": "orange"
+          }
+        ],
+        "image": "./../images/specter-multisig.jpg"
+      },
+      {
+        "title": "Liana",
+        "url": "https://wizardsardine.com/liana/",
+        "description": "Liana is a simple Bitcoin wallet leveraging on-chain timelocks for safety and recovery.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          },
+          {
+            "pill": "Paid plan available",
+            "color": "grey"
+          }
+        ],
+        "image": "./../images/liana.png"
+      },
+      {
+        "title": "Electrum Wallet",
+        "url": "https://electrum.org",
+        "description": "Electrum is a lightweight Bitcoin wallet. It connects to external servers without the need to download the entire Bitcoin blockchain history.",
+        "pills": [
+          {
+            "pill": "Intermediate",
+            "color": "orange"
+          }
+        ],
+        "image": "./../images/electrum.png"
+      },
+      {
+        "title": "Bitcoin Core",
+        "url": "https://bitcoincore.org/en/download/",
+        "description": "Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet and requires a one-time download of about 600GB of data plus a further 5-10GB per month.",
+        "pills": [
+            {
+              "pill": "Intermediate",
+              "color": "orange"
+            }
+        ],
+        "image": "./../images/bitcoin.png"
+      },
+      {
+        "title": "Nunchuk",
+        "url": "https://nunchuk.io",
+        "description": "Nunchuk is a bitcoin wallet focused on multi-signature that allows you to securely manage your bitcoin funds.",
+        "pills": [
+            {
+                "pill": "Easy",
+                "color": "green"
+            },
+            {
+              "pill": "Paid plan available",
+              "color": "grey"
+            }
+        ],
+        "image": "./../images/nunchuk.png"
+      },
+      {
+        "title": "Caravan",
+        "url": "https://github.com/caravan-bitcoin/caravan",
+        "description": "Caravan is a Bitcoin multisig wallet you can host locally and use right in the browser.",
+        "pills": [
+          {
+            "pill": "Advanced",
+            "color": "red"
+          }
+        ],
+        "image": "./../images/unchained.png"
+      }
+    ]
+  }
+  

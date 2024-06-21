@@ -1,5 +1,5 @@
 {
-  "position": 9,
+  "position": 10,
   "page": "/resources/storage-backup/",
   "title": "Storage & Backup",
   "lead": "Secure your seeds and hardware wallets.",
@@ -8,7 +8,6 @@
   "icon": "lock",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "28 May 2024",
   "links": [
     {
       "title": "BitPLATES",

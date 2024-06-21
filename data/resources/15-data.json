@@ -1,11 +1,10 @@
 {
-  "position": 14,
+  "position": 15,
   "page": "/resources/data/",
   "title": "Charts & Data",
   "lead": "Bitcoin charts, data, metrics, and reports.",
   "icon": "chart-line",
   "iconPrefix": "fas",
-  "lastUpdate": "8 April 2024",
   "links": [
     {
       "title": "Timechain Calendar",

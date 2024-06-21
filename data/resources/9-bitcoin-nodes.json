@@ -1,12 +1,11 @@
 {
-  "position": 8,
+  "position": 9,
   "page": "/resources/bitcoin-nodes/",
   "title": "Bitcoin Nodes",
   "lead": "Run your personal Bitcoin node.",
   "description": "The Bitcoin network is a decentralized peer-to-peer (P2P) network made up of thousands of nodes. Each node keeps a copy of the Bitcoin blockchain and verifies every single transaction and block. By running a full node you can verify the state of the ledger yourself, rather than trusting a third party. Running a full node also makes the network more robust, making it more decentralized and resistant to certain types of attacks. Support the Bitcoin network by running your own full node.",
   "icon": "server",
   "iconPrefix": "fas",
-  "lastUpdate": "25 April 2024",
   "links": [
     {
       "title": "Bitcoin Core",

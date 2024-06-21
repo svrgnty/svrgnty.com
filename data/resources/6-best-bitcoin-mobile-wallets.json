@@ -1,6 +1,6 @@
 {
   "position": 6,
-  "page": "/resources/mobile-wallets-and-payment-apps/",
+  "page": "/resources/best-bitcoin-mobile-wallets/",
   "title": "Mobile Wallets",
   "lead": "Best mobile bitcoin wallets and payment apps.",
   "description": "Mobile Bitcoin wallets are non-physical programs that store your private keys, signs transactions, and broadcast them to the network. Lightning payment apps route payments through nodes connected by payment channels.",
@@ -8,7 +8,6 @@
   "icon": "mobile",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "26 April 2024",
   "links": [
     {
       "title": "Zeus",
@@ -275,6 +274,82 @@
         }
       ],
       "image": "./../images/muun.png"
+    },
+    {
+      "title": "Nunchuk",
+      "url": "https://nunchuk.io",
+      "description": "Nunchuk is a bitcoin wallet focused on multi-signature that allows you to securely manage your bitcoin funds.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "Multisig and Inheritance focus",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/nunchuk.png"
+    },
+    {
+      "title": "Keeper",
+      "url": "https://bitcoinkeeper.app/",
+      "description": "Bitcoin Keeper is an open source, bitcoin-only app designed for seasoned bitcoin hodlers.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "Multisig and Inheritance focus",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/keeper.png"
     }
   ]
 }

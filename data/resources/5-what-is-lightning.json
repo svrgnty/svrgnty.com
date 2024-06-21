@@ -1,6 +1,6 @@
 {
-  "position": 4,
-  "page": "/resources/lightning/",
+  "position": 5,
+  "page": "/resources/what-is-lightning/",
   "title": "What is Lightning?",
   "lead": "Learn how the Lightning Network works.",
   "description": "The Lightning Network is a second layer payment protocol that handles bitcoin transactions without the need to verify them on the blockchain. Learn more on how it works.",

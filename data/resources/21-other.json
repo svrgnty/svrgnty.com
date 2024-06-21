@@ -1,11 +1,10 @@
 {
-  "position": 19,
+  "position": 21,
   "page": "/resources/other/",
   "title": "Other Resources",
   "lead": "More resources to learn about bitcoin.",
   "icon": "info-circle",
   "iconPrefix": "fas",
-  "lastUpdate": "1 April 2024",
   "links": [
     {
       "title": "BTC Sessions",

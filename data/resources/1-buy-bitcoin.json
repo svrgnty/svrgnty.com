@@ -1,5 +1,5 @@
 {
-  "position": 3,
+  "position": 1,
   "page": "/resources/buy-bitcoin/",
   "title": "Buy Bitcoin",
   "lead": "Where to easily buy bitcoin.",
@@ -8,7 +8,6 @@
   "icon": "bitcoin",
   "iconPrefix": "fab",  
   "cardType": "extended",
-  "lastUpdate": "7 May 2024",
   "links": [
     {
       "title": "Peach",

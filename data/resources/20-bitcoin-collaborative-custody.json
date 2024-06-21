@@ -1,0 +1,74 @@
+{
+  "position": 20,
+  "page": "/resources/bitcoin-collaborative-custody/",
+  "title": "Collaborative Custody",
+  "lead": "Collaborative custody for peace of mind.",
+  "description": "Collaborative custody for peace of mind, but at a cost. It is essential to carefully consider the trade-offs when deciding whether collaborative custody is the right choice for you.",
+  "body": "<p>Collaborative custody is a multi-signature wallet arrangement where you retain control of the majority of the keys, while a third party, e.g. a custodial service, usually manages one of the keys. This setup offers peace of mind, knowing a key is secure, but it entails trade-offs.</p><ul class='list'><li><strong>KYC</strong>: One such compromise is the requirement for KYC (Know Your Customer) verification, which involves disclosing your identity to the third party.</li><li><strong>Visibility</strong>: Another trade-off is the visibility into your wallet given to the third party. Though they cannot access your funds, they can see the transactions and balance of the wallet.</li></ul>",
+  "icon": "handshake",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "Nunchuk",
+      "url": "https://nunchuk.io",
+      "description": "Security. Inheritance planning. Ease of use.",
+      "image": "./../images/nunchuk.png"
+    },
+    {
+      "title": "Casa",
+      "url": "https://casa.io/",
+      "description": "Casa helps you secure your bitcoin so you can have peace of mind that your wealth is safe.",
+      "pills" : [
+        {
+          "pill": "Pseudonymous",
+          "color": "orange"
+        },
+        {
+          "pill": "Not BTC Only",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/casa.png"
+    },
+    {
+      "title": "Unchained Personal Vault",
+      "url": "https://unchained.com/vaults/",
+      "description": "Get enhanced security with an easy-to-use multisig vault solution that leaves you with sovereignty over your keys and bitcoin.",
+      "pills" : [
+        {
+          "pill": "KYC",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/unchained.png"
+    },
+    {
+      "title": "Swan Vault",
+      "url": "https://www.swanbitcoin.com/vault/",
+      "description": "Swan Vault makes Bitcoin self-custody convenient and accessible to all users, including newcomers and non-experts.",
+      "pills" : [
+        {
+          "pill": "KYC",
+          "color": "red"
+        }
+      ],
+      "image": "./../images/swan.png"
+    },
+    {
+      "title": "Keeper",
+      "url": "https://bitcoinkeeper.app/",
+      "description": "Bitcoin Keeper is an open source, bitcoin-only app designed for seasoned bitcoin hodlers.",
+      "pills" : [
+        {
+          "pill": "No KYC",
+          "color": "green"
+        },
+        {
+          "pill": "Open source",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/keeper.png"
+    }
+  ]
+}
