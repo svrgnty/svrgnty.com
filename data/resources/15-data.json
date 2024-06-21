@@ -43,6 +43,12 @@
       "image": "./../images/data/clarkmoody.png"
     },
     {
+      "title": "UTXO.live",
+      "url": "https://utxo.live/",
+      "description": "The current bitcoin UTXO set.",
+      "image": "./../images/data/utxo-live.png"
+    },
+    {
       "title": "Woobull Charts",
       "url": "http://charts.woobull.com",
       "description": "Charts for Bitcoin investors.",
