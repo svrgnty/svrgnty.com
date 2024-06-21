@@ -32,6 +32,42 @@
         "image": "./../images/bitcoin-desktop-wallets/specter-multisig.jpg"
       },
       {
+        "title": "Electrum Wallet",
+        "url": "https://electrum.org",
+        "description": "Electrum is a lightweight Bitcoin wallet. It connects to external servers without the need to download the entire Bitcoin blockchain history.",
+        "pills": [
+          {
+            "pill": "Intermediate",
+            "color": "orange"
+          }
+        ],
+        "image": "./../images/bitcoin-desktop-wallets/electrum.png"
+      },
+      {
+        "title": "BlueWallet for MacOS",
+        "url": "https://bluewallet.io/desktop-bitcoin-wallet/",
+        "description": "Bitcoin and Lightning wallet for MasOS with a focus on security and UX. Open-source, Segwit and HD wallets, plausible deniability, replace by fee, and full encryption.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          }
+        ],
+        "image": "./../images/bitcoin-desktop-wallets/bluewallet.png"
+      },      
+      {
+        "title": "Bitcoin Core",
+        "url": "https://bitcoincore.org/en/download/",
+        "description": "Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet and requires a one-time download of about 600GB of data plus a further 5-10GB per month.",
+        "pills": [
+            {
+              "pill": "Intermediate",
+              "color": "orange"
+            }
+        ],
+        "image": "./../images/bitcoin.png"
+      },
+      {
         "title": "Liana",
         "url": "https://wizardsardine.com/liana/",
         "description": "Liana is a simple Bitcoin wallet leveraging on-chain timelocks for safety and recovery.",
@@ -46,30 +82,6 @@
           }
         ],
         "image": "./../images/bitcoin-desktop-wallets/liana.png"
-      },
-      {
-        "title": "Electrum Wallet",
-        "url": "https://electrum.org",
-        "description": "Electrum is a lightweight Bitcoin wallet. It connects to external servers without the need to download the entire Bitcoin blockchain history.",
-        "pills": [
-          {
-            "pill": "Intermediate",
-            "color": "orange"
-          }
-        ],
-        "image": "./../images/bitcoin-desktop-wallets/electrum.png"
-      },
-      {
-        "title": "Bitcoin Core",
-        "url": "https://bitcoincore.org/en/download/",
-        "description": "Bitcoin Core consists of both “full-node” software for fully validating the blockchain as well as a bitcoin wallet and requires a one-time download of about 600GB of data plus a further 5-10GB per month.",
-        "pills": [
-            {
-              "pill": "Intermediate",
-              "color": "orange"
-            }
-        ],
-        "image": "./../images/bitcoin.png"
       },
       {
         "title": "Nunchuk",
