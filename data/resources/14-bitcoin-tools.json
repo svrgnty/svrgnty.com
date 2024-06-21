@@ -31,6 +31,12 @@
       "image": "./../images/bitcoin.png"
     },
     {
+      "title": "Shamir Secret Sharing Scheme",
+      "url": "https://github.com/iancoleman/shamir",
+      "description": "A tool for splitting secrets into parts or recreating secrets from existing parts.",
+      "image": "./../images/bitcoin.png"
+    },
+    {
       "title": "Bitcoin Extended Public Key Converter",
       "url": "https://github.com/jlopp/xpub-converter",
       "description": "Convert an extended public key from any version to a different version.",
