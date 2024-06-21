@@ -2,8 +2,8 @@ import React from 'react';
 
 export const Head = () => (
   <>
-    <title>Redirecting to https://svrgnty.com/resources/what-is-bitcoin/</title>
-    <meta http-equiv="refresh" content="0; URL=https://svrgnty.com/resources/what-is-lighting/" />
+    <title>Redirecting to https://svrgnty.com/resources/what-is-lightning/</title>
+    <meta http-equiv="refresh" content="0; URL=https://svrgnty.com/resources/what-is-lightning/" />
   </>
 )
 
