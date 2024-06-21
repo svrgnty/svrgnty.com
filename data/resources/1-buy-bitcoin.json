@@ -40,7 +40,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/peach.jpg"
+      "image": "./../images/buy-bitcoin/peach.jpg"
     },
     {
       "title": "Relai",
@@ -73,7 +73,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/relai.png"
+      "image": "./../images/buy-bitcoin/relai.png"
     },
     {
       "title": "Pocket",
@@ -106,7 +106,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/pocket.png"
+      "image": "./../images/buy-bitcoin/pocket.png"
     },
     {
       "title": "Bisq",
@@ -139,7 +139,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/bisq-og.jpg"
+      "image": "./../images/buy-bitcoin/bisq-og.jpg"
     },
     {
       "title": "Hodl Hodl",
@@ -172,7 +172,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/hodlhodl.png"
+      "image": "./../images/buy-bitcoin/hodlhodl.png"
     },
     {
       "title": "Robosats",
@@ -205,7 +205,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/robosats.png"
+      "image": "./../images/buy-bitcoin/robosats.png"
     },
     {
       "title": "Coin ATM Radar",
@@ -238,7 +238,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/coinatmradar.png"
+      "image": "./../images/buy-bitcoin/coinatmradar.png"
     },
     {
       "title": "Swan Bitcoin",
@@ -271,7 +271,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/swanbitcoin.png"
+      "image": "./../images/buy-bitcoin/swanbitcoin.png"
     },
     {
       "title": "River Financial",
@@ -304,7 +304,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/riverfinancial.png"
+      "image": "./../images/buy-bitcoin/riverfinancial.png"
     },
     {
       "title": "SBB Ticket Machine",
@@ -337,7 +337,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/sbb.jpeg"
+      "image": "./../images/buy-bitcoin/sbb.jpeg"
     },
     {
       "title": "Kraken",
@@ -370,7 +370,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/kraken-social.jpg"
+      "image": "./../images/buy-bitcoin/kraken-social.jpg"
     }
   ]
 }

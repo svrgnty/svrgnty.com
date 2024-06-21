@@ -16,7 +16,7 @@
           "color": "purple"
         }
       ],
-      "image": "./../images/why.jpg"
+      "image": "./../images/why-bitcoin/why.jpg"
     },
     {
       "title": "The Bullish Case for Bitcoin",
@@ -32,7 +32,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/bullish.jpeg"
+      "image": "./../images/why-bitcoin/bullish.jpeg"
     },
     {
       "title": "Bitcoin, Not Blockchain",
@@ -44,7 +44,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/unchained.png"
+      "image": "./../images/why-bitcoin/bitcoin-not-blockchain.png"
     },
     {
       "title": "Can Governments Stop Bitcoin?",
@@ -56,7 +56,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/governments.png"
+      "image": "./../images/why-bitcoin/governments.png"
     },
     {
       "title": "Dear Family, Dear Friends",
@@ -72,7 +72,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/dearfriends.png"
+      "image": "./../images/why-bitcoin/dearfriends.png"
     },
     {
       "title": "Bitcoin Obsoletes All Other Money",
@@ -84,7 +84,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/obsolete.png"
+      "image": "./../images/why-bitcoin/obsolete.png"
     },
     {
       "title": "Bitcoin is Time",
@@ -100,7 +100,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/bitcoin-is-time.png"
+      "image": "./../images/why-bitcoin/bitcoin-is-time.png"
     },
     {
       "title": "The Number Zero and Bitcoin",
@@ -116,7 +116,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/zero.png"
+      "image": "./../images/why-bitcoin/zero.png"
     },
     {
       "title": "Bitcoin First",
@@ -128,7 +128,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/bitcoinfirst.png"
+      "image": "./../images/why-bitcoin/bitcoinfirst.png"
     }
   ]
 }

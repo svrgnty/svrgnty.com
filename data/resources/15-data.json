@@ -10,85 +10,85 @@
       "title": "Timechain Calendar",
       "url": "https://timechaincalendar.com/",
       "description": "Live data from the Bitcoin timechain with past block lookup and other calendar features.",
-      "image": "./../images/timechain-calendar.png"
+      "image": "./../images/data/timechain-calendar.png"
     },
     {
       "title": "Nakamoto Portfolio",
       "url": "https://nakamotoportfolio.com/nakamoto/start",
       "description": "A set of tools, research and open source code to explore the ground breaking effects that Bitcoin has on the financial world.",
-      "image": "./../images/nakamoto-portfolio.png"
+      "image": "./../images/data/nakamoto-portfolio.png"
     },
     {
       "title": "Bull Bitcoin Fee Multiple",
       "url": "https://feemultiple.bullbitcoin.com/",
       "description": "The Bull Bitcoin Fee Multiple is an indicator which shows clearly if the current Bitcoin Network fees are high or low relative to the average of the past year and the past month.",
-      "image": "./../images/bullbitcoin.png"
+      "image": "./../images/data/bullbitcoin.png"
     },
     {
       "title": "Bitcoinal",
       "url": "https://bitcoinal.com",
       "description": "Follow the price of Bitcoin in real time with live animations.",
-      "image": "./../images/bitcoinal.png"
+      "image": "./../images/data/bitcoinal.png"
     },
     {
       "title": "Bitcoinity Markets",
       "url": "https://bitcoinity.org/markets",
       "description": "Bitcoinity offers a succinct and graphical overview of the price of bitcoin and market depth on the major bitcoin exchanges.",
-      "image": "./../images/bitcoinitymarkets.png"
+      "image": "./../images/data/bitcoinitymarkets.png"
     },
     {
       "title": "Clark Moody Bitcoin",
       "url": "https://bitcoin.clarkmoody.com",
       "description": "Clark Moody presents a suite of real-time bitcoin tools: charts, data, trading, fundamentals, and economics.",
-      "image": "./../images/clarkmoody.png"
+      "image": "./../images/data/clarkmoody.png"
     },
     {
       "title": "Woobull Charts",
       "url": "http://charts.woobull.com",
       "description": "Charts for Bitcoin investors.",
-      "image": "./../images/woobull.png"
+      "image": "./../images/data/woobull.png"
     },
     {
       "title": "Bitcoinity Data",
       "url": "http://data.bitcoinity.org",
       "description": "Markets trading volume, bitcoin price, price + volume, mining difficulty, block size, number of transactions, time between block and hashrate and other useful data.",
-      "image": "./../images/bitcoinity.png"
+      "image": "./../images/data/bitcoinity.png"
     },
     {
       "title": "Messari",
       "url": "https://messari.io/asset/bitcoin",
       "description": "Bitcoin price, news, charts, and research.",
-      "image": "./../images/messari.png"
+      "image": "./../images/data/messari.png"
     },
     {
       "title": "Johoe's Bitcoin Mempool Statistics",
       "url": "https://mempool.jhoenicke.de/",
       "description": "This page displays the number and size of the unconfirmed bitcoin transactions, also known as the transactions in the mempool.",
-      "image": "./../images/mempool.png"
+      "image": "./../images/data/mempool.png"
     },
     {
       "title": "Transactionfee.info",
       "url": "https://transactionfee.info/charts/",
       "description": "Transaction fees on the Bitcoin network.",
-      "image": "./../images/transactionfee.png"
+      "image": "./../images/data/transactionfee.png"
     },
     {
       "title": "Bitcoin Rich List",
       "url": "https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html",
       "description": "Top 100 Richest Bitcoin Addresses. Bitcoin distribution. First Input, Last Input, Number Of Inputs, First Output, Last Output, Number Of Outputs, Balance.",
-      "image": "./../images/richlist.png"
+      "image": "./../images/data/richlist.png"
     },
     {
       "title": "Bitcoin Treasuries",
       "url": "https://buybitcoinworldwide.com/treasuries/",
       "description": "Bitcoin treasuries in publicly traded and private companies.",
-      "image": "./../images/bitcointreasuries.png"
+      "image": "./../images/data/bitcointreasuries.png"
     },
     {
       "title": "Look into Bitcoin",
       "url": "https://www.lookintobitcoin.com/charts/",
       "description": "Live Bitcoin charts and information using market cycle and on-chain analysis.",
-      "image": "./../images/lookintobitcoin.png"
+      "image": "./../images/data/lookintobitcoin.png"
     }
   ]
 }

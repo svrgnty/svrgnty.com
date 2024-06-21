@@ -17,7 +17,7 @@
             "color": "green"
           }
         ],
-        "image": "./../images/sparrowwallet.png"
+        "image": "./../images/bitcoin-desktop-wallets/sparrowwallet.png"
       },
       {
         "title": "Specter Desktop",
@@ -29,7 +29,7 @@
             "color": "orange"
           }
         ],
-        "image": "./../images/specter-multisig.jpg"
+        "image": "./../images/bitcoin-desktop-wallets/specter-multisig.jpg"
       },
       {
         "title": "Liana",
@@ -45,7 +45,7 @@
             "color": "grey"
           }
         ],
-        "image": "./../images/liana.png"
+        "image": "./../images/bitcoin-desktop-wallets/liana.png"
       },
       {
         "title": "Electrum Wallet",
@@ -57,7 +57,7 @@
             "color": "orange"
           }
         ],
-        "image": "./../images/electrum.png"
+        "image": "./../images/bitcoin-desktop-wallets/electrum.png"
       },
       {
         "title": "Bitcoin Core",
@@ -85,7 +85,7 @@
               "color": "grey"
             }
         ],
-        "image": "./../images/nunchuk.png"
+        "image": "./../images/bitcoin-desktop-wallets/nunchuk.jpg"
       },
       {
         "title": "Caravan",
@@ -97,7 +97,7 @@
             "color": "red"
           }
         ],
-        "image": "./../images/unchained.png"
+        "image": "./../images/bitcoin-desktop-wallets/caravan.png"
       }
     ]
   }

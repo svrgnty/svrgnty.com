@@ -11,37 +11,37 @@
       "title": "Bitcoin X (formerly twitter)",
       "url": "https://twitter.com/svrgnty/following",
       "description": "People to follow on X.",
-      "image": "./../images/twitter.png"
+      "image": "./../images/social-media/x.png"
     },
     {
       "title": "nostr Resources",
       "url": "https://nostr-resources.com/",
       "description": "nostr is new and confusing but also really cool. It is the simplest open protocol that is able to create a censorship-resistant global “social” network once and for all.",
-      "image": "./../images/nostr-resources.png"
+      "image": "./../images/social-media/nostr-resources.png"
     },
     {
       "title": "awesome-nostr",
       "url": "https://nostr.net/",
       "description": "A collection of projects and resources built on nostr to help developers and users find new things ",
-      "image": "./../images/awesome-nostr.png"
+      "image": "./../images/social-media/awesome-nostr.png"
     },
     {
       "title": "Snort nostr import",
       "url": "https://snort.social/new/import",
       "description": "Find your twitter follows on nostr and automatically follow them.",
-      "image": "./../images/snortimport.png"
+      "image": "./../images/social-media/snortimport.png"
     },
     {
       "title": "nostr.directory",
       "url": "https://www.nostr.directory/",
       "description": "Find people you know on other social media sites on nostr.",
-      "image": "./../images/nostrdirectory.png"
+      "image": "./../images/social-media/nostrdirectory.png"
     },
     {
       "title": "Bitcoin Reddit",
       "url": "https://www.reddit.com/r/Bitcoin",
       "description": "A community dedicated to Bitcoin.",
-      "image": "./../images/bitcoinreddit.png"
+      "image": "./../images/social-media/bitcoinreddit.png"
     }
   ]
 }

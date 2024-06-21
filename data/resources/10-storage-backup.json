@@ -40,7 +40,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/bitplates.png"
+      "image": "./../images/storage-backup/bitplates.png"
     },
     {
       "title": "SEEDPLATE",
@@ -73,7 +73,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/seedplate.png"
+      "image": "./../images/storage-backup/seedplate.png"
     },
     {
       "title": "Blockplate",
@@ -106,7 +106,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/blockplate.png"
+      "image": "./../images/storage-backup/blockplate.png"
     },
     {
       "title": "Sx6",
@@ -139,7 +139,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/sx6.png"
+      "image": "./../images/storage-backup/sx6.png"
     },
     {
       "title": "Stamp Seed",
@@ -172,7 +172,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/stampseed.png"
+      "image": "./../images/storage-backup/stampseed.png"
     },
     {
       "title": "SteelQR",
@@ -205,7 +205,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/steelqr.png"
+      "image": "./../images/storage-backup/steelqr.png"
     },
     {
       "title": "SeedHammer",
@@ -238,7 +238,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/seedhammer.png"
+      "image": "./../images/storage-backup/seedhammer.png"
     },
     {
       "title": "Blockmit Washer Jig",
@@ -271,7 +271,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/blockmit.jpg"
+      "image": "./../images/storage-backup/blockmit.jpg"
     },
     {
       "title": "Blockmit Plate",
@@ -304,25 +304,25 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/blockmitplate.jpg"
+      "image": "./../images/storage-backup/blockmitplate.jpg"
     },
     {
       "title": "Privacy Pros Faraday Bags",
       "url": "https://privacypros.io/collections/faraday-bags",
       "description": "Protects electronics from being damaged by radio frequency interference (RFI) or from an electromagnetic pulse (EMP) by not allowing radio frequency or electromagnetic pulse waves to pass through the material.",
-      "image": "./../images/privacypros.png"
+      "image": "./../images/storage-backup/privacypros.png"
     },
     {
       "title": "Slnt Faraday Sleeves",
       "url": "https://slnt.com/collections/faraday-sleeves",
       "description": "Designed to Instantly block ALL Wireless Signal including Cellular, GPS, WiFi, Bluetooth, RFID, and NFC.",
-      "image": "./../images/silentpocket.png"
+      "image": "./../images/storage-backup/silentpocket.png"
     },
     {
       "title": "Metal Bitcoin Seed Storage Reviews",
       "url": "https://jlopp.github.io/metal-bitcoin-storage-reviews/",
       "description": "Stress tests and reviews of seed storage devices.",
-      "image": "./../images/mbssr.jpeg"
+      "image": "./../images/storage-backup/mbssr.jpeg"
     }
   ]
 }

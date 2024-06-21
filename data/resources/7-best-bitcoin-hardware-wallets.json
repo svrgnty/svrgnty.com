@@ -8,7 +8,6 @@
   "icon": "microchip",
   "iconPrefix": "fas",
   "cardType": "extended",
-  "lastUpdate": "28 May 2024",
   "links": [
     {
       "title": "Coldcard Q",
@@ -46,7 +45,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/coldcard-q.png"
+      "image": "./../images/bitcoin-hardware-wallets/coldcard-q.png"
     },
     {
       "title": "Coldcard Mk4",
@@ -84,7 +83,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/coldcard-mk4.jpg"
+      "image": "./../images/bitcoin-hardware-wallets/coldcard-mk4.jpg"
     },
     {
       "title": "Passport",
@@ -122,7 +121,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/passport.png"
+      "image": "./../images/bitcoin-hardware-wallets/passport.png"
     },
     {
       "title": "Keystone 3 Pro",
@@ -160,7 +159,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/keystone.png"
+      "image": "./../images/bitcoin-hardware-wallets/keystone.png"
     },
     {
       "title": "Portal",
@@ -198,7 +197,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/portal.png"
+      "image": "./../images/bitcoin-hardware-wallets/portal.png"
     },
     {
       "title": "SeedSigner",
@@ -236,7 +235,7 @@
           "category": "orange"
         }
       ],
-      "image": "./../images/seedsigner.png"
+      "image": "./../images/bitcoin-hardware-wallets/seedsigner.png"
     },
     {
       "title": "Specter DIY Signer",
@@ -274,7 +273,7 @@
           "category": "orange"
         }
       ],
-      "image": "./../images/specter-diy.jpg"
+      "image": "./../images/bitcoin-hardware-wallets/specter-diy.jpg"
     },
     {
       "title": "Krux",
@@ -312,7 +311,7 @@
           "category": "orange"
         }
       ],
-      "image": "./../images/krux.png"
+      "image": "./../images/bitcoin-hardware-wallets/krux.png"
     },
     {
       "title": "Trezor Model One",
@@ -350,7 +349,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/trezor-model-one.png"
+      "image": "./../images/bitcoin-hardware-wallets/trezor-model-one.png"
     },
     {
       "title": "Trezor Safe 3",
@@ -388,7 +387,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/trezor-safe-3.png"
+      "image": "./../images/bitcoin-hardware-wallets/trezor-safe-3.png"
     },
     {
       "title": "BitBox02",
@@ -426,7 +425,7 @@
           "category": "orange"
         }
       ],
-      "image": "./../images/bitbox.png"
+      "image": "./../images/bitcoin-hardware-wallets/bitbox.png"
     },
     {
       "title": "Blockstream Jade",
@@ -464,7 +463,7 @@
           "category": "orange"
         }
       ],
-      "image": "./../images/jade.png"
+      "image": "./../images/bitcoin-hardware-wallets/jade.png"
     },
     {
       "title": "Tapsigner",
@@ -502,7 +501,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/tapsigner.png"
+      "image": "./../images/bitcoin-hardware-wallets/tapsigner.png"
     },
     {
       "title": "Opendime",
@@ -530,7 +529,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/opendime.png"
+      "image": "./../images/bitcoin-hardware-wallets/opendime.png"
     },
     {
       "title": "Satscard",
@@ -558,7 +557,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/satscard.png"
+      "image": "./../images/bitcoin-hardware-wallets/satscard.png"
     }
   ]
 }

@@ -17,7 +17,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/helpingenvironment.png"
+      "image": "./../images/bitcoin-misconceptions/helpingenvironment.png"
     },
     {
       "title": "Bitcoin is Protecting Human Rights Around the World",
@@ -29,7 +29,7 @@
           "color": "purple"
         }
       ],
-      "image": "./../images/humanrights.jpg"
+      "image": "./../images/bitcoin-misconceptions/humanrights.jpg"
     },
     {
       "title": "Bitcoin is Not for Criminals",
@@ -37,31 +37,11 @@
       "description": "Just as the internet is not for drug dealers and terrorists, bitcoin is not for criminals. It is for everyone.",
       "pills": [
         {
-          "pill": "Audio",
-          "color": "green"
-        },
-        {
           "pill": "Read",
           "color": "blue"
         }
       ],
-      "image": "./../images/unchained.png"
-    },
-    {
-      "title": "Bitcoin Rocks",
-      "url": "https://bitcoin.rocks/",
-      "description": "Bitcoin has stabilized the power grid, protected human rights, saved people from high inflation, supported local farmers, reduced emissions from oil drilling, and so much more.",
-      "pills": [
-        {
-          "pill": "Read",
-          "color": "blue"
-        },
-        {
-          "pill": "Video",
-          "color": "purple"
-        }
-      ],
-      "image": "./../images/bitcoin-rocks.png"
+      "image": "./../images/bitcoin-misconceptions/criminals.png"
     },
     {
       "title": "Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.",
@@ -73,7 +53,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/bitcoin-energy.jpg"
+      "image": "./../images/bitcoin-misconceptions/bitcoin-energy.jpg"
     },
     {
       "title": "Demystifying Bitcoin",
@@ -85,7 +65,7 @@
           "color": "purple"
         }
       ],
-      "image": "./../images/demystifying-bitcoin.png"
+      "image": "./../images/bitcoin-misconceptions/demystifying-bitcoin.png"
     },
     {
       "title": "This Machine Greens",
@@ -97,7 +77,7 @@
           "color": "purple"
         }
       ],
-      "image": "./../images/thismachinegreens.png"
+      "image": "./../images/bitcoin-misconceptions/thismachinegreens.png"
     },
     {
       "title": "The Spiral Book of Bitcoin Mythology: Bitcoin Mining",
@@ -109,7 +89,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/bitcoin-mythology.png"
+      "image": "./../images/bitcoin-misconceptions/bitcoin-mythology.png"
     },
     {
       "title": "End the FUD",
@@ -121,7 +101,19 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/endthefud.png"
+      "image": "./../images/bitcoin-misconceptions/endthefud.png"
+    },
+    {
+      "title": "Bitcoin Rocks",
+      "url": "https://bitcoin.rocks/",
+      "description": "Bitcoin has stabilized the power grid, protected human rights, saved people from high inflation, supported local farmers, reduced emissions from oil drilling, and so much more.",
+      "pills": [
+        {
+          "pill": "Read",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-misconceptions/bitcoin-rocks.png"
     }
   ]
 }

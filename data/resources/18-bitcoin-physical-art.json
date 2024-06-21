@@ -10,55 +10,55 @@
         "title": "MADEX Art",
         "url": "https://madex.art/",
         "description": "MVDEX (MADEX) Art and Rare Products.",
-        "image": "./../images/madex.jpg"
+        "image": "./../images/physical-bitcoin-art/madex.jpg"
       },
       {
         "title": "cryptograffiti",
         "url": "https://cryptograffiti.com/",
         "description": "#bitcoin activist artist",
-        "image": "./../images/cryptograffiti.png"
+        "image": "./../images/physical-bitcoin-art/cryptograffiti.png"
       },
       {
         "title": "RYR",
         "url": "https://ryrstudio.com/",
         "description": "Shredded FIAT banknotes.",
-        "image": "./../images/ryr.jpg"
+        "image": "./../images/physical-bitcoin-art/ryr.jpg"
       },
       {
         "title": "Kanuto",
         "url": "https://kanuto.io/",
         "description": "Bitcoin related design & unique artwork.",
-        "image": "./../images/kanuto.png"
+        "image": "./../images/physical-bitcoin-art/kanuto.png"
       },
       {
         "title": "Bitcoin Apex Art",
         "url": "https://www.bitcoinapexart.com/",
         "description": "Unique Bitcoin pencil art.",
-        "image": "./../images/apex.png"
+        "image": "./../images/physical-bitcoin-art/apex.png"
       },
       {
         "title": "Timechain Artifacts",
         "url": "https://timechainartifacts.com/",
         "description": "Cypherpunk Artist infusing software, math, art, tech, and chemistry into biological interfaces.",
-        "image": "./../images/timechainartifacts.png"
+        "image": "./../images/physical-bitcoin-art/timechainartifacts.png"
       },
       {
         "title": "Petek",
         "url": "https://www.petek.co.uk/",
         "description": "Bitcoin, specifically the energy of money, the Moon, and cosmic materials are Petek's muses.",
-        "image": "./../images/petek.png"
+        "image": "./../images/physical-bitcoin-art/petek.png"
       },
       {
         "title": "Rebel Money",
         "url": "https://www.rebelmoney.art/",
         "description": "Bitcoin artist, art champion and culture miner.",
-        "image": "./../images/rebelmoney.png"
+        "image": "./../images/physical-bitcoin-art/rebelmoney.png"
       },
       {
         "title": "NAJP",
         "url": "https://najp.ch/",
         "description": "Bitcoin Physical Art.",
-        "image": "./../images/najp.png"
+        "image": "./../images/physical-bitcoin-art/najp.png"
       }
     ]
   }

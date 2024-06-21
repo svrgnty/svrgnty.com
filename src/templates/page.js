@@ -38,7 +38,7 @@ export default function Template({data}) {
   const {resourcesJson: pages} = data;
   const {allResourcesJson: categories} = data;
 
-  var desc, body, updated = '';
+  var desc, body = '';
 
   if (pages.description !== null) {
     desc = <p className="description">{pages.description}</p>;
@@ -47,10 +47,6 @@ export default function Template({data}) {
   if (pages.body !== null) {
     body = <div className="body">{parse(pages.body)}</div>;
   }
-
-//  if (pages.lastUpdate !== null) {
-//    updated = <p className="updated"> Last Updated: {pages.lastUpdate}</p>;
-//  }
 
   return (
     <Layout>
@@ -73,7 +69,6 @@ export default function Template({data}) {
                 </li>
               ))}
             </ul>
-          {updated}
           </div>
         </div>
       </div>
@@ -111,7 +106,6 @@ export const pageQuery = graphql`
       description
       body
       cardType
-      lastUpdate
       ...Card_details
     }
     allResourcesJson(sort: { position: ASC }) {

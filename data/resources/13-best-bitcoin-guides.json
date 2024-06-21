@@ -10,19 +10,19 @@
       "title": "Bitcoin Privacy: Best Practices",
       "url": "https://www.swanbitcoin.com/bitcoin-privacy-best-practices/",
       "description": "There is a sacred realm of privacy where essential rights and liberties into which the law, generally speaking, must not intrude.",
-      "image": "./../images/privacybestpractices.png"
+      "image": "./../images/best-bitcoin-guides/privacybestpractices.png"
     },
     {
       "title": "10x Security Bitcoin Guide",
       "url": "https://btcguide.github.io",
       "description": "How to store bitcoin without any single point of failure.",
-      "image": "./../images/btcguide.png"
+      "image": "./../images/best-bitcoin-guides/btcguide.png"
     },
     {
       "title": "Bitcoin Security",
       "url": "https://bitcoinsecurity.guide",
       "description": "Bitcoin Security Guide - A simple and secure setup for your Bitcoin Self Custody.",
-      "image": "./../images/bitcoinsecurity.png"
+      "image": "./../images/best-bitcoin-guides/bitcoinsecurity.png"
     }
   ]
 }

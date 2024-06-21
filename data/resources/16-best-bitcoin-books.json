@@ -10,37 +10,37 @@
       "title": "The Bitcoin Standard",
       "url": "https://saifedean.com/thebitcoinstandard",
       "description": "The Bitcoin Standard analyzes the economic properties that have allowed it to grow quickly, and its likely economic, political, and social implications.",
-      "image": "./../images/bitcoinstandard.jpg"
+      "image": "./../images/bitcoin-books/bitcoinstandard.jpg"
     },
     {
       "title": "Layered Money",
       "url": "https://www.layeredmoney.com/",
       "description": "From Gold and Dollars to Bitcoin and Central Bank Digital Currencies.",
-      "image": "./../images/layeredmoney.png"
+      "image": "./../images/bitcoin-books/layeredmoney.png"
     },
     {
       "title": "21 Lessons",
       "url": "https://21lessons.com/",
       "description": "What I've Learned from Falling Down the Bitcoin Rabbit Hole.",
-      "image": "./../images/21lessons.png"
+      "image": "./../images/bitcoin-books/21lessons.png"
     },
     {
       "title": "Bitcoin is Venice",
       "url": "https://www.amazon.com/Bitcoin-Venice-Essays-Future-Capitalism/dp/B09TTTGT11",
       "description": "crash course through the errors of modern economic theory and the world's broken fiat currency system with a hopeful destination: Bitcoin Is Venice.",
-      "image": "./../images/bitcoinisvenice.png"
+      "image": "./../images/bitcoin-books/bitcoinisvenice.png"
     },
     {
       "title": "Digital Gold",
       "url": "https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X",
       "description": "Bitcoin and the inside story of the misfits and millionaires trying to reinvent money.",
-      "image": "./../images/digitalgold.jpg"
+      "image": "./../images/bitcoin-books/digitalgold.jpg"
     },
     {
       "title": "Cryptoasset Inheritance Planning",
       "url": "https://www.amazon.com/Cryptoasset-Inheritance-Planning-Simple-Owners/dp/1947910116",
       "description": "A clear blueprint to inheritance planning for your bitcoin.",
-      "image": "./../images/inheritanceplanning.jpg"
+      "image": "./../images/bitcoin-books/inheritanceplanning.jpg"
     }
   ]
 }

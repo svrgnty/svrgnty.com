@@ -10,13 +10,13 @@
       "title": "Bails",
       "url": "https://github.com/BenWestgate/Bails",
       "description": "Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. Combining Bitcoin Core and Tails, Bails offers strong anonymity for transactions and secure encrypted storage.",
-      "image": "./../images/bails.png"
+      "image": "./../images/bitcoin-tools/bails.png"
     },
     {
       "title": "DTails",
       "url": "https://github.com/DesobedienteTecnologico/dtails",
       "description": "DTails is a tool that helps add Bitcoin software like Sparrow Wallet, Specter Wallet, Mempool.space, and others in Debian based live images like Tails.",
-      "image": "./../images/dtails.png"
+      "image": "./../images/bitcoin-tools/dtails.png"
     },
     {
       "title": "Btcrecover",
@@ -40,19 +40,19 @@
       "title": "HD Wallet Scanner",
       "url": "https://github.com/alexk111/HD-Wallet-Scanner",
       "description": "Find all used addresses in your bitcoin hardware wallets bypassing gap limits.",
-      "image": "./../images/hdwalletscanner.png"
+      "image": "./../images/bitcoin-tools/hdwalletscanner.png"
     },
     {
       "title": "Wallet Scrutiny",
       "url": "https://walletscrutiny.com",
       "description": "The aim of this project is to improve the security of Bitcoin wallets by examining the application code for possible back-doors and other vulnerabilities.",
-      "image": "./../images/walletscrutiny.png"
+      "image": "./../images/bitcoin-tools/walletscrutiny.png"
     },
     {
       "title": "Wallets Recovery",
       "url": "https://walletsrecovery.org/",
       "description": "Information about wallet defaults for external recovery.",
-      "image": "./../images/wallets-recovery.png"
+      "image": "./../images/bitcoin-tools/wallets-recovery.png"
     }
   ]
 }

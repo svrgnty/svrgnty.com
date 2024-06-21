@@ -10,13 +10,13 @@
       "title": "BTC Sessions",
       "url": "https://www.youtube.com/c/BTCSessions",
       "description": "BTC Sessions is geared towards helping you understand Bitcoin. Get the tutorials on wallets, hardware, security, exchanges and much more.",
-      "image": "./../images/btc-sessions.png"
+      "image": "./../images/other-resources/btc-sessions.png"
     },
     {
       "title": "Lopp.net",
       "url": "https://lopp.net/bitcoin.html",
       "description": "Jameson's goal is to spread knowledge of crypto systems and liberating technologies.",
-      "image": "./../images/lopp.png"
+      "image": "./../images/other-resources/lopp.png"
     },
     {
       "title": "Matt Odell",
@@ -34,25 +34,25 @@
       "title": "Bitcoin Only",
       "url": "https://bitcoin-only.com",
       "description": "Vast collection of links to bitcoin only resources.",
-      "image": "./../images/bitcoin-only.png"
+      "image": "./../images/other-resources/bitcoin-only.png"
     },
     {
       "title": "Bitcoiner.Guide",
       "url": "https://bitcoiner.guide",
       "description": "A collection of Bitcoin resources by BitcoinQ+A",
-      "image": "./../images/bitcoiner.guide.png"
+      "image": "./../images/other-resources/bitcoiner.guide.png"
     },
     {
       "title": "Keep It Simple Bitcoin",
       "url": "https://www.keepitsimplebitcoin.com",
       "description": "Practical guides and tutorials to teach people how to interact securely and privately with Bitcoin.",
-      "image": "./../images/kisbtc.png"
+      "image": "./../images/other-resources/kisbtc.png"
     },
     {
       "title": "Arman The Parman's free Bitcoin Guides",
       "url": "https://armantheparman.com/",
       "description": "This site is dedicated to helping you progress your understanding of Bitcoin.",
-      "image": "./../images/arman.png"
+      "image": "./../images/other-resources/arman.png"
     },
     {
       "title": "Awesome Bitcoin",

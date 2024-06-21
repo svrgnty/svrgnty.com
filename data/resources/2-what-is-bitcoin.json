@@ -17,7 +17,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/bitcoin-eli5.jpg"
+      "image": "./../images/what-is-bitcoin/bitcoin-eli5.jpg"
     },
     {
       "title": "How Bitcoin Actually Works",
@@ -29,7 +29,7 @@
           "color": "purple"
         }
       ],
-      "image": "./../images/actually-works.png"
+      "image": "./../images/what-is-bitcoin/actually-works.png"
     },
     {
       "title": "What Is Bitcoin?",
@@ -41,7 +41,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/river-learn.png"
+      "image": "./../images/what-is-bitcoin/river-learn.png"
     },
     {
       "title": "Introduction to Bitcoin",
@@ -53,7 +53,7 @@
           "color": "purple"
         }
       ],
-      "image": "./../images/aantonop.jpg"
+      "image": "./../images/what-is-bitcoin/aantonop.jpg"
     },
     {
       "title": "How Bitcoin Works Under the Hood",
@@ -65,7 +65,7 @@
           "color": "purple"
         }
       ],
-      "image": "./../images/hood.png"
+      "image": "./../images/what-is-bitcoin/hood.png"
     },
     {
       "title": "Learn me a bitcoin",
@@ -77,7 +77,7 @@
           "color": "blue"
         }
       ],
-      "image": "./../images/learnmeabitcoin.png"
+      "image": "./../images/what-is-bitcoin/learnmeabitcoin.png"
     }
   ]
 }

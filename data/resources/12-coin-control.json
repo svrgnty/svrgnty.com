@@ -11,13 +11,13 @@
             "title": "Bitcoin’s UTXO Model",
             "url": "https://river.com/learn/bitcoins-utxo-model/",
             "description": "UTXO (Unspent Transaction Output) consolidation is a management technique where multiple UTXOs are combined into a single UTXO.",
-            "image": "./../images/bitcoins-utxo-model.png"
+            "image": "./../images/coin-control/bitcoin-utxo-model.png"
         },
         {
             "title": "Labelbase",
             "url": "https://labelbase.space/",
             "description": "All-in-one coin control/label management service for Bitcoin. Add, import, export labels. REST API for integration. Supports BIP-329 format.",
-            "image": "./../images/labelbase.png"
+            "image": "./../images/coin-control/labelbase.png"
         }
     ]
 }

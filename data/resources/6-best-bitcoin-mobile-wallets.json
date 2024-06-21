@@ -45,7 +45,7 @@
           "category": "green"
         }
       ],
-      "image": "./../images/zeus.png"
+      "image": "./../images/bitcoin-mobile-wallets/zeus.png"
     },
     {
       "title": "BlueWallet",
@@ -83,7 +83,7 @@
           "category": "green"
         }
       ],
-      "image": "./../images/bluewallet.png"
+      "image": "./../images/bitcoin-mobile-wallets/bluewallet.png"
     },
     {
       "title": "Blockstream Green",
@@ -121,7 +121,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/green-graphic.png"
+      "image": "./../images/bitcoin-mobile-wallets/green-graphic.png"
     },
     {
       "title": "Aqua",
@@ -159,7 +159,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/aqua.png"
+      "image": "./../images/bitcoin-mobile-wallets/aqua.png"
     },
     {
       "title": "Breez",
@@ -197,7 +197,7 @@
           "category": "orange"
         }
       ],
-      "image": "./../images/breez.png"
+      "image": "./../images/bitcoin-mobile-wallets/breez.png"
     },
     {
       "title": "BitBanana",
@@ -235,7 +235,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/bitbanana.png"
+      "image": "./../images/bitcoin-mobile-wallets/bitbanana.png"
     },
     {
       "title": "Muun",
@@ -273,7 +273,7 @@
           "category": "orange"
         }
       ],
-      "image": "./../images/muun.png"
+      "image": "./../images/bitcoin-mobile-wallets/muun.png"
     },
     {
       "title": "Nunchuk",
@@ -311,7 +311,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/nunchuk.png"
+      "image": "./../images/bitcoin-mobile-wallets/nunchuk.png"
     },
     {
       "title": "Keeper",
@@ -349,7 +349,7 @@
           "category": "grey"
         }
       ],
-      "image": "./../images/keeper.png"
+      "image": "./../images/bitcoin-mobile-wallets/keeper.png"
     }
   ]
 }

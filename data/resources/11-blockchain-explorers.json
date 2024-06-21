@@ -10,31 +10,31 @@
       "title": "Mempool.space",
       "url": "https://mempool.space",
       "description": "An open-source explorer developed for the Bitcoin community, focusing on the transition into a multi-layer ecosystem.",
-      "image": "./../images/mempool-space.png"
+      "image": "./../images/blockchain-explorers/mempool-space.png"
     },
     {
       "title": "Bitcoin RPC Explorer",
       "url": "https://bitcoinexplorer.org/",
       "description": "Free, open-source, easy-to-setup, easy-to-use, self-hosted explorer.",
-      "image": "./../images/bitcoin-explorer.png"
+      "image": "./../images/blockchain-explorers/bitcoin-explorer.png"
     },
     {
       "title": "Orion.Ninja",
       "url": "https://orion.ninja/",
       "description": "Visualize the path of bitcoin transaction and outputs.",
-      "image": "./../images/orion.png"
+      "image": "./../images/blockchain-explorers/orion.png"
     },    
     {
       "title": "Bitcoin Explorer",
       "url": "https://bitcoin.jonasschnelli.ch/explorer/",
       "description": "A trivial block explorer written in a single PHP file.",
-      "image": "./../images/jonas-explorer.png"
+      "image": "./../images/blockchain-explorers/jonas-explorer.png"
     },
     {
       "title": "Bitcoin Explorer - Blockstream.info",
       "url": "https://blockstream.info",
       "description": "Blockstream Explorer is an open source block explorer providing detailed blockchain data. Supports Tor and tracking-free.",
-      "image": "./../images/blockstream-explorer.png"
+      "image": "./../images/blockchain-explorers/blockstream-explorer.png"
     }
   ]
 }

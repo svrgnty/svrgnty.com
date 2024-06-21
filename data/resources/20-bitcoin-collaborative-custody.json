@@ -12,7 +12,7 @@
       "title": "Nunchuk",
       "url": "https://nunchuk.io",
       "description": "Security. Inheritance planning. Ease of use.",
-      "image": "./../images/nunchuk.png"
+      "image": "./../images/bitcoin-collaborative-custody/nunchuk.png"
     },
     {
       "title": "Casa",
@@ -28,7 +28,7 @@
           "color": "red"
         }
       ],
-      "image": "./../images/casa.png"
+      "image": "./../images/bitcoin-collaborative-custody/casa.png"
     },
     {
       "title": "Unchained Personal Vault",
@@ -40,7 +40,7 @@
           "color": "red"
         }
       ],
-      "image": "./../images/unchained.png"
+      "image": "./../images//bitcoin-collaborative-custody/unchained.png"
     },
     {
       "title": "Swan Vault",
@@ -52,7 +52,7 @@
           "color": "red"
         }
       ],
-      "image": "./../images/swan.png"
+      "image": "./../images/bitcoin-collaborative-custody/swan.png"
     },
     {
       "title": "Keeper",
@@ -68,7 +68,7 @@
           "color": "green"
         }
       ],
-      "image": "./../images/keeper.png"
+      "image": "./../images/bitcoin-collaborative-custody/keeper.png"
     }
   ]
 }
