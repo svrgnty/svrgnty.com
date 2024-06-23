@@ -23,6 +23,18 @@
       "url": "https://bitcoinsecurity.guide",
       "description": "Bitcoin Security Guide - A simple and secure setup for your Bitcoin Self Custody.",
       "image": "./../images/bitcoin-guides/bitcoinsecurity.png"
+    },
+    {
+      "title": "Wallet Scrutiny",
+      "url": "https://walletscrutiny.com",
+      "description": "The aim of this project is to improve the security of Bitcoin wallets by examining the application code for possible back-doors and other vulnerabilities.",
+      "image": "./../images/bitcoin-tools/walletscrutiny.png"
+    },
+    {
+      "title": "Wallets Recovery",
+      "url": "https://walletsrecovery.org/",
+      "description": "Information about wallet defaults for external recovery.",
+      "image": "./../images/bitcoin-tools/wallets-recovery.png"
     }
   ]
 }

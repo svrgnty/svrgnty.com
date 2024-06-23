@@ -2,7 +2,7 @@
   "position": 14,
   "page": "/resources/bitcoin-tools/",
   "title": " Bitcoin Tools",
-  "lead": "Useful bitcoin tools.",
+  "lead": "Useful bitcoin tools & utilities.",
   "icon": "screwdriver-wrench",
   "iconPrefix": "fas",
   "links": [
@@ -47,18 +47,6 @@
       "url": "https://github.com/alexk111/HD-Wallet-Scanner",
       "description": "Find all used addresses in your bitcoin hardware wallets bypassing gap limits.",
       "image": "./../images/bitcoin-tools/hdwalletscanner.png"
-    },
-    {
-      "title": "Wallet Scrutiny",
-      "url": "https://walletscrutiny.com",
-      "description": "The aim of this project is to improve the security of Bitcoin wallets by examining the application code for possible back-doors and other vulnerabilities.",
-      "image": "./../images/bitcoin-tools/walletscrutiny.png"
-    },
-    {
-      "title": "Wallets Recovery",
-      "url": "https://walletsrecovery.org/",
-      "description": "Information about wallet defaults for external recovery.",
-      "image": "./../images/bitcoin-tools/wallets-recovery.png"
     }
   ]
 }
