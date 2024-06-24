@@ -9,7 +9,7 @@
     {
       "title": "Bails",
       "url": "https://github.com/BenWestgate/Bails",
-      "description": "Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. Combining Bitcoin Core and Tails, Bails offers strong anonymity for transactions and secure encrypted storage.",
+      "description": "Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. It installs Bitcoin Core on the encrypted Persistent Storage of Tails, creates and recovers Bitcoin Core wallets from Codex32 (BIP93) seed backups, and creates backup Bails USB sticks and shareable blank Bails USB sticks.",
       "image": "./../images/bitcoin-tools/bails.png"
     },
     {

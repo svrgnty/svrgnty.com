@@ -162,44 +162,6 @@
       "image": "./../images/bitcoin-hardware-wallets/keystone.png"
     },
     {
-      "title": "Portal",
-      "url": "https://twenty-two.xyz/",
-      "description": "The first mobile-native hardware wallet, which is also completely open-source.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Open-source",
-          "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "No secure element",
-          "category": "orange"
-        },
-        {
-          "label": "Signing",
-          "description": "NFC",
-          "category": "green"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Review",
-          "description": "NA",
-          "category": "grey"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Pre-order",
-          "category": "grey"
-        }
-      ],
-      "image": "./../images/bitcoin-hardware-wallets/portal.png"
-    },
-    {
       "title": "SeedSigner",
       "url": "https://seedsigner.com",
       "description": "Use an air-gapped Raspberry Pi Zero to sign for Bitcoin transactions, generate seed word 12/24, or generate a seed phrase from dice rolls.",
@@ -314,6 +276,82 @@
       "image": "./../images/bitcoin-hardware-wallets/krux.png"
     },
     {
+      "title": "Blockstream Jade",
+      "url": "https://blockstream.com/jade/",
+      "description": "Easy-to-use, purely open-source hardware wallet that offers advanced security for your Bitcoin assets.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source, No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "USB, QR, Bluetooth",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952536901230592' target='_blank'>Blockstream Jade review</a>",
+          "category": "grey"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Built-in battery",
+          "category": "orange"
+        }
+      ],
+      "image": "./../images/bitcoin-hardware-wallets/jade.png"
+    },
+    {
+      "title": "BitBox02",
+      "url": "https://shiftcrypto.ch",
+      "description": "Simple and secure, Swiss made hardware wallet.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "USB",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Firmware available",
+          "category": "orange"
+        },
+        {
+          "label": "Review",
+          "description": "<a href='https://x.com/svrgnty/status/1672952565665783808' target='_blank'>BitBox02 review</a>",
+          "category": "grey"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Requires BitBox App",
+          "category": "orange"
+        }
+      ],
+      "image": "./../images/bitcoin-hardware-wallets/bitbox.png"
+    },
+    {
       "title": "Trezor Safe 3",
       "url": "https://trezor.io/trezor-safe-3-bitcoin-only",
       "description": "Easy & simple bitcoin security & management with Secure Element protection, open-source design, and on-device confirmation.",
@@ -390,9 +428,9 @@
       "image": "./../images/bitcoin-hardware-wallets/trezor-safe-5.png"
     },
     {
-      "title": "BitBox02",
-      "url": "https://shiftcrypto.ch",
-      "description": "Simple and secure, Swiss made hardware wallet.",
+      "title": "Portal",
+      "url": "https://twenty-two.xyz/",
+      "description": "The first mobile-native hardware wallet, which is also completely open-source.",
       "details" : [
         {
           "label": "Firmware",
@@ -401,51 +439,13 @@
         },
         {
           "label": "Hardware",
-          "description": "Closed-source secure element",
+          "description": "No secure element",
           "category": "orange"
         },
         {
           "label": "Signing",
-          "description": "USB",
-          "category": "red"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Firmware available",
-          "category": "orange"
-        },
-        {
-          "label": "Review",
-          "description": "<a href='https://x.com/svrgnty/status/1672952565665783808' target='_blank'>BitBox02 review</a>",
-          "category": "grey"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Requires BitBox App",
-          "category": "orange"
-        }
-      ],
-      "image": "./../images/bitcoin-hardware-wallets/bitbox.png"
-    },
-    {
-      "title": "Blockstream Jade",
-      "url": "https://blockstream.com/jade/",
-      "description": "Easy-to-use, purely open-source hardware wallet that offers advanced security for your Bitcoin assets.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Open-source",
+          "description": "NFC",
           "category": "green"
-        },
-        {
-          "label": "Hardware",
-          "description": "Open-source, No secure element",
-          "category": "orange"
-        },
-        {
-          "label": "Signing",
-          "description": "USB, QR, Bluetooth",
-          "category": "orange"
         },
         {
           "label": "Bitcoin Only",
@@ -454,16 +454,16 @@
         },
         {
           "label": "Review",
-          "description": "<a href='https://x.com/svrgnty/status/1672952536901230592' target='_blank'>Blockstream Jade review</a>",
+          "description": "NA",
           "category": "grey"
         },
         {
           "label": "Additional Info",
-          "description": "Built-in battery",
-          "category": "orange"
+          "description": "Pre-order",
+          "category": "grey"
         }
       ],
-      "image": "./../images/bitcoin-hardware-wallets/jade.png"
+      "image": "./../images/bitcoin-hardware-wallets/portal.png"
     },
     {
       "title": "Tapsigner",
