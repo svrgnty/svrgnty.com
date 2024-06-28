@@ -116,9 +116,9 @@
           "category": "grey"
         },
         {
-          "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
+          "label": "Referral code",
+          "description": "SVRGNTY",
+          "category": "referral"
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/passport.png"
@@ -392,7 +392,7 @@
     {
       "title": "Trezor Safe 5",
       "url": "https://trezor.io/trezor-safe-5-bitcoin-only",
-      "description": "Vibrant color touchscreen and tactile feedback features from the Trezor Touch haptic engine, it offers an intuitive experience that’s easy to navigate.",
+      "description": "Vibrant color touchscreen and tactile feedback features from the Trezor Touch haptic engine, it offers an intuitive experience that's easy to navigate.",
       "details" : [
         {
           "label": "Firmware",
@@ -421,7 +421,7 @@
         },
         {
           "label": "Additional Info",
-          "description": "Pre-order",
+          "description": "NA",
           "category": "grey"
         }
       ],
