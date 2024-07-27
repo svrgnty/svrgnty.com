@@ -38,6 +38,12 @@
       "image": "./../images/social-media/nostrdirectory.png"
     },
     {
+      "title": "nostr.watch",
+      "url": "https://nostr.watch/",
+      "description": "Discovers, monitors and indexes nostr relays.",
+      "image": "./../images/social-media/nostrwatch.png"
+    },
+    {
       "title": "Bitcoin Reddit",
       "url": "https://www.reddit.com/r/Bitcoin",
       "description": "A community dedicated to Bitcoin.",
