@@ -13,6 +13,12 @@
       "image": "./../images/data/timechain-calendar.png"
     },
     {
+      "title": "Satonomics",
+      "url": "https://app.satonomics.xyz/",
+      "description": "Satonomics is a better, FOSS, Bitcoin-only, self-hostable Glassnode.",
+      "image": "./../images/data/satonomics.png"
+    },
+    {
       "title": "Nakamoto Portfolio",
       "url": "https://nakamotoportfolio.com/nakamoto/start",
       "description": "A set of tools, research and open source code to explore the ground breaking effects that Bitcoin has on the financial world.",
