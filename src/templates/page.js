@@ -16,11 +16,11 @@ library.add(fab, fas);
 export const Head = ({data}) => {
   const {resourcesJson: pages} = data;
   return <>
-    <title>{pages.title+" | Everything Bitcoin | Svrgnty.com"}</title>
+    <title>{pages.title+" | Everything Bitcoin | svrgnty.com"}</title>
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="og:title" content={pages.title+" | Everything Bitcoin | Svrgnty.com"} />
-    <meta name="twitter:title" content={pages.title+" | Everything Bitcoin | Svrgnty.com"} />
+    <meta name="og:title" content={pages.title+" | Everything Bitcoin | svrgnty.com"} />
+    <meta name="twitter:title" content={pages.title+" | Everything Bitcoin | svrgnty.com"} />
     <meta name="description" content={pages.lead} />
     <meta name="og:description" content={pages.lead} />
     <meta name="twitter:description" content={pages.lead} />
