@@ -1,8 +1,8 @@
 {
   "position": 14,
-  "page": "/resources/bitcoin-tools/",
-  "title": " Bitcoin Tools",
-  "lead": "Useful bitcoin tools & utilities.",
+  "page": "/resources/bitcoin-projects/",
+  "title": " Bitcoin Projects",
+  "lead": "Useful bitcoin tools, utilities, and projects.",
   "icon": "screwdriver-wrench",
   "iconPrefix": "fas",
   "links": [
@@ -10,13 +10,13 @@
       "title": "Bails",
       "url": "https://github.com/BenWestgate/Bails",
       "description": "Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. It installs Bitcoin Core on the encrypted Persistent Storage of Tails, creates and recovers Bitcoin Core wallets from Codex32 (BIP93) seed backups, and creates backup Bails USB sticks and shareable blank Bails USB sticks.",
-      "image": "./../images/bitcoin-tools/bails.png"
+      "image": "./../images/bitcoin-projects/bails.png"
     },
     {
       "title": "DTails",
       "url": "https://github.com/DesobedienteTecnologico/dtails",
       "description": "DTails is a tool that helps add Bitcoin software like Sparrow Wallet, Specter Wallet, Mempool.space, and others in Debian based live images like Tails.",
-      "image": "./../images/bitcoin-tools/dtails.png"
+      "image": "./../images/bitcoin-projects/dtails.png"
     },
     {
       "title": "Btcrecover",
@@ -46,7 +46,25 @@
       "title": "HD Wallet Scanner",
       "url": "https://github.com/alexk111/HD-Wallet-Scanner",
       "description": "Find all used addresses in your bitcoin hardware wallets bypassing gap limits.",
-      "image": "./../images/bitcoin-tools/hdwalletscanner.png"
+      "image": "./../images/bitcoin-projects/hdwalletscanner.png"
+    },
+    {
+      "title": "Wallet Scrutiny",
+      "url": "https://walletscrutiny.com",
+      "description": "The aim of this project is to improve the security of Bitcoin wallets by examining the application code for possible back-doors and other vulnerabilities.",
+      "image": "./../images/bitcoin-projects/walletscrutiny.png"
+    },
+    {
+      "title": "Wallets Recovery",
+      "url": "https://walletsrecovery.org/",
+      "description": "Information about wallet defaults for external recovery.",
+      "image": "./../images/bitcoin-projects/wallets-recovery.png"
+    },
+    {
+      "title": "10x Security Bitcoin Guide",
+      "url": "https://btcguide.github.io",
+      "description": "How to store bitcoin without any single point of failure.",
+      "image": "./../images/bitcoin-projects/btcguide.png"
     }
   ]
 }

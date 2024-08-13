@@ -1,0 +1,30 @@
+{
+  "position": 13,
+  "page": "/resources/understanding-kyc/",
+  "title": "Understanding KYC",
+  "lead": "What is KYC and why you should avoid it.",
+  "description": "Know Your Customer (KYC) is the practice of verifying the identity of clients. You should place a high priority on privacy, and avoid buying bitcoin that requires KYC, as it means your identity is tied to your purchases and to the wallet addresses where that bitcoin is kept. Data leaks, which happen often, can put you and your bitcoin at risk.",
+
+  "icon": "ban",
+  "iconPrefix": "fas",
+  "links": [
+    {
+      "title": "The benefits of no-KYC Bitcoin",
+      "url": "https://freedom.tech/the-benefits-of-no-kyc-bitcoin/",
+      "description": "While having “freedom money” may sound cool and all, what are the benefits of no-KYC Bitcoin that you can actually expect to enjoy yourself?",
+      "image": "./../images/kyc/nokyc.png"
+    },
+    {
+      "title": "noKYC Only",
+      "url": "https://bitcoiner.guide/nokyconly/",
+      "description": "Avoid the creep. KYC is dangerous, ineffective and puts people at risk.",
+      "image": "./../images/other-resources/bitcoiner.guide.png"
+    },
+    {
+      "title": "kycnot.me",
+      "url": "https://kycnot.me",
+      "description": "Trustworthy alternatives for buying, exchanging, trading, and using cryptocurrencies without having to disclose your identity.",
+      "image": "./../images/kyc/kycnotme.png"
+    }
+  ]
+}

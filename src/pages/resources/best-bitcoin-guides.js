@@ -7,10 +7,10 @@ export const Head = () => (
   </>
 )
 
-const SecurityPrivacy = () => (
+const Guides = () => (
   <>
     <link rel="canonical" href="https://svrgnty.com/resources/bitcoin-projects/" />
   </>
 );
 
-export default SecurityPrivacy
+export default Guides

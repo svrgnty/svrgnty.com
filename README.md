@@ -47,7 +47,7 @@ npm update
 ```
 
 #### Cloned to a new location
-node_module is exluded in .gitignore so remember to install the modules required
+node_module is excluded in .gitignore so remember to install the modules required
 ```sh
 npm install
 ```
