@@ -54,7 +54,7 @@
         },
         {
           "label": "KYC",
-          "description": "Partial",
+          "description": "Light KYC",
           "category": "orange"
         },
         {
@@ -186,17 +186,17 @@
         },
         {
           "label": "KYC",
-          "description": "No",
-          "category": "green"
+          "description": "Varies by country",
+          "category": "orange"
         },
         {
           "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
+          "description": "Varies by operator",
+          "category": "orange"
         },
         {
           "label": "Keys",
-          "description": "Key Generated",
+          "description": "Varies by operator",
           "category": "green"
         },
         {
@@ -285,7 +285,7 @@
         },
         {
           "label": "KYC",
-          "description": "Partial",
+          "description": "Light KYC",
           "category": "orange"
         },
         {
