@@ -350,6 +350,44 @@
         }
       ],
       "image": "./../images/bitcoin-mobile-wallets/keeper.png"
+    },
+    {
+      "title": "Bitkit",
+      "url": "https://bitkit.to",
+      "description": "Bitkit is a simple, yet powerful self‑custodial wallet. Pay anyone, anywhere, any time.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain, Lightning",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "TOR",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "Non-custodial",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/bitcoin-mobile-wallets/bitkit.png"
     }
   ]
 }
