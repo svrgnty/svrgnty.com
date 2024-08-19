@@ -74,7 +74,7 @@
         },
         {
           "label": "TOR",
-          "description": "With Orbot",
+          "description": "<a href='https://orbot.app/'>With Orbot</a>",
           "category": "orange"
         },
         {
@@ -84,6 +84,44 @@
         }
       ],
       "image": "./../images/bitcoin-mobile-wallets/bluewallet.png"
+    },
+    {
+      "title": "Nunchuk",
+      "url": "https://nunchuk.io",
+      "description": "Nunchuk is a bitcoin wallet focused on multi-signature that allows you to securely manage your bitcoin funds.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "<a href='https://orbot.app/'>With Orbot</a>",
+          "category": "orange"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "Multisig and Inheritance focus",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/bitcoin-mobile-wallets/nunchuk.png"
     },
     {
       "title": "Blockstream Green",
@@ -188,8 +226,8 @@
         },
         {
           "label": "TOR",
-          "description": "No",
-          "category": "red"
+          "description": "Yes",
+          "category": "green"
         },
         {
           "label": "Additional Info",
@@ -274,44 +312,6 @@
         }
       ],
       "image": "./../images/bitcoin-mobile-wallets/muun.png"
-    },
-    {
-      "title": "Nunchuk",
-      "url": "https://nunchuk.io",
-      "description": "Nunchuk is a bitcoin wallet focused on multi-signature that allows you to securely manage your bitcoin funds.",
-      "details": [
-        {
-          "label": "OS",
-          "description": "Android, iOS",
-          "category": "grey"
-        },
-        {
-          "label": "Open-source",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Layers",
-          "description": "On-Chain",
-          "category": "green"
-        },
-        {
-          "label": "Own Node",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "TOR",
-          "description": "No",
-          "category": "red"
-        },
-        {
-          "label": "Additioanl Info",
-          "description": "Multisig and Inheritance focus",
-          "category": "grey"
-        }
-      ],
-      "image": "./../images/bitcoin-mobile-wallets/nunchuk.png"
     },
     {
       "title": "Keeper",
