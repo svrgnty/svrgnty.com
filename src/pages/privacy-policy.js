@@ -5,7 +5,7 @@ import Breadcrumbs from '../components/layout/breadcrumbs';
 
 export const Head = () => (
   <>
-    <title>Privacy Policy | Svrgnty.com</title>
+    <title>Privacy Policy | svrgnty.com</title>
     <meta name="theme-color" content="#003366" />
     <link rel="canonical" href="https://svrgnty.com/privacy-policy" />
     <link rel="apple-touch-icon" href={'/images/apple-touch-icon.png'} />

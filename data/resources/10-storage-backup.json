@@ -142,6 +142,39 @@
       "image": "./../images/storage-backup/sx6.png"
     },
     {
+      "title": "Tinyseed",
+      "url": "https://tinyseed.io/",
+      "description": "Exceptionally small titanium seed phrase storage. Easy to setup hide and store.",
+      "details": [
+        {
+          "label": "Type",
+          "description": "Center punch",
+          "category": "grey"
+        },
+        {
+          "label": "Material",
+          "description": "Titanium",
+          "category": "green"
+        },
+        {
+          "label": "Data",
+          "description": "24 words and label",
+          "category": "grey"
+        },
+        {
+          "label": "Size",
+          "description": "35mm x 27mm x 3mm",
+          "category": "grey"
+        },
+        {
+          "label": "Additional info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/storage-backup/tinyseed.png"
+    },
+    {
       "title": "Stamp Seed",
       "url": "https://www.stampseed.com/",
       "description": "Safeguard your bitcoin by hammering the seed words from your hardware wallet into titanium.",

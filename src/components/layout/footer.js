@@ -8,8 +8,8 @@ const Footer = () => (
   <footer className="footer">
     <div className="contain">
       <div className="footer-info">
-        <p>May contain clearly marked affiliate links and referral codes. They do not influence the content or quality of the information provided. Using them may provide you with a discount and support the website's maintenance and development.</p><br />
-        <p>This website provides general information and is not intended as financial or investment advice. Use at your own risk, without warranty, and without reliance on Svrgnty.com for losses, injuries, or damages resulting from its use.</p>
+        <p>May contain clearly marked affiliate links and referral codes. They do not influence the content or quality of the information provided. Using them may provide you with a discount and support this website's maintenance and development.</p><br />
+        <p>This website provides general information and is not intended as financial or investment advice. Use at your own risk, without warranty, and without reliance on svrgnty.com for losses, injuries, or damages resulting from its use.</p>
       </div>
       <div className="footer-info">
         <p>Est. <FontAwesomeIcon icon={solid('dice-d6')} /><span className="element-invisible">Block</span> 488383</p>

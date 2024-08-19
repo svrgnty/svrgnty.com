@@ -345,7 +345,7 @@
         },
         {
           "label": "Additional Info",
-          "description": "Requires BitBox App",
+          "description": "Setup requires BitBoxApp",
           "category": "orange"
         }
       ],
@@ -383,8 +383,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
+          "description": "Setup requires Trezor Suite",
+          "category": "orange"
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/trezor-safe-3.png"
@@ -421,8 +421,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
+          "description": "Setup requires Trezor Suite",
+          "category": "orange"
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/trezor-safe-5.png"
@@ -459,8 +459,8 @@
         },
         {
           "label": "Additional Info",
-          "description": "Pre-order",
-          "category": "grey"
+          "description": "NFC powered, Limited support",
+          "category": "orange"
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/portal.png"
