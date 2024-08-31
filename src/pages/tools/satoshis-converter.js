@@ -19,9 +19,9 @@ export const Head = () => (
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="og:title" content="Satoshis Converter | svrgnty.com" />
       <meta name="twitter:title" content="Satoshis Converter | svrgnty.com" />
-      <meta name="description" content="Convert satoshis (SATS) to Bitcoin and FIAT (USD, EUR, CHF)." />
-      <meta name="og:description" content="Convert satoshis (SATS) to Bitcoin and FIAT (USD, EUR, CHF)." />
-      <meta name="twitter:description" content="Convert satoshis (SATS) to Bitcoin and FIAT (USD, EUR, CHF)." />
+      <meta name="description" content="Convert satoshis (SATS) to bitcoin (BTC) and FIAT (USD, EUR, CHF)." />
+      <meta name="og:description" content="Convert satoshis (SATS) to bitcoin (BTC) and FIAT (USD, EUR, CHF)." />
+      <meta name="twitter:description" content="Convert satoshis (SATS) to bitcoin (BTC) and FIAT (USD, EUR, CHF)." />
       <meta name="og:image" content={`https://svrgnty.com/images/twitter-website.jpg`} />
       <meta name="twitter:image" content={`https://svrgnty.com/images/twitter-website.jpg`} />
       <meta name="og:url" content="https://svrgnty.com/tools/satoshis-converter/" />
@@ -39,9 +39,9 @@ export const Head = () => (
       <div className="main">
         <div className="contain">
         <p className="lead">Calculate satoshis to BTC and FIAT currencies.</p>
-        <p className="description">Convert satoshis (SATS) to Bitcoin and FIAT (USD, EUR, CHF).</p>
+        <p className="description">Convert satoshis (SATS) to bitcoin and FIAT (USD, EUR, CHF).</p>
         <SatConverter />
-        <p><FontAwesomeIcon icon="circle-info" /> Satoshis (SATS) are the smallest unit of Bitcoin, named after its creator, Satoshi Nakamoto. One Bitcoin is divisible into 100 million satoshis, meaning that 1 satoshi equals 0.00000001 BTC.</p>
+        <p><FontAwesomeIcon icon="circle-info" /> Satoshis (SATS) are the smallest unit of bitcoin, named after its creator, Satoshi Nakamoto. One bitcoin is divisible into 100 million satoshis, meaning that 1 satoshi equals 0.00000001 BTC.</p>
         <p>The bitcoin price data is provided by <a href="https://www.kraken.com/"  target="_blank">Kraken</a>.</p>
         </div>
         </div>
