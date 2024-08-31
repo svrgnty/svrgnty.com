@@ -106,7 +106,7 @@ const SatConverter = () => {
     <div className="form-group">
       <div className="input-container">
         <input
-          type="text"
+          type="tel"
           id="sats"
           placeholder="Enter satoshis amount"
           value={sats}
@@ -126,7 +126,7 @@ const SatConverter = () => {
       </div>
       <div className="input-container">
         <input
-          type="text"
+          type="tel"
           id="btc"
           placeholder="Enter bitcoin amount"
           value={btc}
@@ -140,7 +140,7 @@ const SatConverter = () => {
       </div>
       <div className="input-container">
         <input
-          type="text"
+          type="tel"
           id="fiat"
           placeholder="Enter FIAT amount"
           value={fiat}
