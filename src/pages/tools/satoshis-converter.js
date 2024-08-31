@@ -42,6 +42,7 @@ export const Head = () => (
         <p className="description">Convert satoshis (SATS) to Bitcoin and FIAT (USD, EUR, CHF).</p>
         <SatConverter />
         <p><FontAwesomeIcon icon="circle-info" /> Satoshis (SATS) are the smallest unit of Bitcoin, named after its creator, Satoshi Nakamoto. One Bitcoin is divisible into 100 million satoshis, meaning that 1 satoshi equals 0.00000001 BTC.</p>
+        <p>The bitcoin price data is provided by <a href="https://www.kraken.com/"  target="_blank">Kraken</a>.</p>
         </div>
         </div>
         <div className="main complimentary">
