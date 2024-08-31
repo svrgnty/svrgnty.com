@@ -149,7 +149,7 @@ const SatConverter = () => {
           disabled={!btcFiatRate}
         />
         <div className="input-icon usd">
-          <FontAwesomeIcon icon={solid('dollar-sign')} />
+          <FontAwesomeIcon icon={solid('dollar-sign')} mask={solid('circle')} transform="shrink-8" />
           {fiatCurrency}
         </div>
       </div>
