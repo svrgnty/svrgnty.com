@@ -1,0 +1,67 @@
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+  
+    .input-container {
+      position: relative;
+      display: flex;
+      align-items: center;
+      border: 3px solid #e6e6e6;
+      border-radius: 10px;
+      padding: 10px 15px;
+      background-color: #fff;
+      //box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+  
+      input, select {
+        flex: 1;
+        border: none;
+        outline: none;
+        font-size: 1.2rem;
+        background: transparent;
+        padding-right: 50px;
+  
+        &::placeholder {
+          color: #b0b0b0;
+        }
+      }
+  
+      .input-icon {
+        position: absolute;
+        right: 15px;
+        display: flex;
+        align-items: center;
+        font-size: 1.2rem;
+        color: $light-font-color;
+
+        &.btc {
+            color: $gold;
+          }
+  
+        &.usd {
+          color: $pill-green;
+        }
+
+        &.sats {
+            color: $light-font-color;
+
+            svg {
+                width: 25px;
+                height: 25px;
+                margin-right: 0;
+            }
+        }
+  
+        svg {
+            margin-right: 5px;
+        }
+      }
+
+      /* Special styles for the select dropdown */
+        select {
+        cursor: pointer;
+      }
+  }
+} 

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "gatsby";
 
-import Share from '../share';
+import MainMenu from '../menu';
 import logo from '../../../static/images/logo.png';
 
 const Header = () => (
@@ -11,9 +11,9 @@ const Header = () => (
       <Link to="/" className="header-logo">
         <img alt="" src={logo} /> svrgnty.com
       </Link>
-      {/* <div className="share">
-         <Share /> 
-      </div> */}
+      <div className="menu">
+         <MainMenu /> 
+      </div>
     </div>
   </header>
 

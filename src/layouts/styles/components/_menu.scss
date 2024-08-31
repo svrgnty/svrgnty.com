@@ -10,6 +10,8 @@
 .bm-cross-button {
   height: 1.2em !important;
   width: 1.2em !important;
+  margin: 1em 1em 0 0;
+  color: $dark-font-color;
 }
 
 .bm-menu-wrap {
@@ -19,9 +21,10 @@
 
 /* General sidebar styles */
 .bm-menu {
-  background: $primary-dark;
+  background: $card-bg;
   padding: 2.5em 1.5em;
-  font-size: 1.15em;
+  font-size: 1em;
+  font-weight: $extra-bold-weight;
 
   svg {
     width: 1.2em !important;
@@ -29,19 +32,17 @@
   }
 }
 
-/* Wrapper for item list */
-.bm-item-list {
-  padding: 0.8em;
+.menu-link {
+  padding: 0.5em 0 0.5em 0;
+  border-bottom: 1px solid $gold;
 }
 
 .bm-overlay {
-  background: none !important;
+  top: 0;
+  left: 0;
 }
 
-.share-link,
-.bm-cross-button {
-  &:active,
-  &:hover {
-    color: $gold !important;
-  }
+/* Wrapper for item list */
+.bm-item-list {
+  padding: 0.8em;
 }

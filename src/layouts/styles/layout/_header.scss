@@ -23,11 +23,15 @@
   padding: space(2) 0;
   float: left;
   font-family: $logo-font-family;
-  @include typesize(2);
+  @include typesize(1);
   color: $white;
   font-weight: $black-bold-weight;
   //text-transform: uppercase;
   letter-spacing: -0.04em;
+
+  @include bp(small) {
+    @include typesize(2);
+  }
 
   img {
     width: 50px;
@@ -35,7 +39,7 @@
   }
 }
 
-.share {
+.menu {
   padding: space(2) 0;
   @include typesize(1);
   float: right;

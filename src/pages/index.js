@@ -3,7 +3,6 @@ import { graphql } from 'gatsby';
 import Hero from '../components/layout/hero';
 import Button from '../components/button';
 import Layout from "../components/layout";
-import Breadcrumbs from '../components/layout/breadcrumbs';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fas } from '@fortawesome/free-solid-svg-icons';
@@ -13,11 +12,11 @@ library.add(fab, fas);
 
 export const Head = () => (
   <>
-    <title>Everything Bitcoin | Svrgnty.com</title>
+    <title>Everything Bitcoin | svrgnty.com</title>
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="og:title" content="Everything Bitcoin | Svrgnty.com" />
-    <meta name="twitter:title" content="Everything Bitcoin | Svrgnty.com" />
+    <meta name="og:title" content="Everything Bitcoin | svrgnty.com" />
+    <meta name="twitter:title" content="Everything Bitcoin | svrgnty.com" />
     <meta name="description" content="Bitcoin for financial sovereignty" />
     <meta name="og:description" content="Bitcoin for financial sovereignty" />
     <meta name="twitter:description" content="Bitcoin for financial sovereignty" />
