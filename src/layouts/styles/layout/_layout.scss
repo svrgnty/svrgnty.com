@@ -34,11 +34,11 @@
 }
 
 .contain {
-  @include clearfix;
   height: 100%;
   margin: 0 auto;
   padding: 0 space(2);
   max-width: 100%;
+  @include clearfix;
 
   @include bp(small) {
     width: (map-get($breakpoints, small));
