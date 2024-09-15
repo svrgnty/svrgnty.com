@@ -76,6 +76,39 @@
       "image": "./../images/buy-bitcoin/pocket.png"
     },
     {
+      "title": "Bittr",
+      "url": "https://getbittr.com/",
+      "description": "Bittr offers an easy and convenient way to buy bitcoin repeatedly (dollar-cost-averaging) to consumers in Europe.",
+      "details": [
+        {
+          "label": "Available",
+          "description": "Switzerland, Europe",
+          "category": "grey"
+        },
+        {
+          "label": "KYC",
+          "description": "Light KYC",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "External Wallet",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/buy-bitcoin/bittr.png"
+    },
+    {
       "title": "Bisq",
       "url": "https://bisq.network",
       "description": "Open-source desktop application that allows you to buy and sell bitcoins in exchange for national currencies.",
