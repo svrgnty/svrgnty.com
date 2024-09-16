@@ -36,6 +36,22 @@
       "image": "./../images/bitcoin-nodes/startos.png"
     },
     {
+      "title": "Umbrel",
+      "url": "https://umbrel.com",
+      "description": "Umbrel is an OS for running a personal server in your home. Self-host open source apps like Nextcloud, Bitcoin node, and more.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-nodes/umbrel.png"
+    },
+    {
       "title": "myNode",
       "url": "https://mynodebtc.com",
       "description": "myNode aims to be the easiest way to run a dedicated, easy to use, Bitcoin Node and Lightning wallet.",
@@ -80,22 +96,6 @@
       "image": "./../images/bitcoin-nodes/raspibolt.png"
     },
     {
-      "title": "Parmanode",
-      "url": "https://parmanode.com/",
-      "description": "Open Source, easy AF Bitcoin node for Desktop Computers and Pi.",
-      "pills": [
-        {
-          "pill": "DIY",
-          "color": "green"
-        },
-        {
-          "pill": "Plug & Play",
-          "color": "blue"
-        }
-      ],
-      "image": "./../images/bitcoin-nodes/arman.png"
-    },
-    {
       "title": "Citadel",
       "url": "https://runcitadel.space/",
       "description": "Citadel started out as a modified version of Umbrel. It is Free and Open-Source Software (FOSS), focusing on transparency and security.",
@@ -112,22 +112,6 @@
       "image": "./../images/bitcoin-nodes/runcitadel.png"
     },
     {
-      "title": "Umbrel",
-      "url": "https://umbrel.com",
-      "description": "Umbrel is an OS for running a personal server in your home. Self-host open source apps like Nextcloud, Bitcoin node, and more.",
-      "pills": [
-        {
-          "pill": "DIY",
-          "color": "green"
-        },
-        {
-          "pill": "Plug & Play",
-          "color": "blue"
-        }
-      ],
-      "image": "./../images/bitcoin-nodes/umbrel.png"
-    },
-    {
       "title": "Bitcoin Knots",
       "url": "https://bitcoinknots.org/",
       "description": "Alternative implementation to Bitcoin Core with different policy rules like a reduced datacarrier size.",
@@ -138,6 +122,34 @@
         }
       ],
       "image": "./../images/bitcoin-nodes/bitcoin-knots.png"
+    },
+    {
+      "title": "nodl",
+      "url": "https://www.nodl.eu/",
+      "description": "nodl is a set of hardware and services to run bitcoin and related software.",
+      "pills": [
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-nodes/nodl.png"
+    },
+    {
+      "title": "Parmanode",
+      "url": "https://parmanode.com/",
+      "description": "Open Source, easy AF Bitcoin node for Desktop Computers and Pi.",
+      "pills": [
+        {
+          "pill": "DIY",
+          "color": "green"
+        },
+        {
+          "pill": "Plug & Play",
+          "color": "blue"
+        }
+      ],
+      "image": "./../images/bitcoin-nodes/arman.png"
     }
   ]
 }
