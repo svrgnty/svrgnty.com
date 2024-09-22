@@ -63,8 +63,14 @@
     {
       "title": "Bitcoin is Venice",
       "url": "https://www.amazon.com/Bitcoin-Venice-Essays-Future-Capitalism/dp/B09TTTGT11",
-      "description": "crash course through the errors of modern economic theory and the world's broken fiat currency system with a hopeful destination: Bitcoin Is Venice.",
+      "description": "Crash course through the errors of modern economic theory and the world's broken fiat currency system with a hopeful destination: Bitcoin Is Venice.",
       "image": "./../images/bitcoin-books/bitcoin-is-venice.png"
+    },
+    {
+      "title": "Bitcoin: A Work in Progress",
+      "url": "https://www.btcwip.com/",
+      "description": "This book will guide you through the latest developments in Bitcoin, as seen through the eyes of one of its many developers.",
+      "image": "./../images/bitcoin-books/btc-wip.jpg"
     }
   ]
 }
