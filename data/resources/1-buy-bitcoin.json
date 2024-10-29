@@ -371,6 +371,39 @@
         }
       ],
       "image": "./../images/buy-bitcoin/kraken-social.jpg"
+    },
+    {
+      "title": "Relai",
+      "url": "https://relai.app",
+      "description": "Investing in bitcoin made easy. Instant start, no deposit, auto invest, no registration, high security.",
+      "details": [
+        {
+          "label": "Available",
+          "description": "Switzerland, Europe",
+          "category": "grey"
+        },
+        {
+          "label": "KYC",
+          "description": "Yes",
+          "category": "red"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Keys",
+          "description": "App Wallet",
+          "category": "green"
+        },
+        {
+          "label": "Referral code",
+          "description": "SVRGNTY",
+          "category": "referral"
+        }
+      ],
+      "image": "./../images/buy-bitcoin/relai.png"
     }
   ]
 }
