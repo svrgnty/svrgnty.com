@@ -43,6 +43,12 @@
       "image": "./../images/bitcoin.png"
     },
     {
+      "title": "Cryptography Toolkit",
+      "url": "https://guggero.github.io/cryptography-toolkit/",
+      "description": "A web-based collection of cryptography tools for schemes/algorithms used in Bitcoin and LND.",
+      "image": "./../images/bitcoin-projects/cryptography-toolkit.png"
+    },
+    {
       "title": "HD Wallet Scanner",
       "url": "https://github.com/alexk111/HD-Wallet-Scanner",
       "description": "Find all used addresses in your bitcoin hardware wallets bypassing gap limits.",

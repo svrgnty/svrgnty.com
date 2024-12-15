@@ -388,6 +388,44 @@
         }
       ],
       "image": "./../images/bitcoin-mobile-wallets/bitkit.png"
+    },
+    {
+      "title": "Blixt Wallet",
+      "url": "https://blixtwallet.github.io/",
+      "description": "Non-custodial open-source Bitcoin Lightning Wallet with a focus on usability and user experience.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain, Lightning",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "Non-custodial",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/bitcoin-mobile-wallets/blixt.png"
     }
   ]
 }
