@@ -87,7 +87,7 @@
     },
     {
       "title": "Passport",
-      "url": "https://foundation.xyz/",
+      "url": "https://foundation.xyz/passport/",
       "description": "Crafted from premium materials, and with premium price point.",
       "details" : [
         {
@@ -122,6 +122,44 @@
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/passport.png"
+    },
+    {
+      "title": "Passport Prime",
+      "url": "https://foundation.xyz/passport-prime/",
+      "description": "Secure your Bitcoin, 2FA codes, security keys, important files, and additional seeds, all in a single device.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "QR, SD card",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Third-party apps available",
+          "category": "orange"
+        },
+        {
+          "label": "Review",
+          "description": "NA",
+          "category": "grey"
+        },
+        {
+          "label": "Referral code",
+          "description": "SVRGNTY",
+          "category": "referral"
+        }
+      ],
+      "image": "./../images/bitcoin-hardware-wallets/passport-prime.png"
     },
     {
       "title": "Keystone 3 Pro",
@@ -274,6 +312,44 @@
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/krux.png"
+    },
+    {
+      "title": "Blockstream Jade Plus",
+      "url": "https://blockstream.com/jade/jade-plus/",
+      "description": "Easy-to-use, purely open-source hardware wallet that offers advanced security for your Bitcoin assets.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source, No secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "USB, QR, Bluetooth, SD card",
+          "category": "orange"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Review",
+          "description": "NA",
+          "category": "grey"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Built-in battery",
+          "category": "orange"
+        }
+      ],
+      "image": "./../images/bitcoin-hardware-wallets/jade-plus.png"
     },
     {
       "title": "Blockstream Jade",
