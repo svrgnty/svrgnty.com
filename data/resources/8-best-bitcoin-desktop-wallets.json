@@ -20,6 +20,18 @@
         "image": "./../images/bitcoin-desktop-wallets/sparrowwallet.png"
       },
       {
+        "title": "Bitcoin Safe",
+        "url": "https://bitcoin-safe.org/en/",
+        "description": "A bitcoin savings wallet for the entire family.",
+        "pills": [
+          {
+            "pill": "Easy",
+            "color": "green"
+          }
+        ],
+        "image": "./../images/bitcoin-desktop-wallets/bitcoin-safe.jpg"
+      },
+      {
         "title": "Specter Desktop",
         "url": "https://specter.solutions/desktop/",
         "description": "Your Bitcoin node, on your hardware, paired with your signing devices, creating secure wallets for bitcoin self-custody.",
