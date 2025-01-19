@@ -22,7 +22,7 @@
       {
         "title": "Bitcoin Safe",
         "url": "https://bitcoin-safe.org/en/",
-        "description": "A bitcoin savings wallet for the entire family.",
+        "description": "Designed to simplify singlesig and multisig wallet management for non-technical users while retaining some power user features through an intuitive and attractive user interface.",
         "pills": [
           {
             "pill": "Easy",
