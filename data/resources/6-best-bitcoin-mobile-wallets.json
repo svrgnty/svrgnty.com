@@ -116,7 +116,7 @@
           "category": "orange"
         },
         {
-          "label": "Additioanl Info",
+          "label": "Additional Info",
           "description": "Multisig and Inheritance focus",
           "category": "grey"
         }
@@ -192,12 +192,50 @@
           "category": "red"
         },
         {
-          "label": "Additioanl Info",
+          "label": "Additional Info",
           "description": "NA",
           "category": "grey"
         }
       ],
       "image": "./../images/bitcoin-mobile-wallets/cove.png"
+    },
+    {
+      "title": "Ashigaru",
+      "url": "https://ashigaru.rs/",
+      "description": "Self custodial, open source and secure Bitcoin application that is private by design.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/bitcoin-mobile-wallets/ashigaru.png"
     },
     {
       "title": "Blockstream Green",
@@ -388,44 +426,6 @@
         }
       ],
       "image": "./../images/bitcoin-mobile-wallets/muun.png"
-    },
-    {
-      "title": "Keeper",
-      "url": "https://bitcoinkeeper.app/",
-      "description": "Bitcoin Keeper is an open source, bitcoin-only app designed for seasoned bitcoin hodlers.",
-      "details": [
-        {
-          "label": "OS",
-          "description": "Android, iOS",
-          "category": "grey"
-        },
-        {
-          "label": "Open-source",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Layers",
-          "description": "On-Chain",
-          "category": "green"
-        },
-        {
-          "label": "Own Node",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "TOR",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additioanl Info",
-          "description": "Multisig and Inheritance focus",
-          "category": "grey"
-        }
-      ],
-      "image": "./../images/bitcoin-mobile-wallets/keeper.png"
     },
     {
       "title": "Bitkit",
