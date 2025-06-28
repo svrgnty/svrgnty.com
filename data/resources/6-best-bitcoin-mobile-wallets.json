@@ -124,6 +124,82 @@
       "image": "./../images/bitcoin-mobile-wallets/nunchuk.png"
     },
     {
+      "title": "Keeper",
+      "url": "https://bitcoinkeeper.app/",
+      "description": "Bitcoin Keeper is an open source, bitcoin-only app designed for seasoned bitcoin hodlers.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "Multisig and Inheritance focus",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/bitcoin-mobile-wallets/keeper.png"
+    },
+    {
+      "title": "Cove",
+      "url": "https://covebitcoinwallet.com/",
+      "description": "Simple to use and feature rich, both new users and experienced bitcoiners will find a home for their Bitcoin with Cove Wallet.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "No",
+          "category": "red"
+        },
+        {
+          "label": "Additioanl Info",
+          "description": "NA",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/bitcoin-mobile-wallets/cove.png"
+    },
+    {
       "title": "Blockstream Green",
       "url": "https://blockstream.com/green/",
       "description": "Blockstream Green is a bitcoin wallet providing Bitcoin users with a nice blend of security and ease-of-use.",

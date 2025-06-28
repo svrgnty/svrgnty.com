@@ -86,8 +86,8 @@
       "image": "./../images/bitcoin-hardware-wallets/coldcard-mk4.jpg"
     },
     {
-      "title": "Passport",
-      "url": "https://foundation.xyz/passport/",
+      "title": "Passport Core",
+      "url": "https://foundation.xyz/passport-core/",
       "description": "Crafted from premium materials, and with premium price point.",
       "details" : [
         {
@@ -198,6 +198,44 @@
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/keystone.png"
+    },
+    {
+      "title": "Cardware Wallet",
+      "url": "https://www.cardwarewallet.com/btcproducts",
+      "description": "Cardware Wallet is an offline, air-gapped, and open-sourced, and affordable hardware wallet.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Closed-source secure element",
+          "category": "orange"
+        },
+        {
+          "label": "Signing",
+          "description": "QR",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "Available",
+          "category": "orange"
+        },
+        {
+          "label": "Review",
+          "description": "NA",
+          "category": "grey"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Web wallet",
+          "category": "grey"
+        }
+      ],
+      "image": "./../images/bitcoin-hardware-wallets/cardware.jpg"
     },
     {
       "title": "SeedSigner",
