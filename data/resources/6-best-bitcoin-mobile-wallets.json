@@ -154,7 +154,7 @@
           "category": "green"
         },
         {
-          "label": "Additioanl Info",
+          "label": "Additional Info",
           "description": "Multisig and Inheritance focus",
           "category": "grey"
         }
@@ -420,7 +420,7 @@
           "category": "red"
         },
         {
-          "label": "Additioanl Info",
+          "label": "Additional Info",
           "description": "Non-standard backup",
           "category": "orange"
         }
@@ -458,7 +458,7 @@
           "category": "red"
         },
         {
-          "label": "Additioanl Info",
+          "label": "Additional Info",
           "description": "Non-custodial",
           "category": "grey"
         }
@@ -496,7 +496,7 @@
           "category": "green"
         },
         {
-          "label": "Additioanl Info",
+          "label": "Additional Info",
           "description": "Non-custodial",
           "category": "grey"
         }
