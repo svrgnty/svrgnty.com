@@ -1,17 +1,21 @@
+@use "../base/breakpoints";
+@use "../config";
+@use "../util/functions/spacing";
+
 // ----------------------------------------------------------------------------
 // Hero
 // ----------------------------------------------------------------------------
 
 
 .hero {
-  padding: space(12) 0 space(4);
+  padding: spacing.space(12) 0 spacing.space(4);
   background: url('../../../static/images/space-banner.jpg') #0a0501 center no-repeat;
   text-align: center;
-  color: $white;
+  color: config.$white;
   position: relative;
 
-  @include bp(small) {
-    padding: space(16) 0 space(12);
+  @include breakpoints.bp(small) {
+    padding: spacing.space(16) 0 spacing.space(12);
   }
 
   h1 {

@@ -1,29 +1,32 @@
+@use "../config";
+@use "../util/functions/spacing";
+
 // ----------------------------------------------------------------------------
 // Breadcrumbs
 // ----------------------------------------------------------------------------
 
 .breadcrumbs {
-  padding: space(1) 0;
+  padding: spacing.space(1) 0;
   width: 100%;
   background-image: linear-gradient(90deg,  #004A94 0%, #003366 100%);
   font-size: 0.9em;
   //text-transform: uppercase;
-  color: $cyan;
+  color: config.$cyan;
   
   a {
     display: inline-block;
-    color: $white;
-    transition: all $base-time $base-ease;
-    font-weight: $base-bold-weight;
+    color: config.$white;
+    transition: all config.$base-time config.$base-ease;
+    font-weight: config.$base-bold-weight;
 
     &:hover,
     &:focus {
-      color: $gold; 
+      color: config.$gold; 
     }
   }
 
   .crumb-active {
-    color: $cyan;
+    color: config.$cyan;
   }
 
   .crumb {

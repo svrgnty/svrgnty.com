@@ -1,54 +1,60 @@
+@use "sass:map";
+@use "../base/breakpoints";
+@use "../config";
+@use "../util/functions/spacing";
+@use "../util/mixins/clearfix";
+
 // ----------------------------------------------------------------------------
 // General Layout
 // ----------------------------------------------------------------------------
 
 .main {
-  padding: space(2) 0 space(4);
+  padding: spacing.space(2) 0 spacing.space(4);
   //min-height: calc(100vh - 380px);
 }
 
 .content {
-  padding-bottom: space(6);
+  padding-bottom: spacing.space(6);
   overflow-y: scroll;
   
-  @include bp(medium) {
+  @include breakpoints.bp(medium) {
     /*@include span(9);*/
-    padding-left: space(9);
+    padding-left: spacing.space(9);
   }
 }
 
 .body {
-  margin: space(4) 0 0;
+  margin: spacing.space(4) 0 0;
 
   a {
-    font-weight: $extra-bold-weight;
+    font-weight: config.$extra-bold-weight;
   
     &:hover {
-      text-decoration: underline solid $pill-orange 2px;
+      text-decoration: underline solid config.$pill-orange 2px;
     }
   }
 }
 
 .complimentary {
-  background: $card-bg-hover;
+  background: config.$card-bg-hover;
 }
 
 .contain {
   height: 100%;
   margin: 0 auto;
-  padding: 0 space(2);
+  padding: 0 spacing.space(2);
   max-width: 100%;
-  @include clearfix;
+  @include clearfix.clearfix;
 
-  @include bp(small) {
-    width: (map-get($breakpoints, small));
+  @include breakpoints.bp(small) {
+    width: (map.get(breakpoints.$breakpoints, small));
   }
 
-  @include bp(medium) {
-    width: (map-get($breakpoints, medium));
+  @include breakpoints.bp(medium) {
+    width: (map.get(breakpoints.$breakpoints, medium));
   }
 
-  @include bp(large) {
-    width: (map-get($breakpoints, large));
+  @include breakpoints.bp(large) {
+    width: (map.get(breakpoints.$breakpoints, large));
   }
 }

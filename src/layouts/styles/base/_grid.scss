@@ -1,23 +1,26 @@
-.wrapper {
-  margin-top: space(3);
+@use "../base/breakpoints";
+@use "../util/functions/spacing";
 
-  @include bp(small) {
+.wrapper {
+  margin-top: spacing.space(3);
+
+  @include breakpoints.bp(small) {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: space(3);
-    margin-top: space(4);
+    grid-gap: spacing.space(3);
+    margin-top: spacing.space(4);
     
     li {
       margin-bottom: 0;
     }
   }
   
-  @include bp(large) {
+  @include breakpoints.bp(large) {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: space(4);
+    grid-gap: spacing.space(4);
     justify-items: stretch;
-    margin-top: space(5);
+    margin-top: spacing.space(5);
 
     li {
       margin-bottom: 0;
@@ -26,7 +29,7 @@
 }
 
 .wrapper.extended{
-  @include bp(small) {
+  @include breakpoints.bp(small) {
     grid-template-columns: 1fr;
   }
 }

@@ -1,3 +1,9 @@
+@use "../base/breakpoints";
+@use "../config";
+@use "../util/functions/spacing";
+@use "../util/mixins/type";
+@use "../util/mixins/z-index";
+
 // ----------------------------------------------------------------------------
 // Header
 // ----------------------------------------------------------------------------
@@ -5,32 +11,32 @@
 .header {
   position: absolute;
   top: 0;
-  @include z-index(header);
+  @include z-index.z-index(header);
   width: 100%;
-  color: $white;
+  color: config.$white;
 
   a, .bm-burger-button {
-    transition: all $base-time $base-ease;
+    transition: all config.$base-time config.$base-ease;
 
     &:hover,
     &:focus {
-      color: $gold; 
+      color: config.$gold; 
     }
   }
 }
 
 .header-logo {
-  padding: space(2) 0;
+  padding: spacing.space(2) 0;
   float: left;
-  font-family: $logo-font-family;
-  @include typesize(1);
-  color: $white;
-  font-weight: $black-bold-weight;
+  font-family: config.$logo-font-family;
+  @include type.typesize(1);
+  color: config.$white;
+  font-weight: config.$black-bold-weight;
   //text-transform: uppercase;
   letter-spacing: -0.04em;
 
-  @include bp(small) {
-    @include typesize(2);
+  @include breakpoints.bp(small) {
+    @include type.typesize(2);
   }
 
   img {
@@ -40,7 +46,7 @@
 }
 
 .menu {
-  padding: space(2) 0;
-  @include typesize(1);
+  padding: spacing.space(2) 0;
+  @include type.typesize(1);
   float: right;
 }

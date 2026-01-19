@@ -1,3 +1,5 @@
+@use "../config";
+
 .form-group {
     display: flex;
     flex-direction: column;
@@ -37,18 +39,18 @@
         display: flex;
         align-items: center;
         font-size: 1.2rem;
-        color: $light-font-color;
+        color: config.$light-font-color;
 
         &.btc {
-            color: $gold;
+            color: config.$gold;
           }
   
         &.usd {
-          color: $pill-green;
+          color: config.$pill-green;
         }
 
         &.sats {
-            color: $light-font-color;
+            color: config.$light-font-color;
 
             svg {
                 width: 25px;

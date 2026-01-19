@@ -1,3 +1,5 @@
+@use "../config";
+
 /* Position and sizing of burger button */
 .bm-burger-button {
   position: relative;
@@ -11,7 +13,7 @@
   height: 1.2em !important;
   width: 1.2em !important;
   margin: 1em 1em 0 0;
-  color: $dark-font-color;
+  color: config.$dark-font-color;
 }
 
 .bm-menu-wrap {
@@ -21,10 +23,10 @@
 
 /* General sidebar styles */
 .bm-menu {
-  background: $card-bg;
+  background: config.$card-bg;
   padding: 2.5em 1.5em;
   font-size: 1em;
-  font-weight: $extra-bold-weight;
+  font-weight: config.$extra-bold-weight;
 
   svg {
     width: 1.2em !important;
@@ -34,7 +36,7 @@
 
 .menu-link {
   padding: 0.5em 0 0.5em 0;
-  border-bottom: 1px solid $gold;
+  border-bottom: 1px solid config.$gold;
 }
 
 .bm-overlay {

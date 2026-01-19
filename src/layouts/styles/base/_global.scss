@@ -1,3 +1,6 @@
+@use "../config";
+@use "../util/mixins/invisible";
+
 // ----------------------------------------------------------------------------
 // Global
 // ----------------------------------------------------------------------------
@@ -7,7 +10,7 @@
 // -------------------
 
 body {
-  background-color: $body-bg;
+  background-color: config.$body-bg;
 }
 
 
@@ -30,5 +33,5 @@ img {
 }
 
 .element-invisible {
-  @include element-invisible;
+  @include invisible.element-invisible;
 }

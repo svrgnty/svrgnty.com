@@ -1,41 +1,37 @@
 // Configuration
 // -------------------------
-@import 'config';
-
-// Vendor
-// -------------------------
-@import '../../../node_modules/mappy-breakpoints/mappy-breakpoints';
+@use 'config';
 
 // Utilities
 // -------------------------
-@import 'util/mixins/clearfix';
-@import 'util/mixins/invisible';
-@import 'util/mixins/type';
-@import 'util/mixins/z-index';
-@import 'util/functions/spacing';
-@import 'util/functions/math';
+@use 'util/mixins/clearfix';
+@use 'util/mixins/invisible';
+@use 'util/mixins/type';
+@use 'util/mixins/z-index';
+@use 'util/functions/spacing';
+@use 'util/functions/math';
 
 // Base
 // -------------------------
-@import 'base/reset';
-@import 'base/type';
-@import 'base/grid';
-@import 'base/formfields';
-@import 'base/global';
+@use 'base/reset';
+@use 'base/type' as type2;
+@use 'base/grid';
+@use 'base/formfields';
+@use 'base/global';
 
 // Layout
 // -------------------------
-@import 'layout/layout';
-@import 'layout/header';
-@import 'layout/footer';
+@use 'layout/layout';
+@use 'layout/header';
+@use 'layout/footer';
 
 // Components
 // -------------------------
-@import 'components/breadcrumbs';
-@import 'components/buttons';
-@import 'components/card';
-@import 'components/hero';
-@import 'components/menu';
+@use 'components/breadcrumbs';
+@use 'components/buttons';
+@use 'components/card';
+@use 'components/hero';
+@use 'components/menu';
 
 
 

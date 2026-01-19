@@ -1,3 +1,6 @@
+@use "sass:map";
+@use "../../config";
+
 // ----------------------------------------------------------------------------
 // Z-Index
 // ----------------------------------------------------------------------------
@@ -11,7 +14,7 @@ meant to be used as a mixin, but can also use function:
 *******************/
 
 @function z-index($key) {
-  @return map-get($z-index, $key);
+  @return map.get(config.$z-index, $key);
 }
 
 @mixin z-index($key) {

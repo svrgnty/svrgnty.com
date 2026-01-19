@@ -3,7 +3,7 @@
   "page": "/resources/blockchain-explorers/",
   "title": "Blockchain Explorers",
   "lead": "Explore blocks, addresses, and transactions.",
-  "icon": "dice-d6",
+  "icon": "cube",
   "iconPrefix": "fas",
   "links": [
     {

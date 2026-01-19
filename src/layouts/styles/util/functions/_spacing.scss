@@ -1,3 +1,5 @@
+@use "../../config";
+
 // ----------------------------------------------------------------------------
 // Whitespace
 // ----------------------------------------------------------------------------
@@ -10,9 +12,9 @@ Takes a factor, multiplies it with the current settings base spacing to output v
 */
 
 @function spacing($factor: 1) {
-  @return $unit * $factor;
+  @return config.$unit * $factor;
 }
 
 @function space($factor: 1) {
-  @return $unit * $factor;
+  @return config.$unit * $factor;
 }

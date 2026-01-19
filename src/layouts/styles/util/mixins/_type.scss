@@ -1,3 +1,6 @@
+@use "../../config";
+@use "../functions/math";
+
 // ----------------------------------------------------------------------------
 // Type Mixins
 // ----------------------------------------------------------------------------
@@ -11,8 +14,8 @@ return: font-size: 2.82715rem;
 Meant to be used as a mixin, but includes a function helper.
 */
 
-@function type($exponent) {
-  @return pow($scale, $exponent) * 1rem;
+@function size($exponent) {
+  @return math.pow(config.$scale, $exponent) * 1rem;
 }
 
 
@@ -25,7 +28,7 @@ Meant to be used as a mixin, but includes a function helper.
 
 @mixin typesize($exponent) {
   // scss-lint:disable DuplicateProperty
-  font-size: $base-font-size * pow($scale, $exponent);
-  font-size: type($exponent);
+  font-size: config.$base-font-size * math.pow(config.$scale, $exponent);
+  font-size: size($exponent);
   // scss-lint:enable DuplicateProperty
 }

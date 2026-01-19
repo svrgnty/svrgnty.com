@@ -1,6 +1,10 @@
+@use "../base/breakpoints";
+@use "../config";
+@use "../util/functions/spacing";
+
 .card{
   position: relative;
-  background: $bg-light;
+  background: config.$bg-light;
   min-width: 270px;
   max-width: 420px;
   height: 100%;
@@ -16,10 +20,10 @@
     overflow: hidden; /*edge*/
 
     &:hover {
-      background: $card-bg-hover;
+      background: config.$card-bg-hover;
   
       .card-context {
-        background: $gold;
+        background: config.$gold;
       }
   
       .card-image-outer-wrapper {
@@ -43,8 +47,8 @@
 
   .card-context {
     position: relative;
-    border-bottom: $unit solid $primary-light;
-    background: rgba($primary-light, 0.1);
+    border-bottom: config.$unit solid config.$primary-light;
+    background: rgba(config.$primary-light, 0.1);
   }
 
   .card-image-outer-wrapper {
@@ -63,7 +67,7 @@
     display: flex;
     position: absolute;
     top: 0;
-    bottom: space(4);
+    bottom: spacing.space(4);
     right: 0;
     left: 0;
     justify-content: center;
@@ -73,98 +77,98 @@
 
     .svg-inline--fa {
       display: block;
-      color: $primary-light;
+      color: config.$primary-light;
     }
   }
 
   .card-lens {
-    margin: space(3);
-    margin-bottom: space(4);
-    color: $primary-light;
+    margin: spacing.space(3);
+    margin-bottom: spacing.space(4);
+    color: config.$primary-light;
     overflow: auto;
 
     p {
-      color: $base-font-color;
+      color: config.$base-font-color;
     }
 
     .svg-inline--fa {
-      color: $primary-light;
+      color: config.$primary-light;
       position: absolute;
-      bottom: space(2);
-      right: space(3);
+      bottom: spacing.space(2);
+      right: spacing.space(3);
       line-height: 0.8rem;
     }
   }
 
   .pills {
     position: absolute;
-    bottom: space(1);
-    left: space(3);
+    bottom: spacing.space(1);
+    left: spacing.space(3);
     margin: 0;
     
     li {
       float: left;
-      margin: 0 space(1) space(1) 0;
+      margin: 0 spacing.space(1) spacing.space(1) 0;
     }
   }
 
   .pill {
     margin: 0;
-    background: $primary-light;
+    background: config.$primary-light;
     border-radius: 1em;
     padding: 0.1em 1em;
-    color: $white;
-    font-weight: $extra-bold-weight;
+    color: config.$white;
+    font-weight: config.$extra-bold-weight;
 
     &.green {
-      background: $pill-green;
+      background: config.$pill-green;
     }
   
     &.orange {
-      background: $pill-orange;
+      background: config.$pill-orange;
     }
   
     &.red {
-      background: $pill-red;
+      background: config.$pill-red;
     }
   
     &.purple {
-      background: $pill-purple;
+      background: config.$pill-purple;
     }
   
     &.blue {
-      background: $pill-blue;
+      background: config.$pill-blue;
     }
 
     &.black {
-      background: $pill-black;
+      background: config.$pill-black;
     }
 
     &.grey {
-      background: $pill-grey;
-      color: $primary-dark;
+      background: config.$pill-grey;
+      color: config.$primary-dark;
     }
   }
 }
 
 .card--extended {
 
-  @include bp(small) {
+  @include breakpoints.bp(small) {
     max-width: 100%;
   }
 
   .card-lens {
-    padding-bottom: space(3);
+    padding-bottom: spacing.space(3);
     margin-bottom: 0;
 
-    @include bp(small) {
-      padding-bottom: space(1);
+    @include breakpoints.bp(small) {
+      padding-bottom: spacing.space(1);
     }
   }
 
   .card-context {
-    @include bp(small) {
-      border-right: $unit solid $primary-light;
+    @include breakpoints.bp(small) {
+      border-right: config.$unit solid config.$primary-light;
       border-bottom: none;
       min-width: 150px;
     
@@ -187,10 +191,10 @@
   > a {
     height: auto;
 
-    @include bp(small) {
+    @include breakpoints.bp(small) {
       display: grid;
       grid-template-columns: min-content 1fr;
-      grid-gap: space(2);
+      grid-gap: spacing.space(2);
     }
   }
 }
@@ -199,43 +203,43 @@
   text-align: center;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: space(1);
+  grid-gap: spacing.space(1);
   justify-items: stretch;
-  padding: space(1) space(3);
-  background-color: $card-bg-hover;
+  padding: spacing.space(1) spacing.space(3);
+  background-color: config.$card-bg-hover;
 
-  @include bp(small) {
-    grid-gap: space(2);
+  @include breakpoints.bp(small) {
+    grid-gap: spacing.space(2);
   }
 
   .category {
-    background: $primary-light;
+    background: config.$primary-light;
     border-radius: 0.5em;
     padding: 0.5em;
-    font-weight: $extra-bold-weight;
+    font-weight: config.$extra-bold-weight;
 
     &.green {
-      background: rgba($pill-green, 0.2);
+      background: rgba(config.$pill-green, 0.2);
     }
   
     &.orange {
-      background: rgba($pill-orange, 0.2);
+      background: rgba(config.$pill-orange, 0.2);
     }
   
     &.red {
-      background: rgba($pill-red, 0.2);
+      background: rgba(config.$pill-red, 0.2);
     }
 
     &.grey {
-      background: $pill-grey;
+      background: config.$pill-grey;
     }
 
     &.referral {
       box-sizing: border-box;
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
-      background: $pill-grey;
-      border: 3px $pill-orange solid;
+      background: config.$pill-grey;
+      border: 3px config.$pill-orange solid;
     }
 
     a {
@@ -243,32 +247,32 @@
 
       &:hover {
         background: none;
-        text-decoration: underline solid $pill-orange 2px;
+        text-decoration: underline solid config.$pill-orange 2px;
       }
     }
   }
 }
 
 .card-details--3 {
-  @include bp(small) {
+  @include breakpoints.bp(small) {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
 .card-details--4 {
-  @include bp(small) {
+  @include breakpoints.bp(small) {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 }
 
 .card-details--5 {
-  @include bp(small) {
+  @include breakpoints.bp(small) {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   }
 }
 
 .card-details--6 {
-  @include bp(small) {
+  @include breakpoints.bp(small) {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   }
 }

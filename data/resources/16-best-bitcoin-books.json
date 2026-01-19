@@ -3,7 +3,7 @@
   "page": "/resources/best-bitcoin-books/",
   "title": "Bitcoin Books",
   "lead": "Recommended books for deeper dive.",
-  "icon": "book-open",
+  "icon": "book",
   "iconPrefix": "fas",
   "links": [
     {

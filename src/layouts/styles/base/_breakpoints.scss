@@ -1,0 +1,24 @@
+@use "sass:map";
+
+$breakpoints: (
+  xsmall:     450px,
+  small:      750px,
+  medium:     950px,
+  large:      1200px
+);
+
+@function bp-get($name) {
+  @return map.get($breakpoints, $name);
+}
+
+@mixin bp($from, $to: null) {
+  @if $to == null {
+    @media (min-width: bp-get($from)) {
+      @content;
+    }
+  } @else {
+    @media (min-width: bp-get($from)) and (max-width: (bp-get($to) - 1px)) {
+      @content;
+    }
+  }
+}

@@ -1,17 +1,21 @@
+@use "sass:color";
+@use "../config";
+@use "../util/functions/spacing";
+
 // ----------------------------------------------------------------------------
 // Footer
 // ----------------------------------------------------------------------------
 
 .footer {
-  background-color: $primary-dark;
-  color: $white;
+  background-color: config.$primary-dark;
+  color: config.$white;
 
   strong {
-    font-weight: $extra-bold-weight;
+    font-weight: config.$extra-bold-weight;
   }
   
   p {
-    color: lighten($base-font-color, 40%);
+    color: color.adjust(config.$base-font-color, $lightness: 40%);
   }
 
   p, ul {
@@ -19,27 +23,27 @@
   }
 
   a {
-    color: $white;
-    transition: all $base-time $base-ease;
+    color: config.$white;
+    transition: all config.$base-time config.$base-ease;
 
     &:hover,
     &:focus {
-      color: $gold; 
+      color: config.$gold; 
     }
   }
 }
 
 .footer-info {
   text-align: center;
-  border-bottom: 1px solid $primary-light;
-  padding: space(3) 0;
+  border-bottom: 1px solid config.$primary-light;
+  padding: spacing.space(3) 0;
 }
 
 .footer-social {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding: space(2) 0;
+  padding: spacing.space(2) 0;
 
   li {
     font-size: 2em;
