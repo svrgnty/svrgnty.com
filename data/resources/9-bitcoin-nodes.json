@@ -96,22 +96,6 @@
       "image": "./../images/bitcoin-nodes/raspibolt.png"
     },
     {
-      "title": "Citadel",
-      "url": "https://runcitadel.space/",
-      "description": "Citadel started out as a modified version of Umbrel. It is Free and Open-Source Software (FOSS), focusing on transparency and security.",
-      "pills": [
-        {
-          "pill": "DIY",
-          "color": "green"
-        },
-        {
-          "pill": "Beta",
-          "color": "red"
-        }
-      ],
-      "image": "./../images/bitcoin-nodes/runcitadel.png"
-    },
-    {
       "title": "Bitcoin Knots",
       "url": "https://bitcoinknots.org/",
       "description": "Alternative implementation to Bitcoin Core with different policy rules like a reduced datacarrier size.",
