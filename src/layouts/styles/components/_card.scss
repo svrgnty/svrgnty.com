@@ -118,7 +118,7 @@
     border-radius: 1em;
     padding: 0.1em 1em;
     color: config.$white;
-    font-weight: config.$extra-bold-weight;
+    font-weight: config.$base-bold-weight;
 
     &.green {
       background: config.$pill-green;
@@ -216,7 +216,7 @@
     background: config.$primary-light;
     border-radius: 0.5em;
     padding: 0.5em;
-    font-weight: config.$extra-bold-weight;
+    font-weight: config.$base-bold-weight;
 
     &.green {
       background: rgba(config.$pill-green, 0.2);

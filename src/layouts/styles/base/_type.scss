@@ -26,7 +26,7 @@ p {
 
   &.lead {
     @include type.typesize(2);
-    font-weight: config.$extra-bold-weight;
+    font-weight: config.$base-bold-weight;
     margin: spacing.space(1) 0;
     text-align: center;
     line-height: 1.1em;
@@ -79,13 +79,13 @@ h5,
 .h4,
 .h5 {
   font-family: config.$header-font-family;
-  font-weight: config.$black-bold-weight;
+  font-weight: config.$base-bold-weight;
 }
 
 h1,
 .h1 {
   @include type.typesize(2);
-  font-weight: config.$black-bold-weight;
+  font-weight: config.$base-bold-weight;
   margin-bottom: spacing.space(2);
   line-height: config.$leading * 2;
   //text-transform: uppercase;

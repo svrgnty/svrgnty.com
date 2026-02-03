@@ -47,8 +47,6 @@ $breakpoints: (
 // -------------------------
 
 $base-bold-weight   : 600;
-$extra-bold-weight  : 800;
-$black-bold-weight  : 900;
 
 @font-face {
   font-family: 'Nunito';
@@ -65,24 +63,6 @@ $black-bold-weight  : 900;
          url('../../../static/fonts/nunito/Nunito-Bold.woff') format('woff'),
          url('../../../static/fonts/nunito/Nunito-Bold.ttf') format('truetype');
   font-weight: $base-bold-weight;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Nunito';
-  src: url('../../../static/fonts/nunito/Nunito-ExtraBold.woff2') format('woff2'),
-         url('../../../static/fonts/nunito/Nunito-ExtraBold.woff') format('woff'),
-         url('../../../static/fonts/nunito/Nunito-ExtraBold.ttf') format('truetype');
-  font-weight: $extra-bold-weight;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Nunito';
-  src: url('../../../static/fonts/nunito/Nunito-Black.woff2') format('woff2'),
-         url('../../../static/fonts/nunito/Nunito-Black.woff') format('woff'),
-         url('../../../static/fonts/nunito/Nunito-Black.ttf') format('truetype');
-  font-weight: $black-bold-weight;
   font-style: normal;
 }
 

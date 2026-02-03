@@ -31,7 +31,7 @@
   font-family: config.$logo-font-family;
   @include type.typesize(1);
   color: config.$white;
-  font-weight: config.$black-bold-weight;
+  font-weight: config.$base-bold-weight;
   //text-transform: uppercase;
   letter-spacing: -0.04em;
 

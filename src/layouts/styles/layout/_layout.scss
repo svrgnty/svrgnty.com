@@ -27,7 +27,7 @@
   margin: spacing.space(4) 0 0;
 
   a {
-    font-weight: config.$extra-bold-weight;
+    font-weight: config.$base-bold-weight;
   
     &:hover {
       text-decoration: underline solid config.$pill-orange 2px;
