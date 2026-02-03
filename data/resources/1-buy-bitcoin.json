@@ -54,8 +54,8 @@
         },
         {
           "label": "KYC",
-          "description": "Light KYC",
-          "category": "orange"
+          "description": "Yes",
+          "category": "red"
         },
         {
           "label": "Bitcoin Only",
