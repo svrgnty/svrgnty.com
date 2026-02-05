@@ -371,39 +371,6 @@
         }
       ],
       "image": "./../images/buy-bitcoin/sbb.jpeg"
-    },
-    {
-      "title": "Kraken",
-      "url": "https://www.kraken.com",
-      "description": "One of the most trusted cryptocurrency exchanges on the market.",
-      "details": [
-        {
-          "label": "Available",
-          "description": "Globally",
-          "category": "grey"
-        },
-        {
-          "label": "KYC",
-          "description": "Yes",
-          "category": "red"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "No",
-          "category": "red"
-        },
-        {
-          "label": "Keys",
-          "description": "Withdrawal",
-          "category": "orange"
-        },
-        {
-          "label": "Additional Info",
-          "description": "NA",
-          "category": "grey"
-        }
-      ],
-      "image": "./../images/buy-bitcoin/kraken-social.jpg"
     }
   ]
 }
