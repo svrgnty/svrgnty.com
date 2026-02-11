@@ -276,6 +276,44 @@
       "image": "./../images/bitcoin-hardware-wallets/specter-diy.jpg"
     },
     {
+      "title": "Keycard Shell",
+      "url": "https://get.keycard.tech/pages/keycard-shell",
+      "description": "Keycard is an open-source NFC hardware wallet for secure offline key storage. Keycard Shell lets you manage keys, back up, and tap-to-sign on mobile and desktop.",
+      "details" : [
+        {
+          "label": "Firmware",
+          "description": "Open-source",
+          "category": "green"
+        },
+        {
+          "label": "Hardware",
+          "description": "Open-source, No secure element",
+          "category": "green"
+        },
+        {
+          "label": "Signing",
+          "description": "QR",
+          "category": "green"
+        },
+        {
+          "label": "Bitcoin Only",
+          "description": "No",
+          "category": "orange"
+        },
+        {
+          "label": "Review",
+          "description": "NA",
+          "category": "grey"
+        },
+        {
+          "label": "Affiliate Link",
+          "description": "<a href='https://get.keycard.tech/?bg_ref=rHmuFin265' target='_blank'>Keycard store</a>",
+          "category": "referral"
+        }
+      ],
+      "image": "./../images/bitcoin-hardware-wallets/keycard.png"
+    },
+    {
       "title": "Krux",
       "url": "https://selfcustody.github.io/krux/",
       "description": "Open-source firmware that enables anyone to build a Bitcoin signing device with off-the-shelf parts such as the M5StickV and Maix Amigo.",
