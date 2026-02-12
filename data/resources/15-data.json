@@ -107,6 +107,12 @@
       "url": "https://dcainbitcoin.com/",
       "description": "See how Bitcoin dollar-cost averaging would've performed over time. Compare DCA vs lump sum, track returns, and switch between USD, GBP and EUR.",
       "image": "./../images/data/dca.png"
+    },
+    {
+      "title": "Wicked Smart Bitcoin",
+      "url": "https://wickedsmartbitcoin.com/",
+      "description": "Bitcoin Visualizations Updated Hourly/Daily.",
+      "image": "./../images/data/wicked.png"
     }
   ]
 }
