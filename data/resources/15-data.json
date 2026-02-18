@@ -55,12 +55,6 @@
       "image": "./../images/data/utxo-live.png"
     },
     {
-      "title": "Woobull Charts",
-      "url": "http://charts.woobull.com",
-      "description": "Charts for Bitcoin investors.",
-      "image": "./../images/data/woobull.png"
-    },
-    {
       "title": "Bitcoinity Data",
       "url": "http://data.bitcoinity.org",
       "description": "Markets trading volume, bitcoin price, price + volume, mining difficulty, block size, number of transactions, time between block and hashrate and other useful data.",
