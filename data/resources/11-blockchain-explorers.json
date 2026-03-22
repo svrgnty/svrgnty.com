@@ -7,6 +7,18 @@
   "iconPrefix": "fas",
   "links": [
     {
+      "title": "RowBTC - Open analytics Bitcoin Blockchain explorer",
+      "url": "https://rowbtc.com/",
+      "description": "Human-Friendly Blockchain Explorer with address labels and tags assigned by AI",
+      "image": "./../images/blockchain-explorers/rowbtc.png"
+    },
+    {
+      "title": "Explorer.Apirone.com",
+      "url": "http://explorer.apirone.com/",
+      "description": "Bitcoin Blockchain Explorer",
+      "image": "./../images/blockchain-explorers/explorer-apirone.png"
+    },
+    {
       "title": "Mempool.space",
       "url": "https://mempool.space",
       "description": "An open-source explorer developed for the Bitcoin community, focusing on the transition into a multi-layer ecosystem.",
