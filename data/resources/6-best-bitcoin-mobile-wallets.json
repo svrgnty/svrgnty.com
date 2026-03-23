@@ -10,44 +10,6 @@
   "cardType": "extended",
   "links": [
     {
-      "title": "Zeus",
-      "url": "https://zeusln.app/",
-      "description": "Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments.",
-      "details": [
-        {
-          "label": "OS",
-          "description": "Android, iOS",
-          "category": "grey"
-        },
-        {
-          "label": "Open-source",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Layers",
-          "description": "On-Chain, Lightning",
-          "category": "green"
-        },
-        {
-          "label": "Own Node",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "TOR",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Non-custodial",
-          "category": "green"
-        }
-      ],
-      "image": "./../images/bitcoin-mobile-wallets/zeus.png"
-    },
-    {
       "title": "BlueWallet",
       "url": "https://bluewallet.io",
       "description": "Bitcoin and Lightning wallet for iOS and Android with a focus on security and UX. Open-source, Segwit and HD wallets, plausible deniability, replace by fee, and full encryption.",
@@ -198,6 +160,44 @@
         }
       ],
       "image": "./../images/bitcoin-mobile-wallets/cove.png"
+    },
+        {
+      "title": "Zeus",
+      "url": "https://zeusln.app/",
+      "description": "Zeus is an open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments.",
+      "details": [
+        {
+          "label": "OS",
+          "description": "Android, iOS",
+          "category": "grey"
+        },
+        {
+          "label": "Open-source",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Layers",
+          "description": "On-Chain, Lightning",
+          "category": "green"
+        },
+        {
+          "label": "Own Node",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "TOR",
+          "description": "Yes",
+          "category": "green"
+        },
+        {
+          "label": "Additional Info",
+          "description": "Non-custodial",
+          "category": "green"
+        }
+      ],
+      "image": "./../images/bitcoin-mobile-wallets/zeus.png"
     },
     {
       "title": "Ashigaru",

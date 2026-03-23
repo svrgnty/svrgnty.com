@@ -25,7 +25,7 @@
       "image": "./../images/blockchain-explorers/jonas-explorer.png"
     },
     {
-      "title": "Bitcoin Explorer - Blockstream.info",
+      "title": "Blockstream Bitcoin Explorer",
       "url": "https://blockstream.info",
       "description": "Blockstream Explorer is an open source block explorer providing detailed blockchain data. Supports Tor and tracking-free.",
       "image": "./../images/blockchain-explorers/blockstream-explorer.png"

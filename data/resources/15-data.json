@@ -107,6 +107,12 @@
       "url": "https://wickedsmartbitcoin.com/",
       "description": "Bitcoin Visualizations Updated Hourly/Daily.",
       "image": "./../images/data/wicked.png"
+    },
+    {
+      "title": "CryptoTax Map",
+      "url": "https://www.cryptotaxmap.io/",
+      "description": "Interactive crypto tax rates, lifestyle scores, and relocation data for 170 countries.",
+      "image": "./../images/data/cryptotaxmap.png"
     }
   ]
 }

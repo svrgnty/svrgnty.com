@@ -68,16 +68,40 @@
       "image": "./../images/what-is-bitcoin/hood.png"
     },
     {
+      "title": "The Bitcoin OPtic",
+      "url": "https://thebitcoinoptic.com/",
+      "description": "Learn Bitcoin through beautiful visualizations. Explore lessons on wallets, privacy, Lightning payments, and more.",
+      "pills": [
+        {
+          "pill": "Visual learning",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/what-is-bitcoin/bitcoin-optic.png"
+    },
+    {
       "title": "Learn me a bitcoin",
       "url": "https://learnmeabitcoin.com/",
       "description": "Explains how Bitcoin works in a way that everyone can understand.",
       "pills": [
         {
-          "pill": "Read",
-          "color": "blue"
+          "pill": "Visual learning",
+          "color": "green"
         }
       ],
       "image": "./../images/what-is-bitcoin/learnmeabitcoin.png"
+    },
+    {
+      "title": "Bitcoin Inspection",
+      "url": "https://www.howbitcoin.works/",
+      "description": "Peeling back the layers of the Bitcoin protocol. Explore the math that secures the network.",
+      "pills": [
+        {
+          "pill": "Visual learning",
+          "color": "green"
+        }
+      ],
+      "image": "./../images/what-is-bitcoin/bitcoin-inspection.png"
     }
   ]
 }
