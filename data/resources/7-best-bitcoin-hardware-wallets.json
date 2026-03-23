@@ -48,7 +48,7 @@
       "image": "./../images/bitcoin-hardware-wallets/coldcard-q.png"
     },
     {
-      "title": "Coldcard Mk4",
+      "title": "Coldcard Mk5",
       "url": "https://coldcard.com/",
       "description": "Coldcard is a bitcoin hardware wallet with dual secure element, many security features, and verifiable seed generation.",
       "details" : [
@@ -74,7 +74,7 @@
         },
         {
           "label": "Review",
-          "description": "<a href='https://x.com/svrgnty/status/1672952522263101445' target='_blank'>Coldcard Mk4 review</a>",
+          "description": "NA",
           "category": "grey"
         },
         {
@@ -83,7 +83,7 @@
           "category": "referral"
         }
       ],
-      "image": "./../images/bitcoin-hardware-wallets/coldcard-mk4.png"
+      "image": "./../images/bitcoin-hardware-wallets/coldcard-mk5.png"
     },
     {
       "title": "Passport Core",
