@@ -13,9 +13,9 @@
       "image": "./../images/data/timechain-calendar.png"
     },
     {
-      "title": "Satonomics",
-      "url": "https://app.satonomics.xyz/",
-      "description": "Satonomics is a better, FOSS, Bitcoin-only, self-hostable Glassnode.",
+      "title": "Bitview",
+      "url": "https://bitview.space",
+      "description": "Bitview is a better, FOSS, Bitcoin-only, self-hostable Glassnode.",
       "image": "./../images/data/satonomics.png"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Messari",
-      "url": "https://messari.io/asset/bitcoin",
+      "url": "https://messari.io/project/bitcoin",
       "description": "Bitcoin price, news, charts, and research.",
       "image": "./../images/data/messari.png"
     },
@@ -73,9 +73,9 @@
       "image": "./../images/data/mempool.png"
     },
     {
-      "title": "Transactionfee.info",
-      "url": "https://transactionfee.info/charts/",
-      "description": "Transaction fees on the Bitcoin network.",
+      "title": "mainnet-observer",
+      "url": "https://mainnet.observer/",
+      "description": "Bitcoin Blockchain Statistics.",
       "image": "./../images/data/transactionfee.png"
     },
     {
@@ -86,13 +86,13 @@
     },
     {
       "title": "Bitcoin Treasuries",
-      "url": "https://buybitcoinworldwide.com/treasuries/",
+      "url": "https://bitbo.io/treasuries/",
       "description": "Bitcoin treasuries in publicly traded and private companies.",
       "image": "./../images/data/bitcointreasuries.png"
     },
     {
-      "title": "Look into Bitcoin",
-      "url": "https://www.lookintobitcoin.com/charts/",
+      "title": "Bitcoin Magazine Pro",
+      "url": "https://www.bitcoinmagazinepro.com/charts/",
       "description": "Live Bitcoin charts and information using market cycle and on-chain analysis.",
       "image": "./../images/data/lookintobitcoin.png"
     },
