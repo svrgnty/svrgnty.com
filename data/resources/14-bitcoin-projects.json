@@ -49,6 +49,12 @@
       "image": "./../images/bitcoin-projects/cryptography-toolkit.png"
     },
     {
+      "title": "LightningFaucet",
+      "url": "https://lightningfaucet.com/",
+      "description": "A Bitcoin Lightning rewards project with free sats, Lightning withdrawals, and optional sat-denominated games.",
+      "image": "./../images/bitcoin.png"
+    },
+    {
       "title": "HD Wallet Scanner",
       "url": "https://github.com/alexk111/HD-Wallet-Scanner",
       "description": "Find all used addresses in your bitcoin hardware wallets bypassing gap limits.",
