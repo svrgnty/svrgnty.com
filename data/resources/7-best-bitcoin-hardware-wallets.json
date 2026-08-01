@@ -616,34 +616,6 @@
         }
       ],
       "image": "./../images/bitcoin-hardware-wallets/satochip.png"
-    },
-    {
-      "title": "Satscard",
-      "url": "https://satscard.com/",
-      "description": "Not a hardware wallet. Like cash in hand, pass physical Bitcoin along multiple times. It's a wireless NFC smart-card that can hold Bitcoin. You can hand it to someone else, and then they control the balance. Simple as that.",
-      "details" : [
-        {
-          "label": "Firmware",
-          "description": "Verification code is open source",
-          "category": "orange"
-        },
-        {
-          "label": "Bitcoin Only",
-          "description": "Yes",
-          "category": "green"
-        },
-        {
-          "label": "Additional Info",
-          "description": "Bearer instrument",
-          "category": "green"
-        },
-        {
-          "label": "Affiliate Link",
-          "description": "<a href='https://store.coinkite.com/promo/20F33C4C3CD70AB2EF81' target='_blank'>Coinkite store</a>",
-          "category": "referral"
-        }
-      ],
-      "image": "./../images/bitcoin-hardware-wallets/satscard.png"
     }
   ]
 }
