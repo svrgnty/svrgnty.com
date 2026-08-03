@@ -49,12 +49,6 @@
       "image": "./../images/other-resources/kisbtc.png"
     },
     {
-      "title": "Arman The Parman's free Bitcoin Guides",
-      "url": "https://armantheparman.com/",
-      "description": "This site is dedicated to helping you progress your understanding of Bitcoin.",
-      "image": "./../images/other-resources/arman.png"
-    },
-    {
       "title": "Awesome Bitcoin",
       "url": "https://github.com/igorbarinov/awesome-bitcoin",
       "description": "A curated list of bitcoin services and tools for software developers.",
