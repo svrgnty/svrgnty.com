@@ -72,5 +72,11 @@
       "description": "How to store bitcoin without any single point of failure.",
       "image": "./../images/bitcoin-projects/btcguide.png"
     }
+    {
+  "title": "SatoshiTrails",
+  "url": "https://satoshitrailblazer.com",
+  "description": "Browser-based Bitcoin strategy toolkit for long-term stackers. Includes a DCA calculator, FIFO/HIFO/LIFO tax calculator with Form 8949 export, inheritance planner, self-custody setup guide, conviction dashboard, and stack milestones tracker. All calculations run locally — nothing leaves your browser. Three tools free; full suite $9/month.",
+  "image": "./../images/bitcoin.png"
+    }
   ]
 }
